@@ -1,0 +1,514 @@
+* CLASS ASCII OUTPUT FILE. NQ=   3   QU=  10  50  90
+    1        1    1        MSH eqs UNI  1.00000E+0001  2.00000E+0001  5.00000E+0001                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH 
+    1        1    2 Pelee Plinians UNI  3.90000E+0001  5.00000E+0001  6.00000E+0001                                                                                                             percent. classified as Plinian in stratigraphy of last 6000 years 
+    1        1    3    Global VEI5 UNI  1.00000E+0001  2.00000E+0001  3.00000E+0001                                                                                                                                       no. VEI >=5 in last 2000 years globally 
+    1        1    4  SHV extrusion UNI  1.20000E+0001  1.50000E+0001  2.00000E+0001                                                                                                                              highest non-explosive extrusion rate SHV 1995-98 
+    1        1    5 Shiveluch magm log  1.00000E+0001  5.00000E+0001  5.00000E+0002                                                                                                                   magma production rate per year in Holocene, 000's tons/year 
+    1        1    6 Kelud casualti log  2.00000E+0002  2.00000E+0003  6.00000E+0003                                                                                                                                               no. fatalities from 1919 lahars 
+    1        1    7 Hudson clast d UNI  5.00000E+0000  1.00000E+0001  2.00000E+0001                                                                                                                           max. pumice clast dimension at 50km isopleth, in mm 
+    1        1    8 Myojinsho angl UNI  2.50000E+0001  3.00000E+0001  3.50000E+0001                                                                                                                                    angle of upper slopes of submarine volcano 
+    1        1    9 Shiveluch area UNI  5.00000E+0001  1.00000E+0002  2.01000E+0002                                                                                                                                    area of AD1430 3 cu km avalanche, in sq km 
+    1        1   10    Hawaii pubs UNI  2.00000E+0001  5.00000E+0001  7.00000E+0001                                                                                                                                    no. pubs on Hawaiian-Emperor Chain in 1995 
+    1        1   11 unrest > erupt UNI  2.00000E+0000  1.00000E+0001  3.00000E+0001 
+    1        1   12      intraclad UNI  1.00000E+0001  4.00000E+0001  6.00000E+0001 
+    1        1   13          flank UNI  1.00000E+0001  3.00000E+0001  6.00000E+0001 
+    1        1   14      submarine UNI  1.00000E+0001  3.00000E+0001  5.00000E+0001 
+    1        1   15  dist offshore UNI  2.00000E+0000  5.00000E+0000  1.00000E+0001 
+    1        1   16     IC Plinian UNI  0.00000E+0000  5.00000E+0000  1.00000E+0001 
+    1        1   17  IC sub Plin I UNI  2.00000E+0001  4.60000E+0001  7.00000E+0001 
+    1        1   18 IC sub Plin II UNI  2.00000E+0001  4.50000E+0001  7.00000E+0001 
+    1        1   19        IC dome UNI  0.00000E+0000  2.00000E+0000  1.00000E+0001 
+    1        1   20 IC Phreat non- UNI  0.00000E+0000  2.00000E+0000  1.00000E+0001 
+    1        1   21  Fl sub Plin I UNI  0.00000E+0000  1.00000E-0002  1.00000E+0000 
+    1        1   22 Fl sub Plin II UNI  0.00000E+0000  1.00000E-0001  1.00000E+0000 
+    1        1   23        Fl dome UNI  0.00000E+0000  8.00000E+0000  2.00000E+0001 
+    1        1   24      Fl stromb UNI  5.00000E+0001  9.00000E+0001  1.00000E+0002 
+    1        1   25    Fl phreatic UNI  0.00000E+0000  1.89000E+0000  5.00000E+0000 
+    1        1   26  subm emergent UNI  3.00000E+0001  7.00000E+0001  1.00000E+0002 
+    1        1   27 subm non-emerg UNI  1.00000E+0001  3.00000E+0001  5.00000E+0001 
+    2        2    1        MSH eqs UNI  2.00000E+0001  5.00000E+0001  5.00000E+0002                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH 
+    2        2    2 Pelee Plinians UNI  1.00000E-0003  2.00000E+0001  5.00000E+0001 
+    2        2    3    Global VEI5 UNI  1.80000E+0002  2.00000E+0002  3.50000E+0002 
+    2        2    4  SHV extrusion UNI  1.00000E-0001  4.00000E+0001  1.00000E+0002 
+    2        2    5 Shiveluch magm log  1.00000E+0000  3.00000E+0001  1.00000E+0002 
+    2        2    6 Kelud casualti log  1.00000E+0003  1.00000E+0004  2.50000E+0004 
+    2        2    7 Hudson clast d UNI  5.00000E+0001  1.50000E+0002  5.00000E+0002 
+    2        2    8 Myojinsho angl UNI  2.00000E+0001  3.00000E+0001  3.50000E+0001 
+    2        2    9 Shiveluch area UNI  5.00000E+0000  2.00000E+0001  3.50000E+0001 
+    2        2   10    Hawaii pubs UNI  1.00000E+0000  5.00000E+0000  2.00000E+0001 
+    2        2   11 unrest > erupt UNI  2.50000E+0001  6.00000E+0001  7.50000E+0001 
+    2        2   12      intraclad UNI  2.00000E+0001  3.00000E+0001  5.00000E+0001 
+    2        2   13          flank UNI  2.00000E+0001  3.00000E+0001  5.00000E+0001 
+    2        2   14      submarine UNI  1.00000E+0001  4.00000E+0001  8.00000E+0001 
+    2        2   15  dist offshore UNI  5.00000E+0000  6.00000E+0000  7.00000E+0000 
+    2        2   16     IC Plinian UNI  0.00000E+0000  1.00000E+0000  2.00000E+0000 
+    2        2   17  IC sub Plin I UNI  3.00000E+0001  4.50000E+0001  7.00000E+0001 
+    2        2   18 IC sub Plin II UNI  2.00000E+0001  4.50000E+0001  8.00000E+0001 
+    2        2   19        IC dome UNI  0.00000E+0000  2.00000E+0000  3.00000E+0000 
+    2        2   20 IC Phreat non- UNI  0.00000E+0000  7.00000E+0000  2.00000E+0001 
+    2        2   21  Fl sub Plin I UNI  0.00000E+0000  1.00000E+0000  2.00000E+0000 
+    2        2   22 Fl sub Plin II UNI  0.00000E+0000  2.00000E+0000  5.00000E+0000 
+    2        2   23        Fl dome UNI  0.00000E+0000  2.00000E+0000  5.00000E+0000 
+    2        2   24      Fl stromb UNI  7.00000E+0001  9.00000E+0001  1.00000E+0002 
+    2        2   25    Fl phreatic UNI  0.00000E+0000  5.00000E+0000  1.00000E+0001 
+    2        2   26  subm emergent UNI  2.00000E+0001  6.00000E+0001  8.00000E+0001 
+    2        2   27 subm non-emerg UNI  2.00000E+0001  4.00000E+0001  9.00000E+0001 
+    3        3    1        MSH eqs UNI  5.00000E+0001  1.50000E+0002  5.00000E+0002                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH 
+    3        3    2 Pelee Plinians UNI  3.00000E+0001  6.00000E+0001  7.50000E+0001 
+    3        3    3    Global VEI5 UNI  2.00000E+0000  3.00000E+0000  5.00000E+0000 
+    3        3    4  SHV extrusion UNI  5.00000E+0001  1.00000E+0003  1.00000E+0004 
+    3        3    5 Shiveluch magm log  5.00000E+0000  2.50000E+0001  5.00000E+0001 
+    3        3    6 Kelud casualti log  5.00000E+0004  5.00000E+0005  1.00000E+0006 
+    3        3    7 Hudson clast d UNI  4.00000E+0001  6.00000E+0001  8.00000E+0001 
+    3        3    8 Myojinsho angl UNI  5.50000E+0001  6.00000E+0001  8.00000E+0001 
+    3        3    9 Shiveluch area UNI  9.00000E+0001  5.00000E+0002  1.00000E+0003 
+    3        3   10    Hawaii pubs UNI  5.00000E+0000  1.50000E+0001  3.00000E+0001 
+    3        3   11 unrest > erupt UNI  0.00000E+0000  5.00000E+0001  7.50000E+0001 
+    3        3   12      intraclad UNI  1.00000E+0001  3.00000E+0001  8.00000E+0001 
+    3        3   13          flank UNI  2.00000E+0001  4.00000E+0001  6.00000E+0001 
+    3        3   14      submarine UNI  1.00000E+0001  3.00000E+0001  5.00000E+0001 
+    3        3   15  dist offshore UNI  5.00000E+0000  1.00000E+0001  1.50000E+0001 
+    3        3   16     IC Plinian UNI  1.00000E+0001  3.50000E+0001  9.00000E+0001 
+    3        3   17  IC sub Plin I UNI  5.00000E+0000  2.00000E+0001  5.00000E+0001 
+    3        3   18 IC sub Plin II UNI  0.00000E+0000  2.50000E+0001  3.00000E+0001 
+    3        3   19        IC dome UNI  0.00000E+0000  1.50000E+0001  4.00000E+0001 
+    3        3   20 IC Phreat non- UNI  0.00000E+0000  5.00000E+0000  2.00000E+0001 
+    3        3   21  Fl sub Plin I UNI  0.00000E+0000  3.00000E+0000  2.00000E+0001 
+    3        3   22 Fl sub Plin II UNI  0.00000E+0000  5.00000E+0000  4.00000E+0001 
+    3        3   23        Fl dome UNI  5.00000E+0000  2.00000E+0001  2.50000E+0001 
+    3        3   24      Fl stromb UNI  6.00000E+0001  7.00000E+0001  1.00000E+0002 
+    3        3   25    Fl phreatic UNI  0.00000E+0000  2.00000E+0000  1.00000E+0001 
+    3        3   26  subm emergent UNI  5.00000E+0001  7.50000E+0001  1.00000E+0002 
+    3        3   27 subm non-emerg UNI  0.00000E+0000  2.50000E+0001  5.00000E+0001 
+    4        4    1        MSH eqs UNI  5.00000E+0001  1.00000E+0002  3.00000E+0002                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH 
+    4        4    2 Pelee Plinians UNI  4.00000E+0001  6.00000E+0001  8.00000E+0001 
+    4        4    3    Global VEI5 UNI  3.00000E+0000  4.00000E+0000  5.00000E+0000 
+    4        4    4  SHV extrusion UNI  1.00000E-0003  1.00000E-0002  1.00000E-0001 
+    4        4    5 Shiveluch magm log  1.00000E+0003  1.00000E+0004  1.00000E+0005 
+    4        4    6 Kelud casualti log  4.00000E+0002  6.00000E+0002  1.00000E+0003 
+    4        4    7 Hudson clast d UNI  1.00000E+0001  1.50000E+0001  2.00000E+0001 
+    4        4    8 Myojinsho angl UNI  2.50000E+0001  3.00000E+0001  4.00000E+0001 
+    4        4    9 Shiveluch area UNI  9.00000E+0001  1.20000E+0002  1.50000E+0002 
+    4        4   10    Hawaii pubs UNI  4.00000E+0001  5.00000E+0001  7.00000E+0001 
+    4        4   11 unrest > erupt UNI  1.00000E+0001  5.00000E+0001  1.00000E+0002 
+    4        4   12      intraclad UNI  1.00000E+0001  2.00000E+0001  3.50000E+0001 
+    4        4   13          flank UNI  9.00000E+0000  1.00000E+0001  4.00000E+0001 
+    4        4   14      submarine UNI  3.00000E+0001  7.00000E+0001  9.00000E+0001 
+    4        4   15  dist offshore UNI  1.00000E+0000  5.00000E+0000  1.00000E+0001 
+    4        4   16     IC Plinian UNI  1.00000E+0000  2.00000E+0000  1.00000E+0001 
+    4        4   17  IC sub Plin I UNI  2.00000E+0001  4.80000E+0001  6.00000E+0001 
+    4        4   18 IC sub Plin II UNI  2.00000E+0001  3.00000E+0001  6.00000E+0001 
+    4        4   19        IC dome UNI  1.00000E+0000  1.00000E+0001  3.00000E+0001 
+    4        4   20 IC Phreat non- UNI  1.00000E+0000  1.00000E+0001  2.00000E+0001 
+    4        4   21  Fl sub Plin I UNI  0.00000E+0000  1.00000E+0000  5.00000E+0000 
+    4        4   22 Fl sub Plin II UNI  0.00000E+0000  1.00000E+0000  5.00000E+0000 
+    4        4   23        Fl dome UNI  1.00000E+0001  2.30000E+0001  5.00000E+0001 
+    4        4   24      Fl stromb UNI  6.00000E+0001  7.00000E+0001  1.00000E+0002 
+    4        4   25    Fl phreatic UNI  0.00000E+0000  5.00000E+0000  1.00000E+0001 
+    4        4   26  subm emergent UNI  6.00000E+0001  7.00000E+0001  1.00000E+0002 
+    4        4   27 subm non-emerg UNI  1.00000E+0000  3.00000E+0001  5.00000E+0001 
+    5        5    1        MSH eqs UNI  5.00000E+0002  1.00000E+0003  5.00000E+0003                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH 
+    5        5    2 Pelee Plinians UNI  2.00000E+0001  4.00000E+0001  5.00000E+0001 
+    5        5    3    Global VEI5 UNI  1.00000E+0000  2.00000E+0000  4.00000E+0000 
+    5        5    4  SHV extrusion UNI  5.00000E+0000  2.50000E+0001  5.00000E+0001 
+    5        5    5 Shiveluch magm log  1.00000E+0001  2.00000E+0001  5.00000E+0001 
+    5        5    6 Kelud casualti log  1.00000E+0002  1.00000E+0003  5.00000E+0003 
+    5        5    7 Hudson clast d UNI  1.00000E+0001  4.00000E+0001  8.00000E+0001 
+    5        5    8 Myojinsho angl UNI  1.50000E+0001  2.50000E+0001  3.50000E+0001 
+    5        5    9 Shiveluch area UNI  1.00000E+0001  2.00000E+0001  3.00000E+0001 
+    5        5   10    Hawaii pubs UNI  1.00000E+0001  2.00000E+0001  5.00000E+0001 
+    5        5   11 unrest > erupt UNI  2.00000E+0001  3.50000E+0001  6.00000E+0001 
+    5        5   12      intraclad UNI  3.50000E+0001  5.00000E+0001  6.00000E+0001 
+    5        5   13          flank UNI  2.00000E+0001  3.00000E+0001  6.00000E+0001 
+    5        5   14      submarine UNI  1.00000E+0001  2.00000E+0001  6.00000E+0001 
+    5        5   15  dist offshore UNI  0.00000E+0000  5.00000E+0000  1.00000E+0001 
+    5        5   16     IC Plinian UNI  1.00000E+0000  2.00000E+0000  2.50000E+0000 
+    5        5   17  IC sub Plin I UNI  3.50000E+0001  4.80000E+0001  5.50000E+0001 
+    5        5   18 IC sub Plin II UNI  3.50000E+0001  4.20000E+0001  6.00000E+0001 
+    5        5   19        IC dome UNI  2.00000E+0000  5.00000E+0000  1.00000E+0001 
+    5        5   20 IC Phreat non- UNI  1.00000E+0000  3.00000E+0000  1.20000E+0001 
+    5        5   21  Fl sub Plin I UNI  2.00000E+0000  5.00000E+0000  1.00000E+0001 
+    5        5   22 Fl sub Plin II UNI  2.00000E+0000  5.00000E+0000  1.00000E+0001 
+    5        5   23        Fl dome UNI  5.00000E+0000  1.00000E+0001  2.50000E+0001 
+    5        5   24      Fl stromb UNI  6.00000E+0001  7.50000E+0001  8.50000E+0001 
+    5        5   25    Fl phreatic UNI  2.00000E+0000  5.00000E+0000  1.50000E+0001 
+    5        5   26  subm emergent UNI  5.00000E+0001  6.00000E+0001  7.50000E+0001 
+    5        5   27 subm non-emerg UNI  3.00000E+0001  4.00000E+0001  6.00000E+0001 
+    6        6    1        MSH eqs UNI  3.00000E+0002  3.95000E+0002  5.00000E+0002                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH 
+    6        6    2 Pelee Plinians UNI  1.00000E+0001  2.00000E+0001  4.00000E+0001 
+    6        6    3    Global VEI5 UNI  4.00000E+0002  8.00000E+0002  1.20000E+0003 
+    6        6    4  SHV extrusion UNI  5.00000E+0000  1.00000E+0001  1.50000E+0001 
+    6        6    5 Shiveluch magm log  5.00000E+0001  1.00000E+0002  2.00000E+0002 
+    6        6    6 Kelud casualti log  1.50000E+0003  4.00000E+0003  6.00000E+0003 
+    6        6    7 Hudson clast d UNI  3.00000E+0003  5.00000E+0003  6.00000E+0003 
+    6        6    8 Myojinsho angl UNI  2.50000E+0001  3.00000E+0001  4.00000E+0001 
+    6        6    9 Shiveluch area UNI  2.50000E+0001  5.00000E+0001  5.50000E+0001 
+    6        6   10    Hawaii pubs UNI  8.00000E+0000  1.00000E+0001  1.50000E+0001 
+    6        6   11 unrest > erupt UNI  2.50000E+0001  4.50000E+0001  6.00000E+0001 
+    6        6   12      intraclad UNI  5.00000E+0001  6.00000E+0001  7.00000E+0001 
+    6        6   13          flank UNI  1.50000E+0001  3.00000E+0001  4.00000E+0001 
+    6        6   14      submarine UNI  1.00000E+0001  2.00000E+0001  4.00000E+0001 
+    6        6   15  dist offshore UNI  5.00000E+0000  7.00000E+0000  1.00000E+0001 
+    6        6   16     IC Plinian UNI  7.00000E+0000  1.50000E+0001  2.40000E+0001 
+    6        6   17  IC sub Plin I UNI  2.00000E+0001  3.30000E+0001  4.60000E+0001 
+    6        6   18 IC sub Plin II UNI  1.50000E+0001  3.50000E+0001  4.00000E+0001 
+    6        6   19        IC dome UNI  4.00000E+0000  7.00000E+0000  1.50000E+0001 
+    6        6   20 IC Phreat non- UNI  4.00000E+0000  1.00000E+0001  1.70000E+0001 
+    6        6   21  Fl sub Plin I UNI  4.00000E+0000  6.00000E+0000  1.50000E+0001 
+    6        6   22 Fl sub Plin II UNI  7.00000E+0000  1.30000E+0001  1.60000E+0001 
+    6        6   23        Fl dome UNI  8.00000E+0000  2.60000E+0001  3.50000E+0001 
+    6        6   24      Fl stromb UNI  3.00000E+0001  4.00000E+0001  5.00000E+0001 
+    6        6   25    Fl phreatic UNI  6.00000E+0000  1.50000E+0001  2.00000E+0001 
+    6        6   26  subm emergent UNI  5.00000E+0001  7.25000E+0001  8.00000E+0001 
+    6        6   27 subm non-emerg UNI  1.00000E+0001  2.75000E+0001  3.00000E+0001 
+    7        7    1        MSH eqs UNI  1.50000E+0001  3.00000E+0001  6.00000E+0001                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH 
+    7        7    2 Pelee Plinians UNI  1.50000E+0001  2.00000E+0001  2.30000E+0001 
+    7        7    3    Global VEI5 UNI  1.00000E+0002  1.50000E+0002  5.00000E+0002 
+    7        7    4  SHV extrusion UNI  3.00000E+0000  8.00000E+0000  1.50000E+0001 
+    7        7    5 Shiveluch magm log  5.00000E+0001  1.50000E+0002  2.80000E+0002 
+    7        7    6 Kelud casualti log  2.00000E+0003  1.00000E+0004  2.00000E+0004 
+    7        7    7 Hudson clast d UNI  2.00000E+0001  8.00000E+0001  2.00000E+0002 
+    7        7    8 Myojinsho angl UNI  2.00000E+0001  4.00000E+0001  5.00000E+0001 
+    7        7    9 Shiveluch area UNI  8.00000E+0002  1.50000E+0003  5.00000E+0003 
+    7        7   10    Hawaii pubs UNI  3.00000E+0000  8.00000E+0000  2.50000E+0001 
+    7        7   11 unrest > erupt UNI  2.50000E+0001  4.00000E+0001  6.50000E+0001 
+    7        7   12      intraclad UNI  2.50000E+0001  3.00000E+0001  4.00000E+0001 
+    7        7   13          flank UNI  1.00000E+0001  2.00000E+0001  3.00000E+0001 
+    7        7   14      submarine UNI  2.50000E+0001  5.00000E+0001  6.00000E+0001 
+    7        7   15  dist offshore UNI  5.00000E+0000  6.00000E+0000  8.00000E+0000 
+    7        7   16     IC Plinian UNI  3.00000E-0001  1.00000E+0000  2.00000E+0000 
+    7        7   17  IC sub Plin I UNI  2.50000E+0001  3.50000E+0001  5.00000E+0001 
+    7        7   18 IC sub Plin II UNI  2.50000E+0001  3.00000E+0001  6.00000E+0001 
+    7        7   19        IC dome UNI  5.00000E+0000  8.00000E+0000  1.50000E+0001 
+    7        7   20 IC Phreat non- UNI  2.00000E+0000  2.60000E+0001  6.00000E+0001 
+    7        7   21  Fl sub Plin I UNI  1.00000E-0003  5.00000E-0003  9.00000E-0003 
+    7        7   22 Fl sub Plin II UNI  1.00000E-0002  4.50000E-0002  1.00000E-0001 
+    7        7   23        Fl dome UNI  5.00000E+0000  3.00000E+0001  3.50000E+0001 
+    7        7   24      Fl stromb UNI  5.00000E+0001  6.50000E+0001  8.50000E+0001 
+    7        7   25    Fl phreatic UNI  3.00000E+0000  4.95000E+0000  2.00000E+0001 
+    7        7   26  subm emergent UNI  2.50000E+0001  3.00000E+0001  6.00000E+0001 
+    7        7   27 subm non-emerg UNI  3.50000E+0001  7.00000E+0001  7.50000E+0001 
+    8        8    1        MSH eqs UNI  5.00000E+0002  1.00000E+0003  1.50000E+0003                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH 
+    8        8    2 Pelee Plinians UNI  5.00000E+0001  7.00000E+0001  8.00000E+0001 
+    8        8    3    Global VEI5 UNI  3.00000E+0002  4.50000E+0002  8.00000E+0002 
+    8        8    4  SHV extrusion UNI  1.00000E+0002  1.50000E+0003  2.00000E+0003 
+    8        8    5 Shiveluch magm log  1.00000E+0003  2.80000E+0004  6.00000E+0006 
+    8        8    6 Kelud casualti log  5.00000E+0003  3.00000E+0004  8.00000E+0004 
+    8        8    7 Hudson clast d UNI  2.50000E+0002  3.50000E+0002  6.00000E+0002 
+    8        8    8 Myojinsho angl UNI  1.00000E+0001  2.50000E+0001  3.50000E+0001 
+    8        8    9 Shiveluch area UNI  3.00000E+0001  1.00000E+0002  3.00000E+0002 
+    8        8   10    Hawaii pubs UNI  5.00000E+0000  4.00000E+0001  6.00000E+0001 
+    8        8   11 unrest > erupt UNI  5.00000E+0000  3.00000E+0001  5.50000E+0001 
+    8        8   12      intraclad UNI  2.00000E+0001  4.00000E+0001  7.00000E+0001 
+    8        8   13          flank UNI  1.00000E+0001  3.00000E+0001  7.00000E+0001 
+    8        8   14      submarine UNI  1.00000E+0001  3.00000E+0001  5.00000E+0001 
+    8        8   15  dist offshore UNI  0.00000E+0000  5.00000E+0000  1.00000E+0001 
+    8        8   16     IC Plinian UNI  3.00000E+0000  7.00000E+0000  1.30000E+0001 
+    8        8   17  IC sub Plin I UNI  1.50000E+0001  3.70000E+0001  9.00000E+0001 
+    8        8   18 IC sub Plin II UNI  6.00000E+0000  2.70000E+0001  3.50000E+0001 
+    8        8   19        IC dome UNI  3.00000E+0000  1.70000E+0001  2.80000E+0001 
+    8        8   20 IC Phreat non- UNI  0.00000E+0000  1.20000E+0001  2.50000E+0001 
+    8        8   21  Fl sub Plin I UNI  0.00000E+0000  8.00000E+0000  1.70000E+0001 
+    8        8   22 Fl sub Plin II UNI  4.00000E+0000  8.00000E+0000  1.70000E+0001 
+    8        8   23        Fl dome UNI  8.00000E+0000  2.40000E+0001  3.20000E+0001 
+    8        8   24      Fl stromb UNI  2.40000E+0001  4.80000E+0001  7.20000E+0001 
+    8        8   25    Fl phreatic UNI  0.00000E+0000  1.20000E+0001  1.60000E+0001 
+    8        8   26  subm emergent UNI  1.00000E+0001  4.00000E+0001  5.00000E+0001 
+    8        8   27 subm non-emerg UNI  2.00000E+0001  6.00000E+0001  7.00000E+0001 
+    9        9    1        MSH eqs UNI  1.00000E+0002  5.00000E+0002  1.00000E+0004                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH 
+    9        9    2 Pelee Plinians UNI  5.00000E+0000  1.00000E+0001  1.50000E+0001 
+    9        9    3    Global VEI5 UNI  5.00000E+0000  1.00000E+0001  3.00000E+0001 
+    9        9    4  SHV extrusion UNI  1.00000E+0002  2.50000E+0002  5.00000E+0002 
+    9        9    5 Shiveluch magm log  8.00000E+0000  1.20000E+0001  5.00000E+0001 
+    9        9    6 Kelud casualti log  2.00000E+0003  5.00000E+0003  1.00000E+0004 
+    9        9    7 Hudson clast d UNI  2.00000E+0000  8.00000E+0000  1.50000E+0001 
+    9        9    8 Myojinsho angl UNI  1.00000E+0001  2.00000E+0001  3.50000E+0001 
+    9        9    9 Shiveluch area UNI  1.50000E+0003  3.00000E+0003  4.50000E+0003 
+    9        9   10    Hawaii pubs UNI  1.00000E+0001  5.00000E+0001  1.00000E+0002 
+    9        9   11 unrest > erupt UNI  5.00000E+0001  6.00000E+0001  8.00000E+0001 
+    9        9   12      intraclad UNI  4.00000E+0001  5.00000E+0001  7.00000E+0001 
+    9        9   13          flank UNI  2.00000E+0001  3.00000E+0001  4.00000E+0001 
+    9        9   14      submarine UNI  1.00000E+0001  2.00000E+0001  3.00000E+0001 
+    9        9   15  dist offshore UNI  1.00000E+0000  5.00000E+0000  1.00000E+0001 
+    9        9   16     IC Plinian UNI  5.00000E+0000  1.00000E+0001  1.50000E+0001 
+    9        9   17  IC sub Plin I UNI  3.00000E+0001  4.50000E+0001  5.00000E+0001 
+    9        9   18 IC sub Plin II UNI  3.00000E+0001  4.00000E+0001  5.50000E+0001 
+    9        9   19        IC dome UNI  1.00000E+0000  3.00000E+0000  5.00000E+0000 
+    9        9   20 IC Phreat non- UNI  1.00000E+0000  2.00000E+0000  5.00000E+0000 
+    9        9   21  Fl sub Plin I UNI  1.00000E+0000  2.00000E+0000  3.00000E+0000 
+    9        9   22 Fl sub Plin II UNI  1.00000E+0000  3.00000E+0000  4.00000E+0000 
+    9        9   23        Fl dome UNI  1.00000E+0000  2.00000E+0000  3.00000E+0000 
+    9        9   24      Fl stromb UNI  8.50000E+0001  9.10000E+0001  1.00000E+0002 
+    9        9   25    Fl phreatic UNI  1.00000E+0000  2.00000E+0000  3.00000E+0000 
+    9        9   26  subm emergent UNI  1.00000E+0001  2.00000E+0001  3.00000E+0001 
+    9        9   27 subm non-emerg UNI  7.00000E+0001  8.00000E+0001  9.00000E+0001 
+   10       10    1        MSH eqs UNI  5.00000E+0003  2.50000E+0004  6.00000E+0004                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH 
+   10       10    2 Pelee Plinians UNI  2.50000E+0001  5.00000E+0001  9.00000E+0001 
+   10       10    3    Global VEI5 UNI  1.00000E+0001  3.00000E+0001  7.50000E+0001 
+   10       10    4  SHV extrusion UNI  5.00000E+0000  1.50000E+0001  3.00000E+0001 
+   10       10    5 Shiveluch magm log  1.00000E+0000  5.00000E+0000  2.00000E+0001 
+   10       10    6 Kelud casualti log  1.00000E+0001  5.00000E+0001  1.00000E+0002 
+   10       10    7 Hudson clast d UNI  5.00000E+0000  1.00000E+0001  5.00000E+0001 
+   10       10    8 Myojinsho angl UNI  2.00000E+0001  4.50000E+0001  7.00000E+0001 
+   10       10    9 Shiveluch area UNI  5.00000E+0000  1.50000E+0001  3.00000E+0001 
+   10       10   10    Hawaii pubs UNI  1.00000E+0001  4.00000E+0001  9.00000E+0001 
+   10       10   11 unrest > erupt UNI  2.00000E+0001  5.00000E+0001  7.50000E+0001 
+   10       10   12      intraclad UNI  5.00000E+0000  3.00000E+0001  6.00000E+0001 
+   10       10   13          flank UNI  3.00000E+0000  1.50000E+0001  4.50000E+0001 
+   10       10   14      submarine UNI  5.00000E+0000  3.30000E+0001  6.00000E+0001 
+   10       10   15  dist offshore UNI  1.00000E+0001  4.00000E+0001  1.00000E+0002 
+   10       10   16     IC Plinian UNI  1.00000E+0000  5.00000E+0000  2.00000E+0001 
+   10       10   17  IC sub Plin I UNI  1.50000E+0001  4.50000E+0001  7.00000E+0001 
+   10       10   18 IC sub Plin II UNI  1.00000E+0001  4.00000E+0001  7.50000E+0001 
+   10       10   19        IC dome UNI  1.00000E+0000  5.00000E+0000  2.00000E+0001 
+   10       10   20 IC Phreat non- UNI  5.00000E-0002  2.00000E+0000  1.00000E+0001 
+   10       10   21  Fl sub Plin I UNI  0.00000E+0000  5.00000E-0001  1.00000E+0000 
+   10       10   22 Fl sub Plin II UNI  0.00000E+0000  5.00000E-0001  1.00000E+0000 
+   10       10   23        Fl dome UNI  2.00000E+0001  4.00000E+0001  7.00000E+0001 
+   10       10   24      Fl stromb UNI  3.00000E+0001  5.85000E+0001  8.50000E+0001 
+   10       10   25    Fl phreatic UNI  0.00000E+0000  5.00000E-0001  1.00000E+0000 
+   10       10   26  subm emergent UNI  5.00000E+0001  8.00000E+0001  9.00000E+0001 
+   10       10   27 subm non-emerg UNI  5.00000E+0000  2.00000E+0001  2.50000E+0001 
+   11       11    1        MSH eqs UNI  5.00000E+0002  3.00000E+0003  5.00000E+0003                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH 
+   11       11    2 Pelee Plinians UNI  3.00000E+0001  6.00000E+0001  9.00000E+0001 
+   11       11    3    Global VEI5 UNI  0.00000E+0000  2.00000E+0000  3.00000E+0000 
+   11       11    4  SHV extrusion UNI  2.00000E+0002  4.00000E+0002  1.50000E+0003 
+   11       11    5 Shiveluch magm log  1.00000E+0002  5.00000E+0002  1.00000E+0003 
+   11       11    6 Kelud casualti log  4.00000E+0001  5.50000E+0002  5.00000E+0003 
+   11       11    7 Hudson clast d UNI  3.00000E+0001  1.00000E+0002  3.00000E+0002 
+   11       11    8 Myojinsho angl UNI  2.00000E+0001  3.00000E+0001  4.50000E+0001 
+   11       11    9 Shiveluch area UNI  5.00000E-0001  2.00000E+0000  4.00000E+0000 
+   11       11   10    Hawaii pubs UNI  1.00000E+0001  2.00000E+0001  4.00000E+0001 
+   11       11   11 unrest > erupt UNI  2.00000E+0001  5.00000E+0001  8.00000E+0001 
+   11       11   12      intraclad UNI  1.00000E+0001  3.00000E+0001  8.00000E+0001 
+   11       11   13          flank UNI  2.00000E+0001  5.00000E+0001  8.00000E+0001 
+   11       11   14      submarine UNI  1.00000E+0001  2.00000E+0001  6.00000E+0001 
+   11       11   15  dist offshore UNI  1.00000E+0000  5.00000E+0000  1.00000E+0001 
+   11       11   16     IC Plinian UNI  5.00000E+0000  1.00000E+0001  8.00000E+0001 
+   11       11   17  IC sub Plin I UNI  1.00000E+0001  4.50000E+0001  5.00000E+0001 
+   11       11   18 IC sub Plin II UNI  1.00000E+0001  4.00000E+0001  4.50000E+0001 
+   11       11   19        IC dome UNI  1.00000E+0000  4.00000E+0000  6.50000E+0001 
+   11       11   20 IC Phreat non- UNI  0.00000E+0000  1.00000E+0000  4.50000E+0001 
+   11       11   21  Fl sub Plin I UNI  5.00000E+0000  1.00000E+0001  7.50000E+0001 
+   11       11   22 Fl sub Plin II UNI  5.00000E+0000  1.00000E+0001  7.50000E+0001 
+   11       11   23        Fl dome UNI  5.00000E+0000  1.00000E+0001  4.50000E+0001 
+   11       11   24      Fl stromb UNI  4.00000E+0001  6.00000E+0001  9.50000E+0001 
+   11       11   25    Fl phreatic UNI  3.00000E+0000  1.00000E+0001  3.00000E+0001 
+   11       11   26  subm emergent UNI  2.00000E+0001  9.70000E+0001  1.00000E+0002 
+   11       11   27 subm non-emerg UNI  1.00000E+0000  3.00000E+0000  1.00000E+0001 
+   12       12    1        MSH eqs UNI  1.50000E+0004  1.60000E+0004  1.70000E+0004                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH 
+   12       12    2 Pelee Plinians UNI  2.50000E+0001  5.00000E+0001  7.50000E+0001 
+   12       12    3    Global VEI5 UNI  2.00000E+0000  5.00000E+0000  1.50000E+0001 
+   12       12    4  SHV extrusion UNI  3.00000E+0000  1.00000E+0001  3.00000E+0002 
+   12       12    5 Shiveluch magm log  1.00000E+0002  1.00000E+0003  3.00000E+0003 
+   12       12    6 Kelud casualti log  1.00000E+0000  2.90000E+0001  3.00000E+0002 
+   12       12    7 Hudson clast d UNI  5.00000E+0000  5.00000E+0001  1.00000E+0002 
+   12       12    8 Myojinsho angl UNI  1.50000E+0001  2.00000E+0001  3.00000E+0001 
+   12       12    9 Shiveluch area UNI  2.00000E+0000  3.00000E+0000  6.00000E+0000 
+   12       12   10    Hawaii pubs UNI  2.00000E+0000  5.00000E+0000  2.00000E+0001 
+   12       12   11 unrest > erupt UNI  2.00000E+0001  5.00000E+0001  7.00000E+0001 
+   12       12   12      intraclad UNI  1.00000E+0001  3.00000E+0001  8.00000E+0001 
+   12       12   13          flank UNI  5.00000E+0000  3.00000E+0001  6.00000E+0001 
+   12       12   14      submarine UNI  1.50000E+0001  4.00000E+0001  8.00000E+0001 
+   12       12   15  dist offshore UNI  1.00000E+0000  5.00000E+0000  1.00000E+0001 
+   12       12   16     IC Plinian UNI  3.00000E+0000  2.00000E+0001  3.50000E+0001 
+   12       12   17  IC sub Plin I UNI  9.00000E+0000  4.00000E+0001  4.50000E+0001 
+   12       12   18 IC sub Plin II UNI  8.00000E+0000  3.00000E+0001  4.00000E+0001 
+   12       12   19        IC dome UNI  1.00000E+0000  8.00000E+0000  3.00000E+0001 
+   12       12   20 IC Phreat non- UNI  1.00000E+0000  2.00000E+0000  5.00000E+0000 
+   12       12   21  Fl sub Plin I UNI  1.00000E-0001  2.00000E-0001  3.00000E-0001 
+   12       12   22 Fl sub Plin II UNI  1.00000E-0001  2.00000E-0001  3.00000E-0001 
+   12       12   23        Fl dome UNI  5.00000E+0000  6.00000E+0000  2.00000E+0001 
+   12       12   24      Fl stromb UNI  7.00000E+0001  9.00000E+0001  1.00000E+0002 
+   12       12   25    Fl phreatic UNI  1.00000E+0000  3.60000E+0000  1.00000E+0001 
+   12       12   26  subm emergent UNI  1.00000E+0001  4.00000E+0001  6.00000E+0001 
+   12       12   27 subm non-emerg UNI  4.00000E+0001  6.00000E+0001  7.00000E+0001 
+   13       13    1        MSH eqs UNI  7.50000E+0001  1.25000E+0002  2.00000E+0002                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH 
+   13       13    2 Pelee Plinians UNI  5.00000E+0001  7.50000E+0001  8.00000E+0001 
+   13       13    3    Global VEI5 UNI  8.00000E+0000  1.00000E+0001  1.20000E+0001 
+   13       13    4  SHV extrusion UNI  9.00000E+0008  1.00000E+0009  1.50000E+0009 
+   13       13    5 Shiveluch magm log  1.00000E+0002  3.00000E+0002  5.00000E+0002 
+   13       13    6 Kelud casualti log  1.00000E+0002  1.75000E+0002  3.00000E+0002 
+   13       13    7 Hudson clast d UNI  5.00000E+0000  1.00000E+0002  1.50000E+0002 
+   13       13    8 Myojinsho angl UNI  5.00000E+0000  1.50000E+0001  4.50000E+0001 
+   13       13    9 Shiveluch area UNI  5.00000E-0001  3.00000E+0000  6.00000E+0000 
+   13       13   10    Hawaii pubs UNI  1.00000E+0001  2.00000E+0001  8.00000E+0001 
+   13       13   11 unrest > erupt UNI  3.00000E+0001  5.30000E+0001  6.00000E+0001 
+   13       13   12      intraclad UNI  6.00000E+0001  6.60000E+0001  8.00000E+0001 
+   13       13   13          flank UNI  2.00000E+0001  2.20000E+0001  4.00000E+0001 
+   13       13   14      submarine UNI  1.00000E+0001  1.20000E+0001  3.00000E+0001 
+   13       13   15  dist offshore UNI  1.00000E+0001  1.10000E+0001  2.00000E+0001 
+   13       13   16     IC Plinian UNI  8.00000E+0000  1.30000E+0001  2.80000E+0001 
+   13       13   17  IC sub Plin I UNI  2.30000E+0001  3.80000E+0001  5.30000E+0001 
+   13       13   18 IC sub Plin II UNI  2.30000E+0001  3.80000E+0001  6.30000E+0001 
+   13       13   19        IC dome UNI  1.00000E+0000  8.00000E+0000  1.30000E+0001 
+   13       13   20 IC Phreat non- UNI  0.00000E+0000  3.00000E+0000  3.30000E+0001 
+   13       13   21  Fl sub Plin I UNI  0.00000E+0000  8.00000E+0000  1.30000E+0001 
+   13       13   22 Fl sub Plin II UNI  8.00000E+0000  2.80000E+0001  3.80000E+0001 
+   13       13   23        Fl dome UNI  3.00000E+0000  2.30000E+0001  3.80000E+0001 
+   13       13   24      Fl stromb UNI  1.80000E+0001  3.80000E+0001  4.80000E+0001 
+   13       13   25    Fl phreatic UNI  0.00000E+0000  3.00000E+0000  1.80000E+0001 
+   13       13   26  subm emergent UNI  6.60000E+0001  8.00000E+0001  1.00000E+0002 
+   13       13   27 subm non-emerg UNI  1.00000E+0001  2.00000E+0001  2.40000E+0001 
+   14       14    1        MSH eqs UNI  3.00000E+0001  7.50000E+0001  2.00000E+0002                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH 
+   14       14    2 Pelee Plinians UNI  3.00000E+0001  7.50000E+0001  9.00000E+0001 
+   14       14    3    Global VEI5 UNI  3.00000E+0000  6.00000E+0000  1.00000E+0001 
+   14       14    4  SHV extrusion UNI  8.50000E+0008  1.00000E+0009  1.40000E+0009 
+   14       14    5 Shiveluch magm log  7.50000E+0001  1.85000E+0002  2.60000E+0002 
+   14       14    6 Kelud casualti log  6.00000E+0001  1.50000E+0002  3.00000E+0002 
+   14       14    7 Hudson clast d UNI  8.00000E+0000  7.50000E+0001  9.00000E+0001 
+   14       14    8 Myojinsho angl UNI  5.00000E+0000  1.30000E+0001  4.50000E+0001 
+   14       14    9 Shiveluch area UNI  5.00000E-0001  2.00000E+0000  4.50000E+0000 
+   14       14   10    Hawaii pubs UNI  1.00000E+0001  1.90000E+0001  3.00000E+0001 
+   14       14   11 unrest > erupt UNI -9.99600E+0002 -9.99600E+0002 -9.99600E+0002 
+   14       14   12      intraclad UNI -9.99600E+0002 -9.99600E+0002 -9.99600E+0002 
+   14       14   13          flank UNI -9.99600E+0002 -9.99600E+0002 -9.99600E+0002 
+   14       14   14      submarine UNI -9.99600E+0002 -9.99600E+0002 -9.99600E+0002 
+   14       14   15  dist offshore UNI -9.99600E+0002 -9.99600E+0002 -9.99600E+0002 
+   14       14   16     IC Plinian UNI -9.99600E+0002 -9.99600E+0002 -9.99600E+0002 
+   14       14   17  IC sub Plin I UNI -9.99600E+0002 -9.99600E+0002 -9.99600E+0002 
+   14       14   18 IC sub Plin II UNI -9.99600E+0002 -9.99600E+0002 -9.99600E+0002 
+   14       14   19        IC dome UNI -9.99600E+0002 -9.99600E+0002 -9.99600E+0002 
+   14       14   20 IC Phreat non- UNI -9.99600E+0002 -9.99600E+0002 -9.99600E+0002 
+   14       14   21  Fl sub Plin I UNI -9.99600E+0002 -9.99600E+0002 -9.99600E+0002 
+   14       14   22 Fl sub Plin II UNI -9.99600E+0002 -9.99600E+0002 -9.99600E+0002 
+   14       14   23        Fl dome UNI -9.99600E+0002 -9.99600E+0002 -9.99600E+0002 
+   14       14   24      Fl stromb UNI -9.99600E+0002 -9.99600E+0002 -9.99600E+0002 
+   14       14   25    Fl phreatic UNI -9.99600E+0002 -9.99600E+0002 -9.99600E+0002 
+   14       14   26  subm emergent UNI -9.99600E+0002 -9.99600E+0002 -9.99600E+0002 
+   14       14   27 subm non-emerg UNI -9.99600E+0002 -9.99600E+0002 -9.99600E+0002 
+   15       15    1        MSH eqs UNI  5.00000E+0001  3.00000E+0002  5.00000E+0002                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH 
+   15       15    2 Pelee Plinians UNI  1.00000E+0001  2.50000E+0001  3.50000E+0001 
+   15       15    3    Global VEI5 UNI  1.00000E+0000  3.00000E+0000  5.00000E+0000 
+   15       15    4  SHV extrusion UNI  7.50000E+0001  1.25000E+0002  3.00000E+0002 
+   15       15    5 Shiveluch magm log  1.20000E+0000  4.00000E+0000  7.00000E+0000 
+   15       15    6 Kelud casualti log  1.00000E+0002  2.50000E+0002  4.00000E+0002 
+   15       15    7 Hudson clast d UNI  3.00000E+0001  4.00000E+0001  6.50000E+0001 
+   15       15    8 Myojinsho angl UNI  5.00000E+0000  1.20000E+0001  2.00000E+0001 
+   15       15    9 Shiveluch area UNI  8.00000E+0000  1.50000E+0001  2.20000E+0001 
+   15       15   10    Hawaii pubs UNI  2.00000E+0000  5.00000E+0000  7.00000E+0000 
+   15       15   11 unrest > erupt UNI -9.99600E+0002 -9.99600E+0002 -9.99600E+0002 
+   15       15   12      intraclad UNI -9.99600E+0002 -9.99600E+0002 -9.99600E+0002 
+   15       15   13          flank UNI -9.99600E+0002 -9.99600E+0002 -9.99600E+0002 
+   15       15   14      submarine UNI -9.99600E+0002 -9.99600E+0002 -9.99600E+0002 
+   15       15   15  dist offshore UNI -9.99600E+0002 -9.99600E+0002 -9.99600E+0002 
+   15       15   16     IC Plinian UNI -9.99600E+0002 -9.99600E+0002 -9.99600E+0002 
+   15       15   17  IC sub Plin I UNI -9.99600E+0002 -9.99600E+0002 -9.99600E+0002 
+   15       15   18 IC sub Plin II UNI -9.99600E+0002 -9.99600E+0002 -9.99600E+0002 
+   15       15   19        IC dome UNI -9.99600E+0002 -9.99600E+0002 -9.99600E+0002 
+   15       15   20 IC Phreat non- UNI -9.99600E+0002 -9.99600E+0002 -9.99600E+0002 
+   15       15   21  Fl sub Plin I UNI -9.99600E+0002 -9.99600E+0002 -9.99600E+0002 
+   15       15   22 Fl sub Plin II UNI -9.99600E+0002 -9.99600E+0002 -9.99600E+0002 
+   15       15   23        Fl dome UNI -9.99600E+0002 -9.99600E+0002 -9.99600E+0002 
+   15       15   24      Fl stromb UNI -9.99600E+0002 -9.99600E+0002 -9.99600E+0002 
+   15       15   25    Fl phreatic UNI -9.99600E+0002 -9.99600E+0002 -9.99600E+0002 
+   15       15   26  subm emergent UNI -9.99600E+0002 -9.99600E+0002 -9.99600E+0002 
+   15       15   27 subm non-emerg UNI -9.99600E+0002 -9.99600E+0002 -9.99600E+0002 
+   16       16    1        MSH eqs UNI  5.00000E+0002  1.50000E+0003  2.50000E+0003                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH 
+   16       16    2 Pelee Plinians UNI  2.00000E+0000  5.00000E+0000  7.00000E+0000 
+   16       16    3    Global VEI5 UNI  1.00000E+0003  3.00000E+0003  5.00000E+0003 
+   16       16    4  SHV extrusion UNI  2.00000E-0001  2.00000E+0000  1.00000E+0001 
+   16       16    5 Shiveluch magm log  1.00000E+0002  1.00000E+0003  1.00000E+0004 
+   16       16    6 Kelud casualti log  5.00000E+0003  2.00000E+0004  3.00000E+0004 
+   16       16    7 Hudson clast d UNI  1.00000E+0000  5.00000E+0000  2.50000E+0001 
+   16       16    8 Myojinsho angl UNI  2.00000E+0001  3.00000E+0001  3.50000E+0001 
+   16       16    9 Shiveluch area UNI  5.00000E+0001  2.00000E+0002  3.00000E+0002 
+   16       16   10    Hawaii pubs UNI  4.00000E+0002  6.00000E+0002  1.00000E+0003 
+   16       16   11 unrest > erupt UNI  5.00000E-0001  1.00000E+0000  3.00000E+0000 
+   16       16   12      intraclad UNI  5.00000E+0001  6.50000E+0001  7.50000E+0001 
+   16       16   13          flank UNI  1.50000E+0001  2.00000E+0001  3.00000E+0001 
+   16       16   14      submarine UNI  5.00000E+0000  1.50000E+0001  2.50000E+0001 
+   16       16   15  dist offshore UNI  3.00000E+0000  5.00000E+0000  8.00000E+0000 
+   16       16   16     IC Plinian UNI  1.00000E-0001  1.00000E+0000  1.50000E+0000 
+   16       16   17  IC sub Plin I UNI  3.00000E+0001  4.50000E+0001  5.70000E+0001 
+   16       16   18 IC sub Plin II UNI  4.00000E+0001  5.30000E+0001  6.00000E+0001 
+   16       16   19        IC dome UNI  1.00000E-0001  6.00000E-0001  1.00000E+0000 
+   16       16   20 IC Phreat non- UNI  1.00000E-0001  4.00000E-0001  1.00000E+0000 
+   16       16   21  Fl sub Plin I UNI  0.00000E+0000  3.00000E-0001  5.00000E-0001 
+   16       16   22 Fl sub Plin II UNI  0.00000E+0000  3.00000E-0001  5.00000E-0001 
+   16       16   23        Fl dome UNI  1.00000E+0000  2.00000E+0000  5.00000E+0000 
+   16       16   24      Fl stromb UNI  9.50000E+0001  9.70000E+0001  9.90000E+0001 
+   16       16   25    Fl phreatic UNI  0.00000E+0000  4.00000E-0001  8.00000E-0001 
+   16       16   26  subm emergent UNI  5.00000E+0000  1.00000E+0001  2.50000E+0001 
+   16       16   27 subm non-emerg UNI  8.00000E+0001  9.00000E+0001  9.50000E+0001 
+   17       17    1        MSH eqs UNI  0.00000E+0000  1.00000E+0002  5.00000E+0003                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH 
+   17       17    2 Pelee Plinians UNI  4.00000E+0000  7.00000E+0000  1.70000E+0001 
+   17       17    3    Global VEI5 UNI  2.00000E+0000  6.00000E+0000  2.00000E+0001 
+   17       17    4  SHV extrusion UNI  1.00000E+0001  2.50000E+0002  5.00000E+0003 
+   17       17    5 Shiveluch magm log  1.00000E+0001  5.00000E+0001  2.00000E+0002 
+   17       17    6 Kelud casualti log  1.00000E+0002  2.00000E+0004  1.50000E+0005 
+   17       17    7 Hudson clast d UNI  8.00000E+0001  6.00000E+0002  1.00000E+0003 
+   17       17    8 Myojinsho angl UNI  3.00000E+0000  8.00000E+0000  1.50000E+0001 
+   17       17    9 Shiveluch area UNI  7.50000E+0001  2.00000E+0002  8.00000E+0002 
+   17       17   10    Hawaii pubs UNI  5.00000E+0000  2.00000E+0001  2.51000E+0002 
+   17       17   11 unrest > erupt UNI  4.00000E+0000  1.20000E+0001  2.50000E+0001 
+   17       17   12      intraclad UNI  2.00000E+0001  4.40000E+0001  6.00000E+0001 
+   17       17   13          flank UNI  1.00000E+0001  3.40000E+0001  5.00000E+0001 
+   17       17   14      submarine UNI  1.00000E+0001  2.20000E+0001  4.50000E+0001 
+   17       17   15  dist offshore UNI  1.00000E+0000  5.00000E+0000  1.00000E+0001 
+   17       17   16     IC Plinian UNI  5.00000E+0000  1.00000E+0001  1.50000E+0001 
+   17       17   17  IC sub Plin I UNI  2.00000E+0001  4.00000E+0001  6.00000E+0001 
+   17       17   18 IC sub Plin II UNI  3.00000E+0001  4.00000E+0001  6.50000E+0001 
+   17       17   19        IC dome UNI  1.00000E+0000  4.00000E+0000  8.00000E+0000 
+   17       17   20 IC Phreat non- UNI  2.00000E+0000  6.00000E+0000  1.00000E+0001 
+   17       17   21  Fl sub Plin I UNI  9.00000E-0001  1.00000E+0000  3.00000E+0000 
+   17       17   22 Fl sub Plin II UNI  2.00000E+0000  7.00000E+0000  1.50000E+0001 
+   17       17   23        Fl dome UNI  1.00000E+0000  2.00000E+0000  5.00000E+0000 
+   17       17   24      Fl stromb UNI  4.50000E+0001  8.00000E+0001  9.50000E+0001 
+   17       17   25    Fl phreatic UNI  3.00000E+0000  1.00000E+0001  2.00000E+0001 
+   17       17   26  subm emergent UNI  5.00000E+0000  2.50000E+0001  5.00000E+0001 
+   17       17   27 subm non-emerg UNI  5.00000E+0001  7.50000E+0001  9.00000E+0001 
+   18       18    1        MSH eqs UNI  3.00000E+0002  1.82500E+0003  9.12500E+0003                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH 
+   18       18    2 Pelee Plinians UNI  1.00000E+0001  2.00000E+0001  3.00000E+0001 
+   18       18    3    Global VEI5 UNI  8.00000E+0000  1.50000E+0001  2.00000E+0001 
+   18       18    4  SHV extrusion UNI  9.00000E-0002  5.00000E-0001  8.00000E-0001 
+   18       18    5 Shiveluch magm log  2.00000E-0001  5.00000E-0001  1.00000E+0000 
+   18       18    6 Kelud casualti log  7.00000E+0003  2.00000E+0004  5.00000E+0004 
+   18       18    7 Hudson clast d UNI  1.00000E+0000  1.00000E+0001  5.00000E+0001 
+   18       18    8 Myojinsho angl UNI  5.00000E+0000  1.00000E+0001  3.00000E+0001 
+   18       18    9 Shiveluch area UNI  1.00000E+0001  2.00000E+0001  3.00000E+0001 
+   18       18   10    Hawaii pubs UNI  5.00000E+0002  2.00000E+0003  5.00000E+0003 
+   18       18   11 unrest > erupt UNI  4.00000E+0001  5.00000E+0001  7.00000E+0001 
+   18       18   12      intraclad UNI  2.40000E+0001  4.50000E+0001  5.50000E+0001 
+   18       18   13          flank UNI  1.20000E+0001  3.00000E+0001  4.50000E+0001 
+   18       18   14      submarine UNI  1.20000E+0001  2.50000E+0001  3.60000E+0001 
+   18       18   15  dist offshore UNI  1.00000E+0000  5.00000E+0000  1.00000E+0001 
+   18       18   16     IC Plinian UNI  1.60000E+0001  1.70000E+0001  2.20000E+0001 
+   18       18   17  IC sub Plin I UNI  1.80000E+0001  2.40000E+0001  2.70000E+0001 
+   18       18   18 IC sub Plin II UNI  1.90000E+0001  2.50000E+0001  2.70000E+0001 
+   18       18   19        IC dome UNI  1.60000E+0001  1.70000E+0001  2.20000E+0001 
+   18       18   20 IC Phreat non- UNI  1.60000E+0001  1.70000E+0001  2.20000E+0001 
+   18       18   21  Fl sub Plin I UNI  1.60000E+0001  2.00000E+0001  2.40000E+0001 
+   18       18   22 Fl sub Plin II UNI  1.40000E+0001  2.20000E+0001  3.00000E+0001 
+   18       18   23        Fl dome UNI  2.00000E+0001  2.40000E+0001  3.00000E+0001 
+   18       18   24      Fl stromb UNI  1.60000E+0001  3.00000E+0001  4.00000E+0001 
+   18       18   25    Fl phreatic UNI  1.00000E+0000  4.00000E+0000  8.00000E+0000 
+   18       18   26  subm emergent UNI  1.30000E+0001  2.50000E+0001  5.00000E+0001 
+   18       18   27 subm non-emerg UNI  2.50000E+0001  7.50000E+0001  1.00000E+0002 
+   19       19    1        MSH eqs UNI  1.00000E-0001  1.00000E+0001  1.00000E+0003                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH 
+   19       19    2 Pelee Plinians UNI  1.00000E-0001  2.00000E+0001  4.10000E+0001 
+   19       19    3    Global VEI5 UNI  1.00000E+0002  1.00000E+0003  1.00000E+0004 
+   19       19    4  SHV extrusion UNI  1.00000E+0001  1.40000E+0001  2.00000E+0001 
+   19       19    5 Shiveluch magm log  1.00000E+0000  1.00000E+0002  1.00000E+0005 
+   19       19    6 Kelud casualti log  5.00000E+0001  5.00000E+0003  2.00000E+0004 
+   19       19    7 Hudson clast d UNI  3.00000E+0001  2.00000E+0002  5.00000E+0002 
+   19       19    8 Myojinsho angl UNI  2.00000E+0001  4.00000E+0001  5.00000E+0001 
+   19       19    9 Shiveluch area UNI  1.99000E+0002  5.00000E+0002  8.00000E+0002 
+   19       19   10    Hawaii pubs UNI  1.00000E+0003  3.00000E+0003  1.00000E+0004 
+   19       19   11 unrest > erupt UNI  1.00000E+0001  5.00000E+0001  9.00000E+0001 
+   19       19   12      intraclad UNI  1.00000E+0001  4.00000E+0001  8.00000E+0001 
+   19       19   13          flank UNI  5.00000E+0000  2.00000E+0001  5.00000E+0001 
+   19       19   14      submarine UNI  1.00000E+0001  4.00000E+0001  8.00000E+0001 
+   19       19   15  dist offshore UNI  1.00000E+0000  5.00000E+0000  1.00000E+0001 
+   19       19   16     IC Plinian UNI  0.00000E+0000  2.00000E+0000  5.00000E+0000 
+   19       19   17  IC sub Plin I UNI  1.00000E+0001  4.50000E+0001  9.00000E+0001 
+   19       19   18 IC sub Plin II UNI  1.00000E+0001  4.60000E+0001  9.00000E+0001 
+   19       19   19        IC dome UNI  0.00000E+0000  2.00000E+0000  8.00000E+0000 
+   19       19   20 IC Phreat non- UNI  0.00000E+0000  5.00000E+0000  1.00000E+0001 
+   19       19   21  Fl sub Plin I UNI  1.00000E-0002  1.00000E-0001  2.00000E-0001 
+   19       19   22 Fl sub Plin II UNI  1.00000E-0002  2.00000E-0001  5.00000E-0001 
+   19       19   23        Fl dome UNI  1.00000E-0002  4.70000E+0000  8.00000E+0000 
+   19       19   24      Fl stromb UNI  6.00000E+0001  9.00000E+0001  9.90000E+0001 
+   19       19   25    Fl phreatic UNI  0.00000E+0000  5.00000E+0000  1.00000E+0001 
+   19       19   26  subm emergent UNI  5.00000E+0001  8.00000E+0001  9.50000E+0001 
+   19       19   27 subm non-emerg UNI  2.00000E+0000  2.00000E+0001  5.00000E+0001 

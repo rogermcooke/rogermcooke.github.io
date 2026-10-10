@@ -1,0 +1,417 @@
+* CLASS ASCII OUTPUT FILE. NQ=   3   QU=   5  50  95
+    1       e1    1            QI1 uni  1.28000E+0002  1.92000E+0002  2.56000E+0002      If today you are using  a 128-bit crytographic key, how many bits would you need to use in six years in order to maintain the same level of security as you enjoy today? 
+    1       e1    2            QI2 uni  1.00000E-0001  5.00000E-0001  9.00000E-0001                                                                                                                          How likely is an attack on a system to be succesful? 
+    1       e1    3            QI3 uni  1.00000E-0003  1.00000E-0002  1.00000E-0001                                                                                       if a system is succesfully attacked, how likely is it that the attack will be detected? 
+    1       e1    4            QI4 uni  1.00000E-0003  5.00000E-0002  1.00000E-0001                              How likely is a succesful attack on a system to be detected and reported to authorities by managers responsible for the securtity of the system? 
+    1       e1    5            QI5 uni  3.20000E-0002  5.00000E-0001  5.00000E+0000                                                     how long would it take a brute force attack by a single computer on a 56-bit cryptographic key to recover the key?(HOURS) 
+    1       e1    6            QI6 uni  1.60000E-0002  1.00000E+0000  1.00000E+0001                                    How long would it take a brute force attack by a distributed network of computers on a 56-bit cryptographic key to recover the key?(Hours) 
+    1       e1    7            QI7 uni  2.50000E-0001  1.00000E+0000  2.00000E+0000                                                                               How much more attack activity can we expect this year than last in attack per company per week? 
+    1       e1    8            QI8 uni  0.00000E+0000  1.00000E-0001  2.50000E-0001                                            how much likely , if at all, is a company with more than 500 employees to be attacked than a company with less than 500 employees? 
+    1       e1    9            QI9 uni  1.00000E-0003  1.00000E-0002  1.00000E-0001                                             Does he nature of the business matter?how much more often are public companies attacked than private or not-for profit companies? 
+    1       e1   10           QI10 uni  1.00000E-0002  1.00000E-0001  2.50000E-0001                                             What percentage of vulnerabilities in computer systems and networks are easy to exploit, requiring only moderate computer skills? 
+    1       e1   11           QII1 uni  5.55000E-0004  2.80000E-0003  1.66000E-0001                                                                                                                    How long do I have to wait before the first attack?(HOURS) 
+    1       e1   12           QII2 uni  5.55000E-0004  2.80000E-0003  1.66000E-0001                                                                                            How long do I have to wait after the first attack before the second attack occurs? 
+    1       e1   13           QII3 uni  1.00000E+0000  2.40000E+0001  2.40000E+0002                                                                                                                How long do I have to wait before the first successful attack? 
+    1       e1   14           QII4 uni  1.00000E+0000  2.40000E+0001  2.40000E+0002                                                                              How long do I wait after the first successful attack before the second successful attack occurs? 
+    1       e1   15           QII5 uni  1.00000E+0000  1.92000E+0002  7.68000E+0002                                                                                                                          How fast does the security software become obsolete? 
+    1       e1   16           QII6 uni  1.00000E+0006  1.00000E+0007  1.00000E+0008                                                                                                                       How many attempted attacks can you expect in one month? 
+    1       e1   17           QII7 uni  3.00000E+0000  3.00000E+0001  6.50000E+0002                                                                                                                        How many successful attacks can I expect in one month? 
+    1       e1   18          QIII1 uni  5.55000E-0004  2.80000E-0003  1.66000E-0001                                                                                                                           How long do I have to wait before the first attack? 
+    1       e1   19          QIII2 uni  5.55000E-0004  2.80000E-0003  1.66000E-0001                                                                                            How long do I have to wait after the first attack before the second attack occurs? 
+    1       e1   20          QIII3 uni  3.20000E-0001  6.00000E+0000  4.80000E+0001                                                                                                                        how long do I wait before the first successful attack? 
+    1       e1   21          QIII4 uni  3.20000E-0001  6.00000E+0000  4.80000E+0001                                                                              How long do I wait after the first successful attack before the second successful attack occurs? 
+    1       e1   22          QIII5 uni  1.00000E+0000  1.92000E+0002  7.68000E+0002                                                                                                                         How fast does the security software  become obsolete? 
+    1       e1   23          QIII6 uni  1.00000E+0003  1.00000E+0004  1.00000E+0005                                                                                                                       how many attempted attacks can you expect in one month? 
+    1       e1   24          QIII7 uni  1.50000E+0001  6.00000E+0001  1.00000E+0003                                                                                                                        How many successful attacks can I expect in one month? 
+    1       e1   25          QIII8 uni  1.00000E+0001  1.00000E+0002  1.00000E+0003                                                                                                                        How frequently do the attacks ocuur?(attacks per hour) 
+    1       e1   26           QIV1 uni  5.55000E-0004  2.80000E-0003  1.66000E-0001                                                                                                                           How long do I have to wait before the first attack? 
+    1       e1   27           QIV2 uni  5.55000E-0004  2.80000E-0003  1.66000E-0001                                                                                            how long do I have to wait after the first attack before the second attack ocuurs? 
+    1       e1   28           QIV3 uni  8.30000E-0003  1.60000E-0002  8.30000E-0002                                                                                                                        How long do I wait before the fisrt successful attack? 
+    1       e1   29           QIV4 uni  8.30000E-0003  1.60000E-0002  8.30000E-0002                                                                              How long do I wait after the first successful attack before the second successful attack occurs? 
+    1       e1   30           QIV5 uni  1.00000E+0003  1.00000E+0004  1.00000E+0005                                                                                                                       how many attempted attacks can you expect in one month? 
+    1       e1   31           QIV6 uni  5.00000E+0002  1.00000E+0003  1.00000E+0004                                                                                                                         How many succesful attacks can I expect in one month? 
+    1       e1   32           QIV7 uni  1.00000E+0001  1.00000E+0002  1.00000E+0003                                                                                                                        How frequently do the attacks occur?(attacks per Hour) 
+    2       e2    1            QI1 uni  1.28000E+0002  3.84000E+0002  6.40000E+0002      If today you are using  a 128-bit crytographic key, how many bits would you need to use in six years in order to maintain the same level of security as you enjoy today? 
+    2       e2    2            QI2 uni  5.00000E-0002  1.00000E-0001  3.00000E-0001 
+    2       e2    3            QI3 uni  3.00000E-0001  4.00000E-0001  6.00000E-0001 
+    2       e2    4            QI4 uni  4.00000E-0001  5.00000E-0001  7.50000E-0001 
+    2       e2    5            QI5 uni  1.60000E-0002  8.30000E-0002  1.12000E-0001 
+    2       e2    6            QI6 uni  2.80000E-0003  1.60000E-0002  2.49000E-0002 
+    2       e2    7            QI7 uni  4.00000E+0000  5.00000E+0000  7.00000E+0000 
+    2       e2    8            QI8 uni  8.00000E+0000  1.00000E+0001  1.50000E+0001 
+    2       e2    9            QI9 uni  1.00000E-0004  2.00000E-0004  3.00000E-0004 
+    2       e2   10           QI10 uni  6.00000E-0001  7.50000E-0001  8.00000E-0001 
+    2       e2   11           QII1 uni  2.80000E-0003  4.16000E-0003  8.30000E-0002 
+    2       e2   12           QII2 uni  2.80000E-0003  4.16000E-0003  8.30000E-0002 
+    2       e2   13           QII3 uni  1.92000E+0002  3.84000E+0002  7.68000E+0002 
+    2       e2   14           QII4 uni  4.16000E-0003  1.00000E+0000  2.00000E+0000 
+    2       e2   15           QII5 uni  1.92000E+0002  3.84000E+0002  7.68000E+0002 
+    2       e2   16           QII6 uni  7.00000E+0006  8.00000E+0006  1.00000E+0007 
+    2       e2   17           QII7 uni  5.00000E+0001  1.00000E+0002  1.50000E+0002 
+    2       e2   18          QIII1 uni  2.80000E-0003  4.16000E-0003  8.30000E-0002 
+    2       e2   19          QIII2 uni  2.80000E-0003  4.16000E-0003  8.30000E-0002 
+    2       e2   20          QIII3 uni  1.60000E-0002  8.30000E-0002  1.66000E-0001 
+    2       e2   21          QIII4 uni  4.16000E-0003  5.50000E-0003  8.30000E-0003 
+    2       e2   22          QIII5 uni  1.92000E+0002  3.84000E+0002  7.68000E+0002 
+    2       e2   23          QIII6 uni  7.00000E+0006  8.00000E+0006  1.00000E+0007 
+    2       e2   24          QIII7 uni  7.50000E+0002  1.00000E+0003  1.50000E+0003 
+    2       e2   25          QIII8 uni  5.15000E+0002  7.22000E+0002  1.80500E+0003 
+    2       e2   26           QIV1 uni  2.80000E-0003  4.16000E-0003  8.30000E-0002 
+    2       e2   27           QIV2 uni  2.80000E-0003  4.16000E-0003  8.30000E-0002 
+    2       e2   28           QIV3 uni  2.80000E-0003  4.16000E-0003  8.30000E-0002 
+    2       e2   29           QIV4 uni  1.38000E-0003  2.80000E-0003  4.16000E-0003 
+    2       e2   30           QIV5 uni  1.40000E+0007  1.60000E+0007  2.00000E+0007 
+    2       e2   31           QIV6 uni  3.00000E+0003  4.00000E+0003  5.00000E+0003 
+    2       e2   32           QIV7 uni  5.15000E+0002  7.22000E+0002  1.80500E+0003 
+    3       e3    1            QI1 uni  2.56000E+0002  3.84000E+0002  5.12000E+0002      If today you are using  a 128-bit crytographic key, how many bits would you need to use in six years in order to maintain the same level of security as you enjoy today? 
+    3       e3    2            QI2 uni  5.00000E-0001  7.50000E-0001  9.00000E-0001 
+    3       e3    3            QI3 uni  1.00000E-0002  4.00000E-0002  1.00000E-0001 
+    3       e3    4            QI4 uni  1.00000E-0002  5.00000E-0002  2.00000E-0001 
+    3       e3    5            QI5 uni  1.00000E+0000  2.40000E+0001  1.92000E+0002 
+    3       e3    6            QI6 uni  5.00000E-0001  2.00000E+0000  2.40000E+0001 
+    3       e3    7            QI7 uni  2.50000E-0001  1.00000E+0000  1.50000E+0000 
+    3       e3    8            QI8 uni  1.00000E-0001  2.50000E-0001  3.00000E-0001 
+    3       e3    9            QI9 uni  0.00000E+0000  1.00000E-0001  2.50000E-0001 
+    3       e3   10           QI10 uni  5.00000E-0001  6.00000E-0001  7.50000E-0001 
+    3       e3   11           QII1 uni  1.66000E-0001  5.00000E-0001  1.00000E+0000 
+    3       e3   12           QII2 uni  1.66000E-0001  5.00000E-0001  1.00000E+0000 
+    3       e3   13           QII3 uni  1.92000E+0002  7.68000E+0002  2.30400E+0003 
+    3       e3   14           QII4 uni  7.68000E+0002  4.60800E+0003  6.91200E+0003 
+    3       e3   15           QII5 uni  9.21600E+0003  1.38240E+0004  1.84320E+0004 
+    3       e3   16           QII6 uni  3.00000E+0003  5.00000E+0003  1.00000E+0004 
+    3       e3   17           QII7 uni  1.00000E+0000  3.00000E+0000  5.00000E+0000 
+    3       e3   18          QIII1 uni  1.66000E-0001  5.00000E-0001  1.00000E+0000 
+    3       e3   19          QIII2 uni  1.66000E-0001  5.00000E-0001  1.00000E+0000 
+    3       e3   20          QIII3 uni  7.20000E+0001  3.84000E+0002  7.68000E+0002 
+    3       e3   21          QIII4 uni  3.84000E+0002  7.68000E+0002  1.53600E+0003 
+    3       e3   22          QIII5 uni  2.30400E+0003  4.60800E+0003  9.21600E+0003 
+    3       e3   23          QIII6 uni  3.00000E+0003  5.00000E+0003  1.00000E+0004 
+    3       e3   24          QIII7 uni  5.00000E+0000  1.50000E+0001  2.50000E+0001 
+    3       e3   25          QIII8 uni  1.00000E+0001  6.00000E+0001  1.00000E+0002 
+    3       e3   26           QIV1 uni  1.66000E-0001  5.00000E-0001  1.00000E+0000 
+    3       e3   27           QIV2 uni  1.66000E-0001  5.00000E-0001  1.00000E+0000 
+    3       e3   28           QIV3 uni  6.00000E+0000  1.20000E+0001  2.40000E+0001 
+    3       e3   29           QIV4 uni  1.00000E+0000  3.00000E+0000  6.00000E+0000 
+    3       e3   30           QIV5 uni  3.00000E+0003  5.00000E+0003  1.00000E+0004 
+    3       e3   31           QIV6 uni  5.00000E+0001  7.50000E+0001  1.00000E+0002 
+    3       e3   32           QIV7 uni  1.00000E+0001  6.00000E+0001  1.00000E+0002 
+    4       e4    1            QI1 uni  1.28000E+0002  2.56000E+0002  1.02400E+0003      If today you are using  a 128-bit crytographic key, how many bits would you need to use in six years in order to maintain the same level of security as you enjoy today? 
+    4       e4    2            QI2 uni  2.50000E-0001  5.00000E-0001  7.50000E-0001 
+    4       e4    3            QI3 uni  1.00000E-0001  2.00000E-0001  4.00000E-0001 
+    4       e4    4            QI4 uni  1.00000E-0001  2.00000E-0001  5.00000E-0001 
+    4       e4    5            QI5 uni  3.84000E+0002  7.68000E+0002  2.30400E+0003 
+    4       e4    6            QI6 uni  7.20000E+0001  3.84000E+0002  7.68000E+0002 
+    4       e4    7            QI7 uni  1.00000E-0001  1.50000E-0001  2.00000E-0001 
+    4       e4    8            QI8 uni  1.00000E+0000  2.00000E+0000  3.00000E+0000 
+    4       e4    9            QI9 uni  1.00000E-0004  2.00000E-0004  1.00000E+0000 
+    4       e4   10           QI10 uni  3.00000E-0001  7.00000E-0001  9.00000E-0001 
+    4       e4   11           QII1 uni  8.00000E+0000  2.40000E+0001  4.80000E+0001 
+    4       e4   12           QII2 uni  8.00000E+0000  1.60000E+0001  2.40000E+0001 
+    4       e4   13           QII3 uni  7.20000E+0001  1.20000E+0002  2.16000E+0002 
+    4       e4   14           QII4 uni  4.00000E+0000  8.00000E+0000  2.40000E+0001 
+    4       e4   15           QII5 uni  2.30400E+0003  4.60800E+0003  1.84320E+0004 
+    4       e4   16           QII6 uni  3.00000E+0001  7.00000E+0001  1.20000E+0002 
+    4       e4   17           QII7 uni  3.00000E+0000  5.00000E+0000  1.00000E+0001 
+    4       e4   18          QIII1 uni  4.00000E+0000  1.80000E+0001  2.40000E+0001 
+    4       e4   19          QIII2 uni  4.00000E+0000  1.20000E+0001  1.80000E+0001 
+    4       e4   20          QIII3 uni  4.80000E+0001  1.20000E+0002  2.40000E+0002 
+    4       e4   21          QIII4 uni  4.00000E+0000  8.00000E+0000  2.40000E+0001 
+    4       e4   22          QIII5 uni  2.30400E+0003  4.60800E+0003  1.84320E+0004 
+    4       e4   23          QIII6 uni  3.00000E+0001  9.00000E+0001  1.20000E+0002 
+    4       e4   24          QIII7 uni  1.00000E+0001  1.50000E+0001  2.00000E+0001 
+    4       e4   25          QIII8 uni  2.08300E-0001  4.16700E-0001  8.33330E-0001 
+    4       e4   26           QIV1 uni  4.00000E+0000  8.00000E+0000  2.40000E+0001 
+    4       e4   27           QIV2 uni  2.00000E+0000  4.00000E+0000  8.00000E+0000 
+    4       e4   28           QIV3 uni  1.00000E+0000  2.00000E+0000  3.00000E+0000 
+    4       e4   29           QIV4 uni  5.00000E-0001  2.00000E+0000  4.00000E+0000 
+    4       e4   30           QIV5 uni  2.00000E+0001  8.00000E+0001  1.20000E+0002 
+    4       e4   31           QIV6 uni  1.80000E+0001  7.00000E+0001  1.00000E+0002 
+    4       e4   32           QIV7 uni  4.16700E-0001  8.33330E-0001  1.25000E+0000 
+    5       e5    1            QI1 uni  1.28000E+0002  1.92000E+0002  2.56000E+0002      If today you are using  a 128-bit crytographic key, how many bits would you need to use in six years in order to maintain the same level of security as you enjoy today? 
+    5       e5    2            QI2 uni  1.00000E-0005  2.00000E-0005  3.00000E-0005 
+    5       e5    3            QI3 uni  1.00000E-0005  2.00000E-0005  3.00000E-0005 
+    5       e5    4            QI4 uni  1.00000E-0005  2.00000E-0005  3.00000E-0005 
+    5       e5    5            QI5 uni  1.66000E-0001  2.50000E-0001  3.20000E-0001 
+    5       e5    6            QI6 uni  2.50000E-0001  3.20000E-0001  4.00000E-0001 
+    5       e5    7            QI7 uni  1.00000E-0001  2.50000E-0001  5.00000E-0001 
+    5       e5    8            QI8 uni  2.50000E-0001  5.00000E-0001  7.50000E-0001 
+    5       e5    9            QI9 uni  1.00000E-0005  2.00000E-0005  3.00000E-0005 
+    5       e5   10           QI10 uni  2.50000E-0001  5.00000E-0001  7.50000E-0001 
+    5       e5   11           QII1 uni  2.50000E-0001  2.40000E+0001  1.92000E+0002 
+    5       e5   12           QII2 uni  2.50000E-0001  2.40000E+0001  1.92000E+0002 
+    5       e5   13           QII3 uni  5.00000E-0001  1.00000E+0000  2.40000E+0001 
+    5       e5   14           QII4 uni  1.00000E+0000  5.00000E+0000  1.00000E+0001 
+    5       e5   15           QII5 uni  8.30000E-0002  5.00000E-0001  1.92000E+0002 
+    5       e5   16           QII6 uni  1.50000E+0003  2.50000E+0003  3.50000E+0003 
+    5       e5   17           QII7 uni  1.00000E+0000  5.00000E+0000  1.00000E+0001 
+    5       e5   18          QIII1 uni  8.30000E-0002  1.66000E-0001  5.00000E-0001 
+    5       e5   19          QIII2 uni  1.50000E-0002  8.30000E-0002  8.50000E-0002 
+    5       e5   20          QIII3 uni  2.50000E-0001  5.00000E-0001  1.00000E+0000 
+    5       e5   21          QIII4 uni  8.30000E-0002  8.40000E-0002  8.50000E-0002 
+    5       e5   22          QIII5 uni  1.00000E+0000  7.20000E+0001  1.92000E+0002 
+    5       e5   23          QIII6 uni  1.00000E+0001  3.50000E+0003  7.00000E+0003 
+    5       e5   24          QIII7 uni  1.00000E+0000  2.00000E+0001  3.50000E+0001 
+    5       e5   25          QIII8 uni  4.17000E-0002  8.33000E-0002  1.00000E+0000 
+    5       e5   26           QIV1 uni  4.16000E-0003  8.30000E-0003  1.60000E-0002 
+    5       e5   27           QIV2 uni  4.16000E-0003  8.30000E-0003  1.60000E-0002 
+    5       e5   28           QIV3 uni  4.15000E-0003  8.30000E-0003  1.60000E-0002 
+    5       e5   29           QIV4 uni  4.15000E-0003  8.30000E-0003  1.60000E-0002 
+    5       e5   30           QIV5 uni  1.50000E+0004  2.00000E+0004  3.00000E+0004 
+    5       e5   31           QIV6 uni  7.00000E+0002  1.50000E+0003  2.00000E+0003 
+    5       e5   32           QIV7 uni  1.67000E-0002  1.68000E-0002  1.69000E-0002 
+    6       e6    1            QI1 uni  1.50000E+0002  2.56000E+0002  5.12000E+0002      If today you are using  a 128-bit crytographic key, how many bits would you need to use in six years in order to maintain the same level of security as you enjoy today? 
+    6       e6    2            QI2 uni  5.00000E-0001  9.00000E-0001  9.50000E-0001 
+    6       e6    3            QI3 uni  6.00000E-0001  7.50000E-0001  8.00000E-0001 
+    6       e6    4            QI4 uni  4.50000E-0001  8.00000E-0001  9.00000E-0001 
+    6       e6    5            QI5 uni  1.00000E+0000  2.00000E+0000  2.40000E+0001 
+    6       e6    6            QI6 uni  2.50000E-0001  5.00000E-0001  2.00000E+0000 
+    6       e6    7            QI7 uni  5.00000E-0002  1.20000E-0001  1.30000E-0001 
+    6       e6    8            QI8 uni  5.00000E-0002  5.00000E-0001  9.50000E-0001 
+    6       e6    9            QI9 uni  5.00000E-0002  5.00000E-0001  9.50000E-0001 
+    6       e6   10           QI10 uni  4.00000E-0001  5.00000E-0001  6.00000E-0001 
+    6       e6   11           QII1 uni  4.60800E+0003  9.21600E+0003  4.60800E+0004 
+    6       e6   12           QII2 uni  7.68000E+0002  9.21600E+0003  4.60800E+0004 
+    6       e6   13           QII3 uni  1.84320E+0004  4.60800E+0004  9.21600E+0004 
+    6       e6   14           QII4 uni  2.40000E+0001  2.76480E+0004  9.21600E+0004 
+    6       e6   15           QII5 uni  2.40000E+0001  7.68000E+0002  9.21600E+0003 
+    6       e6   16           QII6 uni  1.00000E+0002  1.00000E+0004  1.00000E+0005 
+    6       e6   17           QII7 uni  1.00000E-0005  2.00000E-0005  3.00000E-0005 
+    6       e6   18          QIII1 uni  4.60800E+0003  9.21600E+0003  4.60800E+0004 
+    6       e6   19          QIII2 uni  7.68000E+0002  9.21600E+0003  4.60800E+0004 
+    6       e6   20          QIII3 uni  7.68000E+0002  9.21600E+0003  1.84320E+0004 
+    6       e6   21          QIII4 uni  2.40000E+0001  4.60800E+0003  9.21600E+0004 
+    6       e6   22          QIII5 uni  2.40000E+0001  7.68000E+0002  9.21600E+0003 
+    6       e6   23          QIII6 uni  1.00000E+0002  1.00000E+0004  1.00000E+0005 
+    6       e6   24          QIII7 uni  1.00000E-0005  2.00000E-0005  2.00000E+0000 
+    6       e6   25          QIII8 uni  2.50000E-0001  1.00000E+0000  1.20000E+0001 
+    6       e6   26           QIV1 uni  4.60800E+0003  9.21600E+0003  4.60800E+0004 
+    6       e6   27           QIV2 uni  7.68000E+0002  9.21600E+0003  4.60800E+0004 
+    6       e6   28           QIV3 uni  1.20000E+0002  3.84000E+0002  2.30400E+0003 
+    6       e6   29           QIV4 uni  3.84000E+0002  7.68000E+0002  4.60800E+0003 
+    6       e6   30           QIV5 uni  1.00000E+0002  1.00000E+0004  1.00000E+0005 
+    6       e6   31           QIV6 uni  0.00000E+0000  1.00000E+0000  2.00000E+0000 
+    6       e6   32           QIV7 uni  2.40000E+0001  7.20000E+0001  3.84000E+0002 
+    7       e7    1            QI1 uni  1.28000E+0002  2.36000E+0002  4.85000E+0002      If today you are using  a 128-bit crytographic key, how many bits would you need to use in six years in order to maintain the same level of security as you enjoy today? 
+    7       e7    2            QI2 uni  6.00000E-0001  8.00000E-0001  1.00000E+0000 
+    7       e7    3            QI3 uni  3.00000E-0001  5.00000E-0001  8.00000E-0001 
+    7       e7    4            QI4 uni  2.00000E-0001  4.00000E-0001  6.00000E-0001 
+    7       e7    5            QI5 uni  8.00000E+0000  1.20000E+0001  2.40000E+0001 
+    7       e7    6            QI6 uni  8.00000E+0000  1.20000E+0001  2.40000E+0001 
+    7       e7    7            QI7 uni  5.00000E-0001  7.50000E-0001  1.00000E+0000 
+    7       e7    8            QI8 uni  0.00000E+0000  1.50000E-0001  2.00000E-0001 
+    7       e7    9            QI9 uni  5.00000E-0001  7.00000E-0001  8.00000E-0001 
+    7       e7   10           QI10 uni  5.00000E-0001  7.00000E-0001  8.00000E-0001 
+    7       e7   11           QII1 uni  4.50000E+0001  7.20000E+0001  1.92000E+0002 
+    7       e7   12           QII2 uni  5.00000E+0000  2.40000E+0001  4.80000E+0001 
+    7       e7   13           QII3 uni  1.20000E+0001  2.40000E+0001  3.60000E+0001 
+    7       e7   14           QII4 uni  1.00000E+0000  2.00000E+0000  3.00000E+0000 
+    7       e7   15           QII5 uni  2.40000E+0001  4.80000E+0001  7.20000E+0001 
+    7       e7   16           QII6 uni  6.00000E+0001  6.50000E+0001  7.00000E+0001 
+    7       e7   17           QII7 uni  1.00000E+0001  1.50000E+0001  2.00000E+0001 
+    7       e7   18          QIII1 uni  3.00000E+0000  4.00000E+0000  5.00000E+0000 
+    7       e7   19          QIII2 uni  1.00000E+0000  2.00000E+0000  3.00000E+0000 
+    7       e7   20          QIII3 uni  1.00000E+0000  2.00000E+0000  3.00000E+0000 
+    7       e7   21          QIII4 uni  1.66000E-0001  3.20000E-0001  5.00000E-0001 
+    7       e7   22          QIII5 uni  0.00000E+0000  1.60000E-0002  3.20000E-0002 
+    7       e7   23          QIII6 uni  1.20000E+0002  5.00000E+0002  1.00000E+0003 
+    7       e7   24          QIII7 uni  6.00000E+0001  2.50000E+0002  5.00000E+0002 
+    7       e7   25          QIII8 uni  1.56000E-0002  2.08300E-0001  1.00000E+0000 
+    7       e7   26           QIV1 uni  0.00000E+0000  1.66000E-0001  3.20000E-0001 
+    7       e7   27           QIV2 uni  0.00000E+0000  1.66000E-0001  3.20000E-0001 
+    7       e7   28           QIV3 uni  1.00000E-0003  2.00000E-0003  3.00000E-0003 
+    7       e7   29           QIV4 uni  1.00000E-0003  2.00000E-0003  3.00000E-0003 
+    7       e7   30           QIV5 uni  7.00000E+0001  8.00000E+0001  1.00000E+0002 
+    7       e7   31           QIV6 uni  7.00000E+0001  8.00000E+0001  9.00000E+0001 
+    7       e7   32           QIV7 uni  1.56000E-0002  2.08300E-0001  1.00000E+0000 
+    8       e8    1            QI1 uni  1.28000E+0002  2.56000E+0002  2.57000E+0002      If today you are using  a 128-bit crytographic key, how many bits would you need to use in six years in order to maintain the same level of security as you enjoy today? 
+    8       e8    2            QI2 uni  5.00000E-0002  1.00000E-0001  2.50000E-0001 
+    8       e8    3            QI3 uni  2.00000E-0001  4.00000E-0001  5.00000E-0001 
+    8       e8    4            QI4 uni  2.00000E-0001  4.00000E-0001  5.00000E-0001 
+    8       e8    5            QI5 uni  7.68000E+0002  4.60800E+0003  9.21600E+0003 
+    8       e8    6            QI6 uni  7.68000E+0002  4.60800E+0003  9.21600E+0003 
+    8       e8    7            QI7 uni  2.00000E+0000  4.00000E+0000  1.00000E+0001 
+    8       e8    8            QI8 uni  0.00000E+0000  1.00000E-0003  2.00000E-0003 
+    8       e8    9            QI9 uni  1.00000E-0001  2.00000E-0001  3.00000E-0001 
+    8       e8   10           QI10 uni  1.00000E-0001  2.50000E-0001  5.00000E-0001 
+    8       e8   11           QII1 uni  7.68000E+0002  1.53600E+0003  2.30400E+0003 
+    8       e8   12           QII2 uni  1.92000E+0002  3.84000E+0002  7.68000E+0002 
+    8       e8   13           QII3 uni  4.60800E+0003  9.21600E+0003  1.38240E+0004 
+    8       e8   14           QII4 uni  4.60800E+0003  9.21600E+0003  1.38240E+0004 
+    8       e8   15           QII5 uni  2.40000E+0001  1.92000E+0002  7.68000E+0002 
+    8       e8   16           QII6 uni  4.00000E+0002  5.00000E+0002  1.00000E+0003 
+    8       e8   17           QII7 uni  0.00000E+0000  1.00000E+0000  2.00000E+0000 
+    8       e8   18          QIII1 uni  2.40000E+0001  1.92000E+0002  7.68000E+0002 
+    8       e8   19          QIII2 uni  1.20000E+0001  2.40000E+0001  1.92000E+0002 
+    8       e8   20          QIII3 uni  3.84000E+0002  5.76000E+0002  7.68000E+0002 
+    8       e8   21          QIII4 uni  1.92000E+0002  3.84000E+0002  5.76000E+0002 
+    8       e8   22          QIII5 uni  2.40000E+0001  7.20000E+0001  1.92000E+0002 
+    8       e8   23          QIII6 uni  4.00000E+0002  5.00000E+0002  1.00000E+0003 
+    8       e8   24          QIII7 uni  1.00000E+0000  2.00000E+0000  3.00000E+0000 
+    8       e8   25          QIII8 uni  1.00000E+0000  2.00000E+0000  4.00000E+0000 
+    8       e8   26           QIV1 uni  7.20000E+0001  1.92000E+0002  7.68000E+0002 
+    8       e8   27           QIV2 uni  1.00000E+0000  2.40000E+0001  1.92000E+0002 
+    8       e8   28           QIV3 uni  2.40000E+0001  1.92000E+0002  7.68000E+0002 
+    8       e8   29           QIV4 uni  5.00000E-0001  1.00000E+0000  2.40000E+0001 
+    8       e8   30           QIV5 uni  1.00000E+0003  5.00000E+0003  1.00000E+0004 
+    8       e8   31           QIV6 uni  9.00000E+0002  4.50000E+0003  9.00000E+0003 
+    8       e8   32           QIV7 uni  1.00000E+0000  2.00000E+0000  3.00000E+0001 
+    9       e9    1            QI1 uni  2.56000E+0002  7.68000E+0002  1.02400E+0003      If today you are using  a 128-bit crytographic key, how many bits would you need to use in six years in order to maintain the same level of security as you enjoy today? 
+    9       e9    2            QI2 uni  2.00000E-0001  4.50000E-0001  6.50000E-0001 
+    9       e9    3            QI3 uni  1.00000E-0002  1.00000E-0001  2.50000E-0001 
+    9       e9    4            QI4 uni  3.00000E-0001  5.00000E-0001  7.00000E-0001 
+    9       e9    5            QI5 uni  2.40000E+0001  7.20000E+0001  1.92000E+0002 
+    9       e9    6            QI6 uni  1.00000E+0000  1.20000E+0001  2.40000E+0001 
+    9       e9    7            QI7 uni  5.00000E-0002  1.00000E-0001  2.50000E-0001 
+    9       e9    8            QI8 uni  1.00000E-0001  3.00000E-0001  5.00000E-0001 
+    9       e9    9            QI9 uni  1.00000E-0001  2.00000E-0001  3.00000E-0001 
+    9       e9   10           QI10 uni  8.00000E-0001  9.00000E-0001  9.90000E-0001 
+    9       e9   11           QII1 uni  2.50000E-0001  1.00000E+0000  2.00000E+0000 
+    9       e9   12           QII2 uni  1.60000E-0002  5.00000E-0001  1.00000E+0000 
+    9       e9   13           QII3 uni  4.60800E+0003  6.91200E+0003  9.21600E+0003 
+    9       e9   14           QII4 uni  4.60800E+0003  6.91200E+0003  9.21600E+0003 
+    9       e9   15           QII5 uni  2.30400E+0003  4.60800E+0003  6.91200E+0003 
+    9       e9   16           QII6 uni  1.00000E+0002  4.00000E+0002  1.00000E+0003 
+    9       e9   17           QII7 uni  0.00000E+0000  1.00000E-0004  2.00000E-0004 
+    9       e9   18          QIII1 uni  2.50000E-0001  1.00000E+0000  2.00000E+0000 
+    9       e9   19          QIII2 uni  1.60000E-0002  5.00000E-0001  1.00000E+0000 
+    9       e9   20          QIII3 uni  1.92000E+0002  7.68000E+0002  1.53600E+0003 
+    9       e9   21          QIII4 uni  1.92000E+0002  7.68000E+0002  1.53600E+0003 
+    9       e9   22          QIII5 uni  1.92000E+0002  3.84000E+0002  5.76000E+0002 
+    9       e9   23          QIII6 uni  5.00000E+0002  1.00000E+0003  1.50000E+0003 
+    9       e9   24          QIII7 uni  1.00000E+0000  4.00000E+0000  1.00000E+0001 
+    9       e9   25          QIII8 uni  1.00000E+0000  2.00000E+0000  6.00000E+0000 
+    9       e9   26           QIV1 uni  2.50000E-0001  1.00000E+0000  2.00000E+0000 
+    9       e9   27           QIV2 uni  1.60000E-0002  5.00000E-0001  1.00000E+0000 
+    9       e9   28           QIV3 uni  2.50000E-0001  5.00000E-0001  7.20000E-0001 
+    9       e9   29           QIV4 uni  1.60000E-0002  8.30000E-0002  1.66000E-0001 
+    9       e9   30           QIV5 uni  1.00000E+0003  2.00000E+0003  5.00000E+0003 
+    9       e9   31           QIV6 uni  1.00000E+0003  2.00000E+0003  5.00000E+0003 
+    9       e9   32           QIV7 uni  2.00000E+0000  4.00000E+0000  1.20000E+0001 
+   10      e10    1            QI1 uni  1.28000E+0002  1.90000E+0002  2.56000E+0002      If today you are using  a 128-bit crytographic key, how many bits would you need to use in six years in order to maintain the same level of security as you enjoy today? 
+   10      e10    2            QI2 uni  2.50000E-0001  5.00000E-0001  9.00000E-0001 
+   10      e10    3            QI3 uni  5.00000E-0001  7.50000E-0001  9.50000E-0001 
+   10      e10    4            QI4 uni  5.00000E-0001  5.40000E-0001  5.50000E-0001 
+   10      e10    5            QI5 uni  9.21600E+0003  4.60800E+0004  9.21600E+0004 
+   10      e10    6            QI6 uni  7.00000E+0000  9.00000E+0000  1.00000E+0001 
+   10      e10    7            QI7 uni  2.00000E+0000  3.00000E+0000  5.00000E+0000 
+   10      e10    8            QI8 uni  0.00000E+0000  1.00000E-0004  2.00000E-0004 
+   10      e10    9            QI9 uni  0.00000E+0000  1.00000E-0004  2.00000E-0004 
+   10      e10   10           QI10 uni  9.00000E-0001  9.50000E-0001  9.80000E-0001 
+   10      e10   11           QII1 uni  1.66000E-0001  8.00000E-0001  2.00000E+0000 
+   10      e10   12           QII2 uni  5.00000E-0001  2.00000E+0000  4.00000E+0000 
+   10      e10   13           QII3 uni  2.40000E+0001  3.60000E+0001  4.80000E+0001 
+   10      e10   14           QII4 uni  1.20000E+0001  2.40000E+0001  3.60000E+0001 
+   10      e10   15           QII5 uni  7.68000E+0002  2.30400E+0003  4.60800E+0003 
+   10      e10   16           QII6 uni  1.00000E+0000  2.50000E+0001  1.00000E+0002 
+   10      e10   17           QII7 uni  0.00000E+0000  5.00000E-0001  1.00000E+0000 
+   10      e10   18          QIII1 uni  1.66000E-0001  8.00000E-0001  2.00000E+0000 
+   10      e10   19          QIII2 uni  5.00000E-0001  2.00000E+0000  4.00000E+0000 
+   10      e10   20          QIII3 uni  1.20000E+0001  3.60000E+0001  4.80000E+0001 
+   10      e10   21          QIII4 uni  6.00000E+0000  1.80000E+0001  2.40000E+0001 
+   10      e10   22          QIII5 uni  7.68000E+0002  1.53600E+0003  2.30400E+0003 
+   10      e10   23          QIII6 uni  1.00000E+0000  5.00000E+0001  1.00000E+0002 
+   10      e10   24          QIII7 uni  0.00000E+0000  1.00000E+0000  2.00000E+0000 
+   10      e10   25          QIII8 uni  5.00000E-0001  1.20000E+0001  2.40000E+0001 
+   10      e10   26           QIV1 uni  1.66000E-0001  8.00000E-0001  2.00000E+0000 
+   10      e10   27           QIV2 uni  5.00000E-0001  2.00000E+0000  4.00000E+0000 
+   10      e10   28           QIV3 uni  8.30000E-0002  5.00000E-0001  1.00000E+0000 
+   10      e10   29           QIV4 uni  8.30000E-0002  5.00000E-0001  1.00000E+0000 
+   10      e10   30           QIV5 uni  1.00000E+0000  5.00000E+0001  1.00000E+0002 
+   10      e10   31           QIV6 uni  3.00000E+0000  5.00000E+0000  1.00000E+0001 
+   10      e10   32           QIV7 uni  5.00000E-0001  2.00000E+0000  2.40000E+0001 
+   11      e11    1            QI1 uni  5.12000E+0002  1.02400E+0003  2.04800E+0003      If today you are using  a 128-bit crytographic key, how many bits would you need to use in six years in order to maintain the same level of security as you enjoy today? 
+   11      e11    2            QI2 uni  2.00000E-0001  5.00000E-0001  8.00000E-0001 
+   11      e11    3            QI3 uni  0.00000E+0000  2.00000E-0001  4.00000E-0001 
+   11      e11    4            QI4 uni  0.00000E+0000  1.00000E-0001  3.00000E-0001 
+   11      e11    5            QI5 uni  8.00000E+0000  2.40000E+0001  4.80000E+0001 
+   11      e11    6            QI6 uni  5.00000E-0001  1.00000E+0000  4.00000E+0000 
+   11      e11    7            QI7 uni  1.00000E-0001  5.00000E-0001  1.00000E+0000 
+   11      e11    8            QI8 uni  1.00000E-0001  2.00000E-0001  5.00000E-0001 
+   11      e11    9            QI9 uni  5.00000E-0001  1.00000E+0000  2.00000E+0000 
+   11      e11   10           QI10 uni  2.50000E-0001  7.50000E-0001  1.00000E+0000 
+   11      e11   11           QII1 uni  1.60000E-0002  8.30000E-0002  1.00000E+0000 
+   11      e11   12           QII2 uni  1.60000E-0002  8.30000E-0002  1.00000E+0000 
+   11      e11   13           QII3 uni  2.40000E+0001  7.68000E+0002  9.21600E+0003 
+   11      e11   14           QII4 uni  2.40000E+0001  7.68000E+0002  9.21600E+0003 
+   11      e11   15           QII5 uni  4.60800E+0003  9.21600E+0003  2.76480E+0004 
+   11      e11   16           QII6 uni  1.00000E+0003  1.00000E+0004  2.00000E+0004 
+   11      e11   17           QII7 uni  0.00000E+0000  1.00000E+0000  5.00000E+0000 
+   11      e11   18          QIII1 uni  1.60000E-0002  8.30000E-0002  1.00000E+0000 
+   11      e11   19          QIII2 uni  1.60000E-0002  8.30000E-0002  1.00000E+0000 
+   11      e11   20          QIII3 uni  2.40000E+0001  1.92000E+0002  3.84000E+0002 
+   11      e11   21          QIII4 uni  2.40000E+0001  1.92000E+0002  3.84000E+0002 
+   11      e11   22          QIII5 uni  4.60800E+0003  9.21600E+0003  2.76480E+0004 
+   11      e11   23          QIII6 uni  1.00000E+0003  1.00000E+0004  2.00000E+0004 
+   11      e11   24          QIII7 uni  5.00000E+0000  1.00000E+0001  2.00000E+0001 
+   11      e11   25          QIII8 uni  5.00000E+0000  1.00000E+0001  2.00000E+0001 
+   11      e11   26           QIV1 uni  1.60000E-0002  8.30000E-0002  1.00000E+0000 
+   11      e11   27           QIV2 uni  1.60000E-0002  8.30000E-0002  1.00000E+0000 
+   11      e11   28           QIV3 uni  1.66000E-0001  3.33000E-0001  5.00000E-0001 
+   11      e11   29           QIV4 uni  1.66000E-0001  3.33000E-0001  5.00000E-0001 
+   11      e11   30           QIV5 uni  1.00000E+0003  1.00000E+0004  2.00000E+0004 
+   11      e11   31           QIV6 uni  5.00000E+0002  1.00000E+0003  2.00000E+0003 
+   11      e11   32           QIV7 uni  5.00000E+0000  1.00000E+0001  2.00000E+0001 
+   12      e12    1            QI1 uni  1.28000E+0002  5.12000E+0002  1.02400E+0003      If today you are using  a 128-bit crytographic key, how many bits would you need to use in six years in order to maintain the same level of security as you enjoy today? 
+   12      e12    2            QI2 uni  5.00000E-0002  4.00000E-0001  9.00000E-0001 
+   12      e12    3            QI3 uni  3.00000E-0001  5.00000E-0001  7.50000E-0001 
+   12      e12    4            QI4 uni  2.50000E-0001  4.00000E-0001  6.50000E-0001 
+   12      e12    5            QI5 uni  6.00000E+0000  7.20000E+0001  1.92000E+0002 
+   12      e12    6            QI6 uni  1.00000E+0000  8.00000E+0000  2.40000E+0001 
+   12      e12    7            QI7 uni  0.00000E+0000  5.00000E-0001  1.00000E+0000 
+   12      e12    8            QI8 uni  0.00000E+0000  8.00000E-0001  1.20000E+0000 
+   12      e12    9            QI9 uni  0.00000E+0000  1.00000E+0000  2.00000E+0000 
+   12      e12   10           QI10 uni  5.00000E-0002  4.00000E-0001  6.00000E-0001 
+   12      e12   11           QII1 uni  5.55000E-0004  2.40000E+0001  7.20000E+0001 
+   12      e12   12           QII2 uni  1.38000E-0003  3.00000E+0001  1.20000E+0002 
+   12      e12   13           QII3 uni  4.80000E+0001  3.84000E+0002  7.68000E+0002 
+   12      e12   14           QII4 uni  7.20000E+0001  7.68000E+0002  1.53600E+0003 
+   12      e12   15           QII5 uni  4.60800E+0003  9.21600E+0003  1.84320E+0004 
+   12      e12   16           QII6 uni  5.00000E+0000  3.50000E+0001  1.00000E+0002 
+   12      e12   17           QII7 uni  0.00000E+0000  2.00000E+0000  7.00000E+0000 
+   12      e12   18          QIII1 uni  5.55000E-0004  2.40000E+0001  7.20000E+0001 
+   12      e12   19          QIII2 uni  1.38000E-0003  3.00000E+0001  1.20000E+0002 
+   12      e12   20          QIII3 uni  1.00000E+0000  8.00000E+0000  7.20000E+0001 
+   12      e12   21          QIII4 uni  2.40000E+0001  1.20000E+0002  2.40000E+0002 
+   12      e12   22          QIII5 uni  4.60800E+0003  9.21600E+0003  1.84320E+0004 
+   12      e12   23          QIII6 uni  5.00000E+0000  3.50000E+0001  1.00000E+0002 
+   12      e12   24          QIII7 uni  0.00000E+0000  5.00000E+0000  1.00000E+0001 
+   12      e12   25          QIII8 uni  3.33000E-0001  2.08330E+0000  8.33330E+0000 
+   12      e12   26           QIV1 uni  5.55000E-0004  2.40000E+0001  4.80000E+0001 
+   12      e12   27           QIV2 uni  1.38000E-0003  3.00000E+0001  1.20000E+0002 
+   12      e12   28           QIV3 uni  4.80000E+0001  1.92000E+0002  5.04000E+0002 
+   12      e12   29           QIV4 uni  7.20000E+0001  3.36000E+0002  7.68000E+0002 
+   12      e12   30           QIV5 uni  5.00000E+0000  3.50000E+0001  1.00000E+0002 
+   12      e12   31           QIV6 uni  1.00000E+0000  3.00000E+0000  1.00000E+0001 
+   12      e12   32           QIV7 uni  1.25000E-0001  4.16700E-0001  1.25000E+0000 
+   13      e13    1            QI1 uni  1.28000E+0002  5.12000E+0002  1.02400E+0003      If today you are using  a 128-bit crytographic key, how many bits would you need to use in six years in order to maintain the same level of security as you enjoy today? 
+   13      e13    2            QI2 uni  5.00000E-0001  7.50000E-0001  1.00000E+0000 
+   13      e13    3            QI3 uni  5.00000E-0002  2.00000E-0001  3.00000E-0001 
+   13      e13    4            QI4 uni  5.00000E-0002  1.50000E-0001  2.50000E-0001 
+   13      e13    5            QI5 uni  1.00000E+0000  8.00000E+0000  4.80000E+0001 
+   13      e13    6            QI6 uni  1.60000E-0002  1.00000E+0000  8.00000E+0000 
+   13      e13    7            QI7 uni  2.50000E-0001  5.00000E-0001  2.00000E+0000 
+   13      e13    8            QI8 uni  5.00000E-0002  1.00000E-0001  2.50000E-0001 
+   13      e13    9            QI9 uni  5.00000E-0002  1.00000E-0001  5.00000E-0001 
+   13      e13   10           QI10 uni  5.00000E-0001  7.50000E-0001  9.50000E-0001 
+   13      e13   11           QII1 uni  1.60000E-0002  1.00000E+0000  2.40000E+0001 
+   13      e13   12           QII2 uni  1.60000E-0002  2.50000E-0001  1.00000E+0000 
+   13      e13   13           QII3 uni  1.92000E+0002  2.30400E+0003  9.21600E+0003 
+   13      e13   14           QII4 uni  1.00000E+0000  2.40000E+0001  1.92000E+0002 
+   13      e13   15           QII5 uni  2.30400E+0003  9.21600E+0003  1.84320E+0004 
+   13      e13   16           QII6 uni  1.20000E+0001  1.00000E+0002  1.00000E+0004 
+   13      e13   17           QII7 uni  0.00000E+0000  2.00000E+0000  1.00000E+0001 
+   13      e13   18          QIII1 uni  1.60000E-0002  1.00000E+0000  2.40000E+0001 
+   13      e13   19          QIII2 uni  1.60000E-0002  2.50000E-0001  1.00000E+0000 
+   13      e13   20          QIII3 uni  8.30000E-0002  1.00000E+0000  4.00000E+0000 
+   13      e13   21          QIII4 uni  1.60000E-0002  1.66000E-0001  1.00000E+0000 
+   13      e13   22          QIII5 uni  2.30400E+0003  9.21600E+0003  1.84320E+0004 
+   13      e13   23          QIII6 uni  1.00000E+0002  1.00000E+0003  1.00000E+0005 
+   13      e13   24          QIII7 uni  1.20000E+0001  1.00000E+0002  1.00000E+0004 
+   13      e13   25          QIII8 uni  4.00000E+0000  6.00000E+0001  3.60000E+0003 
+   13      e13   26           QIV1 uni  1.60000E-0002  1.00000E+0000  2.40000E+0001 
+   13      e13   27           QIV2 uni  1.60000E-0002  2.50000E-0001  1.00000E+0000 
+   13      e13   28           QIV3 uni  1.60000E-0002  2.50000E-0001  1.00000E+0000 
+   13      e13   29           QIV4 uni  1.60000E-0002  8.30000E-0002  2.50000E-0001 
+   13      e13   30           QIV5 uni  1.00000E+0003  1.00000E+0004  1.00000E+0005 
+   13      e13   31           QIV6 uni  1.00000E+0003  1.00000E+0004  1.00000E+0005 
+   13      e13   32           QIV7 uni  6.00000E+0001  2.40000E+0002  3.60000E+0003 

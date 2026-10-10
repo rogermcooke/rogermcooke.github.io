@@ -1,0 +1,122 @@
+* CLASS ASCII OUTPUT FILE. NQ=   3   QU=   5  50  95
+    1        1    1   Freq Level 2 UNI  5.00000E+0000  1.00000E+0001  5.00000E+0001                                                                                                                                   No. occurrences in 10 yrs Level 2 incidents 
+    1        1    2   Freq Level 3 UNI  1.00000E+0001  2.00000E+0001  6.00000E+0001                                                                                                                                 No. occurrences in 10 years Level 3 incidents 
+    1        1    3   Freq Level 4 UNI  3.00000E+0001  5.00000E+0001  1.00000E+0002                                                                                                                                 No. occurrences in 10 years Level 4 incidents 
+    1        1    4 % piping fails UNI  1.00000E+0001  2.00000E+0001  4.00000E+0001                                                                                                                                                    ICOLD %age piping failures 
+    1        1    5   Mean pk flow UNI  5.00000E+0002  1.00000E+0003  5.00000E+0003                                                                                                                                               MCR dams, mean peak flow  l/sec 
+    1        1    6 Std dev pk flo UNI  3.00000E+0002  5.00000E+0002  7.00000E+0002                                                                                                                                              Std Dev on MCR peak flows, l/sec 
+    1        1    7  JVR97 highest UNI  6.00000E+0000  1.20000E+0001  2.40000E+0001                                                                                                                            No. 95%ile internal erosion failures in 1000 years 
+    1        1    8   JVR97 median UNI  0.00000E+0000  1.00000E+0000  4.00000E+0000                                                                                                                            No. median internal erosion failures in 1000 years 
+    1        1    9   JVR97 lowest UNI  0.00000E+0000  1.00000E-0001  2.00000E+0000                                                                                                                             No. 5%ile internal erosion failures in 1000 years 
+    1        1   10 Teton first fl UNI  2.00000E+0000  4.00000E+0000  8.00000E+0000                                                                                                                           Teton dam time in hrs from mud seen to whirlpooling 
+    1        1   11     WarmW time UNI  3.00000E+0000  4.00000E+0000  6.00000E+0000                                                                                                                                      Time in hrs from prog erosion to failure 
+    2        2    1   Freq Level 2 UNI  1.00000E+0000  5.00000E+0000  1.00000E+0001                                                                                                                                   No. occurrences in 10 yrs Level 2 incidents 
+    2        2    2   Freq Level 3 UNI  5.00000E+0000  1.20000E+0001  2.00000E+0001 
+    2        2    3   Freq Level 4 UNI  1.00000E+0001  2.50000E+0001  5.00000E+0001 
+    2        2    4 % piping fails UNI  1.00000E-0001  1.00000E+0000  5.00000E+0000 
+    2        2    5   Mean pk flow UNI  1.00000E+0000  5.00000E+0000  1.00000E+0002 
+    2        2    6 Std dev pk flo UNI  1.00000E+0000  2.00000E+0000  4.00000E+0000 
+    2        2    7  JVR97 highest UNI  5.00000E+0000  4.00000E+0001  6.00000E+0001 
+    2        2    8   JVR97 median UNI  1.00000E+0000  1.00000E+0001  3.00000E+0001 
+    2        2    9   JVR97 lowest UNI  5.00000E-0001  2.00000E+0000  5.00000E+0000 
+    2        2   10 Teton first fl UNI  3.00000E+0000  1.50000E+0001  3.00000E+0001 
+    2        2   11     WarmW time UNI  3.00000E+0000  1.20000E+0001  2.40000E+0001 
+    3        3    1   Freq Level 2 UNI  3.00000E+0000  5.00000E+0000  1.00000E+0001                                                                                                                                   No. occurrences in 10 yrs Level 2 incidents 
+    3        3    2   Freq Level 3 UNI  5.00000E+0000  1.00000E+0001  2.00000E+0001 
+    3        3    3   Freq Level 4 UNI  1.00000E+0001  2.00000E+0001  5.00000E+0001 
+    3        3    4 % piping fails UNI  1.00000E+0000  3.00000E+0000  5.00000E+0000 
+    3        3    5   Mean pk flow UNI  1.00000E+0003  2.00000E+0003  4.00000E+0003 
+    3        3    6 Std dev pk flo UNI  1.00000E+0002  2.00000E+0002  4.00000E+0002 
+    3        3    7  JVR97 highest UNI  5.00000E+0001  1.00000E+0002  2.00000E+0002 
+    3        3    8   JVR97 median UNI  5.00000E+0000  1.00000E+0001  2.00000E+0001 
+    3        3    9   JVR97 lowest UNI  5.00000E-0001  1.00000E+0000  2.00000E+0000 
+    3        3   10 Teton first fl UNI  5.00000E-0001  1.00000E+0000  2.00000E+0000 
+    3        3   11     WarmW time UNI  1.00000E+0000  2.00000E+0000  3.00000E+0000 
+    4        4    1   Freq Level 2 UNI  5.00000E+0000  1.00000E+0001  2.00000E+0001                                                                                                                                   No. occurrences in 10 yrs Level 2 incidents 
+    4        4    2   Freq Level 3 UNI  2.00000E+0001  4.00000E+0001  8.00000E+0001 
+    4        4    3   Freq Level 4 UNI  3.00000E+0001  5.00000E+0001  1.00000E+0002 
+    4        4    4 % piping fails UNI  3.00000E-0001  5.00000E-0001  1.50000E+0000 
+    4        4    5   Mean pk flow UNI  1.00000E+0002  3.00000E+0002  1.00000E+0003 
+    4        4    6 Std dev pk flo UNI  3.00000E+0002  5.00000E+0002  1.00000E+0003 
+    4        4    7  JVR97 highest UNI  4.00000E+0000  5.00000E+0000  1.00000E+0001 
+    4        4    8   JVR97 median UNI  5.00000E-0001  2.00000E+0000  5.00000E+0000 
+    4        4    9   JVR97 lowest UNI  1.00000E-0001  5.00000E-0001  1.00000E+0000 
+    4        4   10 Teton first fl UNI  4.00000E+0000  6.00000E+0000  1.50000E+0001 
+    4        4   11     WarmW time UNI  6.00000E+0000  1.20000E+0001  2.40000E+0001 
+    5        5    1   Freq Level 2 UNI  5.00000E+0000  1.00000E+0001  2.00000E+0001                                                                                                                                   No. occurrences in 10 yrs Level 2 incidents 
+    5        5    2   Freq Level 3 UNI  2.00000E+0001  4.00000E+0001  8.00000E+0001 
+    5        5    3   Freq Level 4 UNI  3.00000E+0001  5.00000E+0001  1.00000E+0002 
+    5        5    4 % piping fails UNI  2.00000E-0001  5.00000E-0001  1.50000E+0000 
+    5        5    5   Mean pk flow UNI  1.00000E+0002  3.00000E+0002  1.00000E+0003 
+    5        5    6 Std dev pk flo UNI  3.00000E+0002  5.00000E+0002  1.00000E+0003 
+    5        5    7  JVR97 highest UNI  4.00000E+0000  5.00000E+0000  1.00000E+0001 
+    5        5    8   JVR97 median UNI  5.00000E-0001  2.00000E+0000  5.00000E+0000 
+    5        5    9   JVR97 lowest UNI  1.00000E-0001  5.00000E-0001  1.00000E+0000 
+    5        5   10 Teton first fl UNI  2.00000E+0000  6.00000E+0000  1.50000E+0001 
+    5        5   11     WarmW time UNI  6.00000E+0000  1.20000E+0001  2.40000E+0001 
+    6        6    1   Freq Level 2 UNI  5.00000E+0000  7.00000E+0000  1.50000E+0001                                                                                                                                   No. occurrences in 10 yrs Level 2 incidents 
+    6        6    2   Freq Level 3 UNI  5.00000E+0000  1.00000E+0001  2.00000E+0001 
+    6        6    3   Freq Level 4 UNI  1.00000E+0001  2.00000E+0001  4.00000E+0001 
+    6        6    4 % piping fails UNI  5.00000E+0000  1.00000E+0001  2.00000E+0001 
+    6        6    5   Mean pk flow UNI  2.00000E+0000  5.00000E+0000  1.00000E+0001 
+    6        6    6 Std dev pk flo UNI  1.00000E+0000  2.00000E+0000  5.00000E+0000 
+    6        6    7  JVR97 highest UNI  4.00000E+0001  6.00000E+0001  1.00000E+0002 
+    6        6    8   JVR97 median UNI  1.00000E+0001  4.00000E+0001  6.00000E+0001 
+    6        6    9   JVR97 lowest UNI  5.00000E+0000  1.00000E+0001  4.00000E+0001 
+    6        6   10 Teton first fl UNI  5.00000E+0000  1.20000E+0001  1.60000E+0001 
+    6        6   11     WarmW time UNI  8.00000E+0000  1.60000E+0001  4.80000E+0001 
+    7        7    1   Freq Level 2 UNI  3.50000E+0001  4.00000E+0001  5.00000E+0001                                                                                                                                   No. occurrences in 10 yrs Level 2 incidents 
+    7        7    2   Freq Level 3 UNI  3.00000E+0001  5.50000E+0001  6.50000E+0001 
+    7        7    3   Freq Level 4 UNI  5.00000E+0001  6.00000E+0001  7.00000E+0001 
+    7        7    4 % piping fails UNI  4.00000E+0001  4.50000E+0001  5.00000E+0001 
+    7        7    5   Mean pk flow UNI  3.00000E+0003  3.50000E+0003  4.50000E+0003 
+    7        7    6 Std dev pk flo UNI  7.50000E+0001  1.00000E+0002  1.50000E+0002 
+    7        7    7  JVR97 highest UNI  3.00000E+0001  3.80000E+0001  4.20000E+0001 
+    7        7    8   JVR97 median UNI  2.50000E+0001  3.00000E+0001  3.50000E+0001 
+    7        7    9   JVR97 lowest UNI  1.50000E+0001  2.50000E+0001  4.00000E+0001 
+    7        7   10 Teton first fl UNI  1.50000E+0000  2.00000E+0000  2.51000E+0000 
+    7        7   11     WarmW time UNI  1.35000E+0001  1.40000E+0001  1.45000E+0001 
+    8        8    1   Freq Level 2 UNI  5.00000E+0000  1.50000E+0001  2.50000E+0001                                                                                                                                   No. occurrences in 10 yrs Level 2 incidents 
+    8        8    2   Freq Level 3 UNI  1.00000E+0002  1.50000E+0002  2.00000E+0002 
+    8        8    3   Freq Level 4 UNI  2.00000E+0002  3.00000E+0002  4.00000E+0002 
+    8        8    4 % piping fails UNI  2.00000E+0000  5.00000E+0000  8.00000E+0000 
+    8        8    5   Mean pk flow UNI  1.00000E+0000  5.00000E+0000  1.00000E+0001 
+    8        8    6 Std dev pk flo UNI  1.00000E+0000  2.00000E+0000  3.00000E+0000 
+    8        8    7  JVR97 highest UNI  1.00000E+0000  2.00000E+0000  3.00000E+0000 
+    8        8    8   JVR97 median UNI  0.00000E+0000  1.00000E+0000  2.00000E+0000 
+    8        8    9   JVR97 lowest UNI  0.00000E+0000  1.00000E-0003  1.00000E+0000 
+    8        8   10 Teton first fl UNI  2.00000E+0000  6.00000E+0000  1.00000E+0001 
+    8        8   11     WarmW time UNI  1.00000E+0000  2.00000E+0000  3.00000E+0000 
+    9        9    1   Freq Level 2 UNI  2.00000E+0000  5.00000E+0000  1.50000E+0001                                                                                                                                   No. occurrences in 10 yrs Level 2 incidents 
+    9        9    2   Freq Level 3 UNI  5.00000E+0000  2.00000E+0001  3.00000E+0001 
+    9        9    3   Freq Level 4 UNI  1.00000E+0001  4.00000E+0001  6.00000E+0001 
+    9        9    4 % piping fails UNI  1.00000E-0002  5.00000E-0002  2.00000E-0001 
+    9        9    5   Mean pk flow UNI  5.00000E-0001  2.00000E+0000  5.00000E+0000 
+    9        9    6 Std dev pk flo UNI  2.00000E-0001  1.00000E+0000  2.00000E+0000 
+    9        9    7  JVR97 highest UNI  1.00000E+0001  4.00000E+0001  2.00000E+0002 
+    9        9    8   JVR97 median UNI  2.00000E+0000  1.00000E+0001  4.00000E+0001 
+    9        9    9   JVR97 lowest UNI  1.00000E-0001  2.00000E+0000  1.00000E+0001 
+    9        9   10 Teton first fl UNI  1.00000E+0000  5.00000E+0000  1.00000E+0001 
+    9        9   11     WarmW time UNI  2.00000E+0000  1.00000E+0001  2.00000E+0001 
+   10       10    1   Freq Level 2 UNI  3.00000E+0000  5.00000E+0000  2.00000E+0001                                                                                                                                   No. occurrences in 10 yrs Level 2 incidents 
+   10       10    2   Freq Level 3 UNI  5.00000E+0000  2.00000E+0001  5.00000E+0001 
+   10       10    3   Freq Level 4 UNI  5.00000E+0001  2.00000E+0002  5.00000E+0002 
+   10       10    4 % piping fails UNI  1.00000E+0001  2.00000E+0001  5.00000E+0001 
+   10       10    5   Mean pk flow UNI  2.00000E+0001  1.00000E+0002  5.00000E+0002 
+   10       10    6 Std dev pk flo UNI  2.00000E+0001  5.00000E+0001  1.00000E+0002 
+   10       10    7  JVR97 highest UNI  5.00000E+0000  1.00000E+0001  5.00000E+0001 
+   10       10    8   JVR97 median UNI  2.00000E+0000  5.00000E+0000  3.00000E+0001 
+   10       10    9   JVR97 lowest UNI  1.00000E+0000  7.00000E+0000  1.50000E+0001 
+   10       10   10 Teton first fl UNI  5.00000E+0000  1.00000E+0001  1.50000E+0001 
+   10       10   11     WarmW time UNI  5.00000E+0000  1.00000E+0001  2.00000E+0001 
+   11       11    1   Freq Level 2 UNI  4.00000E+0000  6.00000E+0000  1.00000E+0001                                                                                                                                   No. occurrences in 10 yrs Level 2 incidents 
+   11       11    2   Freq Level 3 UNI  1.20000E+0001  1.50000E+0001  2.00000E+0001 
+   11       11    3   Freq Level 4 UNI  2.00000E+0001  5.00000E+0001  1.00000E+0002 
+   11       11    4 % piping fails UNI  1.00000E+0000  2.00000E+0000  5.00000E+0000 
+   11       11    5   Mean pk flow UNI  2.00000E+0001  1.00000E+0002  2.00000E+0002 
+   11       11    6 Std dev pk flo UNI  4.40000E+0001  1.00000E+0002  1.50000E+0002 
+   11       11    7  JVR97 highest UNI  1.00000E+0000  2.00000E+0000  5.00000E+0000 
+   11       11    8   JVR97 median UNI  1.00000E-0003  1.00000E-0002  1.00000E+0000 
+   11       11    9   JVR97 lowest UNI  1.00000E-0004  1.00000E-0003  2.00000E-0003 
+   11       11   10 Teton first fl UNI  2.40000E+0000  1.00000E+0001  2.40000E+0001 
+   11       11   11     WarmW time UNI  2.00000E+0000  1.00000E+0001  1.20000E+0001 

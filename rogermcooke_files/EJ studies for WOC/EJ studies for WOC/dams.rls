@@ -1,0 +1,11 @@
+    1   Freq Level 2  5.60000E+0000 UNI                                                                                                                                   No. occurrences in 10 yrs Level 2 incidents 
+    2   Freq Level 3  1.15000E+0002 UNI                                                                                                                                 No. occurrences in 10 years Level 3 incidents 
+    3   Freq Level 4  2.10000E+0002 UNI                                                                                                                                 No. occurrences in 10 years Level 4 incidents 
+    4 % piping fails  2.00000E-0001 UNI                                                                                                                                                    ICOLD %age piping failures 
+    5   Mean pk flow  8.00000E+0001 UNI                                                                                                                                               MCR dams, mean peak flow  l/sec 
+    6 Std dev pk flo  4.50000E+0001 UNI                                                                                                                                              Std Dev on MCR peak flows, l/sec 
+    7  JVR97 highest  6.70000E+0001 UNI                                                                                                                            No. 95%ile internal erosion failures in 1000 years 
+    8   JVR97 median  6.10000E+0000 UNI                                                                                                                            No. median internal erosion failures in 1000 years 
+    9   JVR97 lowest  7.00000E-0001 UNI                                                                                                                             No. 5%ile internal erosion failures in 1000 years 
+   10 Teton first fl  2.50000E+0000 UNI                                                                                                                           Teton dam time in hrs from mud seen to whirlpooling 
+   11     WarmW time  1.40000E+0001 UNI                                                                                                                                      Time in hrs from prog erosion to failure 

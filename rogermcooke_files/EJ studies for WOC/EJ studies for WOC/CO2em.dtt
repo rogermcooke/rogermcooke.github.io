@@ -1,0 +1,111 @@
+* CLASS ASCII OUTPUT FILE. NQ=   3   QU=   5  50  95
+    1 exprt001    1         spAdEc uni  3.00000E+0000  6.00000E+0000  8.00000E+0000                                                                                                                Ave spread  growth rte non-recess -  recess yrs Advanced Econs                                                 JA
+    1 exprt001    2         spEmMr uni  1.50000E+0000  3.00000E+0000  8.00000E+0000                                                                                                          Ave spread  growth rte non-recess -  recess yrs Em Markts&Devl econs 
+    1 exprt001    3         spEaPc uni  4.00000E+0000  7.00000E+0000  9.00000E+0000                                                                                              Ave spread  growth rte non-recess -  recess yrs East Asia and Pacific Countries? 
+    1 exprt001    4          %OECD uni -6.00000E-0001 -4.50000E-0001 -3.00000E-0001                                                                                                                                            % change in CO2 ems intensity OECD 
+    1 exprt001    5          %SSAf uni -2.00000E-0001  0.00000E+0000  3.00000E-0001                                                                                                                              % change in CO2 ems intensity Sub-Saharan Africa 
+    1 exprt001    6          #ngSA uni  1.50000E+0001  1.90000E+0001  2.20000E+0001                                                                                                                    yrs (out of 28) neg year-over-year change in CO2 emissions 
+    1 exprt001    7         #ngSSA uni  5.00000E+0000  1.20000E+0001  2.00000E+0001                                                                                                                    yrs (out of 28) neg year-over-year change in CO2 emissions 
+    1 exprt001    8         %ergME uni -1.00000E-0001  0.00000E+0000  2.00000E-0001                                                                                                                                 % change in energy intensity for Middle East? 
+    1 exprt001    9         %ergCh uni -7.00000E-0001 -5.50000E-0001 -4.50000E-0001                                                                                                                                       % change in energy intensity for China? 
+    1 exprt001   10         RnwVen uni  0.00000E+0000  1.00000E+0001  4.00000E+0001                                                                                                                    renwbls abs change (% points) in primary energy Venezuela? 
+    1 exprt001   11         RwnPor uni  5.00000E+0000  1.50000E+0001  2.50000E+0001                                                                                                                     renwbls abs change (% points) in primary energy Portugal? 
+    2 exprt002    1         spAdEc uni  4.20000E+0000  4.60000E+0000  5.00000E+0000                                                                                                                Ave spread  growth rte non-recess -  recess yrs Advanced Econs                                                 DV
+    2 exprt002    2         spEmMr uni  3.50000E+0000  4.40000E+0000  5.50000E+0000 
+    2 exprt002    3         spEaPc uni  3.00000E+0000  5.00000E+0000  7.00000E+0000 
+    2 exprt002    4          %OECD uni -4.00000E-0001 -3.31000E-0001 -2.50000E-0001 
+    2 exprt002    5          %SSAf uni -2.00000E-0001  0.00000E+0000  2.00000E-0001 
+    2 exprt002    6          #ngSA uni  1.00000E+0001  1.50000E+0001  2.60000E+0001 
+    2 exprt002    7         #ngSSA uni  2.00000E+0000  8.00000E+0000  1.50000E+0001 
+    2 exprt002    8         %ergME uni -2.50000E-0001 -1.00000E-0001  0.00000E+0000 
+    2 exprt002    9         %ergCh uni -7.00000E-0001 -5.00000E-0001 -4.50000E-0001 
+    2 exprt002   10         RnwVen uni -2.00000E+0000  3.00000E+0000  8.00000E+0000 
+    2 exprt002   11         RwnPor uni  4.00000E+0000  8.00000E+0000  1.20000E+0001 
+    3 exprt003    1         spAdEc uni  2.00000E+0000  3.00000E+0000  4.00000E+0000                                                                                                                Ave spread  growth rte non-recess -  recess yrs Advanced Econs                                                Ben
+    3 exprt003    2         spEmMr uni  2.50000E+0000  3.50000E+0000  4.50000E+0000 
+    3 exprt003    3         spEaPc uni  3.00000E+0000  4.50000E+0000  5.00000E+0000 
+    3 exprt003    4          %OECD uni -3.00000E-0001 -2.00000E-0001 -1.50000E-0001 
+    3 exprt003    5          %SSAf uni  1.00000E-0001  2.00000E-0001  3.00000E-0001 
+    3 exprt003    6          #ngSA uni  1.50000E+0001  2.00000E+0001  2.40000E+0001 
+    3 exprt003    7         #ngSSA uni  1.00000E+0001  1.40000E+0001  1.80000E+0001 
+    3 exprt003    8         %ergME uni -2.00000E-0001 -1.00000E-0001  0.00000E+0000 
+    3 exprt003    9         %ergCh uni -7.00000E-0001 -5.00000E-0001 -3.00000E-0001 
+    3 exprt003   10         RnwVen uni  0.00000E+0000  1.00000E+0000  2.00000E+0000 
+    3 exprt003   11         RwnPor uni  8.00000E+0000  1.00000E+0001  1.50000E+0001 
+    4 exprt004    1         spAdEc uni  1.80000E+0000  2.50000E+0000  3.80000E+0000                                                                                                                Ave spread  growth rte non-recess -  recess yrs Advanced Econs                                               Tier
+    4 exprt004    2         spEmMr uni  2.00000E+0000  5.00000E+0000  6.00000E+0000 
+    4 exprt004    3         spEaPc uni  4.80000E+0000  6.00000E+0000  6.50000E+0000 
+    4 exprt004    4          %OECD uni -6.00000E-0001 -5.00000E-0001 -3.80000E-0001 
+    4 exprt004    5          %SSAf uni -2.00000E-0001  1.00000E+0000  1.50000E+0000 
+    4 exprt004    6          #ngSA uni  0.00000E+0000  1.00000E+0000  4.00000E+0000 
+    4 exprt004    7         #ngSSA uni  2.00000E+0000  4.00000E+0000  6.00000E+0000 
+    4 exprt004    8         %ergME uni -3.50000E-0001  0.00000E+0000  3.50000E-0001 
+    4 exprt004    9         %ergCh uni -1.00000E-0001  5.00000E-0001  7.00000E-0001 
+    4 exprt004   10         RnwVen uni  0.00000E+0000  5.00000E-0001  2.00000E+0000 
+    4 exprt004   11         RwnPor uni  5.00000E+0000  1.00000E+0001  1.40000E+0001 
+    5 exprt005    1         spAdEc uni  2.00000E+0000  5.00000E+0000  7.00000E+0000                                                                                                                Ave spread  growth rte non-recess -  recess yrs Advanced Econs                                                 KR
+    5 exprt005    2         spEmMr uni  4.00000E+0000  7.00000E+0000  9.00000E+0000 
+    5 exprt005    3         spEaPc uni  6.00000E+0000  9.00000E+0000  1.10000E+0001 
+    5 exprt005    4          %OECD uni -4.00000E-0001 -2.00000E-0001 -1.00000E-0001 
+    5 exprt005    5          %SSAf uni -6.00000E-0001 -4.00000E-0001 -2.00000E-0001 
+    5 exprt005    6          #ngSA uni  1.40000E+0001  2.20000E+0001  2.60000E+0001 
+    5 exprt005    7         #ngSSA uni  1.10000E+0001  1.90000E+0001  2.30000E+0001 
+    5 exprt005    8         %ergME uni -1.00000E-0001 -5.00000E-0002  1.50000E-0001 
+    5 exprt005    9         %ergCh uni -8.50000E-0001 -7.00000E-0001 -5.00000E-0001 
+    5 exprt005   10         RnwVen uni  5.00000E-0001  1.00000E+0000  1.50000E+0000 
+    5 exprt005   11         RwnPor uni  1.00000E+0000  5.00000E+0000  7.00000E+0000 
+    6 exprt006    1         spAdEc uni  2.00000E+0000  4.10000E+0000  8.00000E+0000                                                                                                                Ave spread  growth rte non-recess -  recess yrs Advanced Econs                                                 LC
+    6 exprt006    2         spEmMr uni  3.00000E+0000  6.00000E+0000  2.00000E+0001 
+    6 exprt006    3         spEaPc uni  3.00000E+0000  6.00000E+0000  2.00000E+0001 
+    6 exprt006    4          %OECD uni -7.00000E-0001 -4.00000E-0001 -2.00000E-0001 
+    6 exprt006    5          %SSAf uni -5.00000E-0001 -3.30000E-0001  0.00000E+0000 
+    6 exprt006    6          #ngSA uni  5.00000E+0000  2.20000E+0001  2.70000E+0001 
+    6 exprt006    7         #ngSSA uni  5.00000E+0000  2.20000E+0001  2.70000E+0001 
+    6 exprt006    8         %ergME uni -4.00000E-0001 -2.00000E-0001  0.00000E+0000 
+    6 exprt006    9         %ergCh uni -4.00000E-0001 -2.00000E-0001  0.00000E+0000 
+    6 exprt006   10         RnwVen uni -1.00000E+0001  4.59000E+0000  4.00000E+0001 
+    6 exprt006   11         RwnPor uni  0.00000E+0000  4.59000E+0000  2.50000E+0001 
+    7 exprt007    1         spAdEc uni  2.00000E+0000  4.00000E+0000  6.20000E+0000                                                                                                                Ave spread  growth rte non-recess -  recess yrs Advanced Econs                                               Palt
+    7 exprt007    2         spEmMr uni  5.00000E-0001  5.00000E+0000  1.00000E+0001 
+    7 exprt007    3         spEaPc uni  5.00000E-0001  5.50000E+0000  1.20000E+0001 
+    7 exprt007    4          %OECD uni -7.50000E-0001 -5.00000E-0001  0.00000E+0000 
+    7 exprt007    5          %SSAf uni -1.00000E-0001  2.00000E-0001  4.00000E-0001 
+    7 exprt007    6          #ngSA uni  2.00000E+0001  2.50000E+0001  2.80000E+0001 
+    7 exprt007    7         #ngSSA uni  1.80000E+0001  2.50000E+0001  2.80000E+0001 
+    7 exprt007    8         %ergME uni -3.50000E-0001 -1.00000E-0001  1.00000E-0001 
+    7 exprt007    9         %ergCh uni -4.00000E-0001 -1.00000E-0001  2.00000E-0001 
+    7 exprt007   10         RnwVen uni  1.00000E-0001  1.00000E+0000  1.00000E+0001 
+    7 exprt007   11         RwnPor uni  5.00000E+0000  2.50000E+0001  5.00000E+0001 
+    8 exprt008    1         spAdEc uni  3.00000E+0000  5.00000E+0000  9.00000E+0000                                                                                                                Ave spread  growth rte non-recess -  recess yrs Advanced Econs                                                 EK
+    8 exprt008    2         spEmMr uni  2.00000E+0000  4.00000E+0000  1.00000E+0001 
+    8 exprt008    3         spEaPc uni  3.00000E+0000  5.00000E+0000  1.00000E+0001 
+    8 exprt008    4          %OECD uni -6.00000E-0001 -4.00000E-0001 -2.00000E-0001 
+    8 exprt008    5          %SSAf uni -3.00000E-0001  0.00000E+0000  3.00000E-0001 
+    8 exprt008    6          #ngSA uni  6.00000E+0000  1.40000E+0001  2.20000E+0001 
+    8 exprt008    7         #ngSSA uni  4.00000E+0000  1.40000E+0001  2.40000E+0001 
+    8 exprt008    8         %ergME uni -3.50000E-0001 -1.00000E-0001  1.00000E-0001 
+    8 exprt008    9         %ergCh uni -9.00000E-0001 -5.00000E-0001 -2.00000E-0001 
+    8 exprt008   10         RnwVen uni -2.00000E+0000  3.00000E+0000  9.00000E+0000 
+    8 exprt008   11         RwnPor uni  5.00000E+0000  1.50000E+0001  3.00000E+0001 
+    9 exprt009    1         spAdEc uni  1.00000E+0000  3.50000E+0000  5.00000E+0000                                                                                                                Ave spread  growth rte non-recess -  recess yrs Advanced Econs                                                 JM
+    9 exprt009    2         spEmMr uni  1.00000E+0000  5.00000E+0000  7.00000E+0000 
+    9 exprt009    3         spEaPc uni  1.50000E+0000  4.80000E+0000  7.00000E+0000 
+    9 exprt009    4          %OECD uni -8.00000E-0001 -5.00000E-0001 -2.50000E-0001 
+    9 exprt009    5          %SSAf uni -3.00000E-0001 -1.50000E-0001  1.00000E-0001 
+    9 exprt009    6          #ngSA uni  5.00000E+0000  1.80000E+0001  2.50000E+0001 
+    9 exprt009    7         #ngSSA uni  5.00000E+0000  1.20000E+0001  2.50000E+0001 
+    9 exprt009    8         %ergME uni -2.00000E-0001 -5.00000E-0002  1.00000E-0001 
+    9 exprt009    9         %ergCh uni -4.00000E-0001 -2.50000E-0001 -5.00000E-0002 
+    9 exprt009   10         RnwVen uni  4.00000E+0000  1.00000E+0001  2.00000E+0001 
+    9 exprt009   11         RwnPor uni  2.00000E+0000  5.00000E+0000  2.00000E+0001 
+   10 exprt010    1         spAdEc uni  1.00000E+0000  3.00000E+0000  6.00000E+0000                                                                                                                Ave spread  growth rte non-recess -  recess yrs Advanced Econs                                               Blan
+   10 exprt010    2         spEmMr uni  1.00000E+0000  6.00000E+0000  1.00000E+0001 
+   10 exprt010    3         spEaPc uni  1.00000E+0000  2.00000E+0000  8.00000E+0000 
+   10 exprt010    4          %OECD uni -6.00000E-0001 -4.00000E-0001 -2.00000E-0001 
+   10 exprt010    5          %SSAf uni -6.60000E-0001 -3.30000E-0001 -1.00000E-0001 
+   10 exprt010    6          #ngSA uni  1.40000E+0001  2.20000E+0001  2.80000E+0001 
+   10 exprt010    7         #ngSSA uni  1.00000E+0001  2.00000E+0001  2.80000E+0001 
+   10 exprt010    8         %ergME uni -6.00000E-0001 -2.50000E-0001 -5.00000E-0002 
+   10 exprt010    9         %ergCh uni -8.00000E-0001 -5.00000E-0001 -2.00000E-0001 
+   10 exprt010   10         RnwVen uni -3.00000E+0001  0.00000E+0000  3.00000E+0001 
+   10 exprt010   11         RwnPor uni  3.00000E+0000  1.00000E+0001  2.50000E+0001 

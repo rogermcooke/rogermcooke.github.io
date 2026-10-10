@@ -1,0 +1,451 @@
+* CLASS ASCII OUTPUT FILE. NQ=   3   QU=   5  50  95
+    1        1    1        MSH eqs log  1.00000E+0000  5.00000E+0000  1.00000E+0001                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH 
+    1        1    2 Pelee Plinians log  1.00000E-0002  5.00000E+0001  1.00000E+0002                                                                                                             percent. classified as Plinian in stratigraphy of last 6000 years 
+    1        1    3    Global VEI5 log  5.00000E+0000  1.00000E+0001  2.00000E+0001                                                                                                                                       no. VEI >=5 in last 2000 years globally 
+    1        1    4  SHV extrusion log  1.00000E+0001  5.00000E+0001  1.00000E+0002                                                                                                                              highest non-explosive extrusion rate SHV 1995-98 
+    1        1    5 Shiveluch magm log  1.00000E+0002  5.00000E+0002  1.00000E+0003                                                                                                                   magma production rate per year in Holocene, 000's tons/year 
+    1        1    6 Kelud casualti log  1.00000E+0002  5.00000E+0002  1.00000E+0003                                                                                                                                               no. fatalities from 1919 lahars 
+    1        1    7 Hudson clast d log  1.00000E+0002  5.00000E+0002  1.00000E+0003                                                                                                                           max. pumice clast dimension at 50km isopleth, in mm 
+    1        1    8 Myojinsho angl log  1.00000E+0000  5.00000E+0000  1.00000E+0001                                                                                                                                    angle of upper slopes of submarine volcano 
+    1        1    9 Shiveluch area log  5.00000E+0001  1.00000E+0002  2.01000E+0002                                                                                                                                    area of AD1430 3 cu km avalanche, in sq km 
+    1        1   10    Hawaii pubs log  1.00000E+0002  5.00000E+0002  1.00000E+0003                                                                                                                                    no. pubs on Hawaiian-Emperor Chain in 1995 
+    2        2    1        MSH eqs log  1.00000E+0001  2.00000E+0001  5.00000E+0001                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH 
+    2        2    2 Pelee Plinians log  3.90000E+0001  5.00000E+0001  6.00000E+0001 
+    2        2    3    Global VEI5 log  1.00000E+0001  2.00000E+0001  3.00000E+0001 
+    2        2    4  SHV extrusion log  1.20000E+0001  1.50000E+0001  2.00000E+0001 
+    2        2    5 Shiveluch magm log  1.00000E+0001  5.00000E+0001  5.00000E+0002 
+    2        2    6 Kelud casualti log  2.00000E+0002  2.00000E+0003  6.00000E+0003 
+    2        2    7 Hudson clast d log  5.00000E+0000  1.00000E+0001  2.00000E+0001 
+    2        2    8 Myojinsho angl log  2.50000E+0001  3.00000E+0001  3.50000E+0001 
+    2        2    9 Shiveluch area log  5.00000E+0001  1.00000E+0002  2.01000E+0002 
+    2        2   10    Hawaii pubs log  2.00000E+0001  5.00000E+0001  7.00000E+0001 
+    3        3    1        MSH eqs log  1.00000E-0001  1.00000E+0001  1.00000E+0003                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH 
+    3        3    2 Pelee Plinians log  1.00000E-0001  2.00000E+0001  4.10000E+0001 
+    3        3    3    Global VEI5 log  1.00000E+0002  1.00000E+0003  1.00000E+0004 
+    3        3    4  SHV extrusion log  1.00000E+0001  1.40000E+0001  2.00000E+0001 
+    3        3    5 Shiveluch magm log  1.00000E+0000  1.00000E+0002  1.00000E+0005 
+    3        3    6 Kelud casualti log  5.00000E+0001  5.00000E+0003  2.00000E+0004 
+    3        3    7 Hudson clast d log  3.00000E+0001  2.00000E+0002  5.00000E+0002 
+    3        3    8 Myojinsho angl log  2.00000E+0001  4.00000E+0001  5.00000E+0001 
+    3        3    9 Shiveluch area log  1.99000E+0002  5.00000E+0002  8.00000E+0002 
+    3        3   10    Hawaii pubs log  1.00000E+0003  3.00000E+0003  1.00000E+0004 
+    4        4    1        MSH eqs log  7.50000E+0001  3.00000E+0002  7.50000E+0002                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH 
+    4        4    2 Pelee Plinians log  1.00000E+0001  1.50000E+0001  2.00000E+0001 
+    4        4    3    Global VEI5 log  5.00000E+0000  1.20000E+0001  2.40000E+0001 
+    4        4    4  SHV extrusion log  1.00000E+0001  2.50000E+0001  1.00000E+0002 
+    4        4    5 Shiveluch magm log  1.00000E+0003  3.00000E+0003  1.00000E+0004 
+    4        4    6 Kelud casualti log  1.00000E+0003  1.50000E+0003  3.00000E+0003 
+    4        4    7 Hudson clast d log  1.50000E+0001  3.00000E+0001  9.00000E+0001 
+    4        4    8 Myojinsho angl log  1.50000E+0001  3.00000E+0001  9.00000E+0001 
+    4        4    9 Shiveluch area log  5.00000E+0001  1.00000E+0002  1.50000E+0002 
+    4        4   10    Hawaii pubs log  1.00000E+0000  3.00000E+0000  1.00000E+0001 
+    5        5    1        MSH eqs log  1.00000E+0002  1.00000E+0003  1.00000E+0004                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH 
+    5        5    2 Pelee Plinians log  5.00000E+0000  1.00000E+0001  2.00000E+0001 
+    5        5    3    Global VEI5 log  1.00000E+0002  5.00000E+0002  1.00000E+0003 
+    5        5    4  SHV extrusion log  1.00000E-0003  1.00000E-0002  1.00000E-0001 
+    5        5    5 Shiveluch magm log  1.00000E+0002  2.00000E+0003  1.00000E+0004 
+    5        5    6 Kelud casualti log  1.00000E+0001  1.00000E+0002  1.00000E+0003 
+    5        5    7 Hudson clast d log  2.00000E+0000  7.00000E+0000  1.00000E+0001 
+    5        5    8 Myojinsho angl log  1.50000E+0001  2.50000E+0001  3.50000E+0001 
+    5        5    9 Shiveluch area log  1.00000E+0002  3.00000E+0002  1.00000E+0003 
+    5        5   10    Hawaii pubs log  1.00000E+0001  5.00000E+0001  1.00000E+0002 
+    6        6    1        MSH eqs log  1.00000E+0002  5.00000E+0002  9.00000E+0002                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH 
+    6        6    2 Pelee Plinians log  1.00000E+0001  2.50000E+0001  4.10000E+0001 
+    6        6    3    Global VEI5 log  2.00000E+0002  3.00000E+0002  5.00000E+0002 
+    6        6    4  SHV extrusion log  1.00000E+0002  1.00000E+0003  1.00000E+0004 
+    6        6    5 Shiveluch magm log  1.00000E+0003  1.00000E+0006  1.00000E+0009 
+    6        6    6 Kelud casualti log  1.00000E+0001  5.00000E+0001  1.00000E+0002 
+    6        6    7 Hudson clast d log  1.00000E+0001  1.00000E+0002  5.00000E+0002 
+    6        6    8 Myojinsho angl log  1.00000E+0001  2.00000E+0001  3.50000E+0001 
+    6        6    9 Shiveluch area log  1.00000E+0002  2.00000E+0002  3.00000E+0002 
+    6        6   10    Hawaii pubs log  1.00000E+0002  1.50000E+0002  2.00000E+0002 
+    7        7    1        MSH eqs log  1.00000E-0001  1.00000E+0001  1.00000E+0002                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH 
+    7        7    2 Pelee Plinians log  1.00000E+0000  8.00000E+0000  1.00000E+0001 
+    7        7    3    Global VEI5 log  5.00000E+0001  6.00000E+0001  1.00000E+0002 
+    7        7    4  SHV extrusion log  1.00000E+0000  2.00000E+0000  3.00000E+0000 
+    7        7    5 Shiveluch magm log  1.00000E+0000  1.10000E+0000  1.00000E+0001 
+    7        7    6 Kelud casualti log  5.00000E+0001  1.00000E+0002  3.00000E+0002 
+    7        7    7 Hudson clast d log  1.00000E+0002  1.00000E+0003  2.00000E+0003 
+    7        7    8 Myojinsho angl log  5.00000E+0000  4.50000E+0001  8.50000E+0001 
+    7        7    9 Shiveluch area log  2.00000E+0001  3.00000E+0001  1.00000E+0002 
+    7        7   10    Hawaii pubs log  3.00000E+0001  5.00000E+0001  8.00000E+0001 
+    8        8    1        MSH eqs log  1.00000E+0002  3.00000E+0002  2.00000E+0003                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH 
+    8        8    2 Pelee Plinians log  2.00000E+0001  5.00000E+0001  8.00000E+0001 
+    8        8    3    Global VEI5 log  5.00000E+0001  6.00000E+0001  1.00000E+0002 
+    8        8    4  SHV extrusion log  1.00000E+0001  5.00000E+0001  5.00000E+0002 
+    8        8    5 Shiveluch magm log  1.00000E+0000  2.00000E+0000  5.00000E+0001 
+    8        8    6 Kelud casualti log  1.00000E+0000  9.00000E+0002  1.20000E+0003 
+    8        8    7 Hudson clast d log  1.00000E+0000  1.00000E+0001  2.00000E+0001 
+    8        8    8 Myojinsho angl log  5.00000E+0000  2.00000E+0001  4.00000E+0001 
+    8        8    9 Shiveluch area log  1.00000E+0002  3.00000E+0002  3.00000E+0003 
+    8        8   10    Hawaii pubs log  4.00000E+0001  5.00000E+0001  1.50000E+0002 
+    9        9    1        MSH eqs log  5.00000E+0002  1.00000E+0003  3.00000E+0003                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH 
+    9        9    2 Pelee Plinians log  5.00000E+0000  2.00000E+0001  4.10000E+0001 
+    9        9    3    Global VEI5 log  5.00000E+0001  1.00000E+0002  3.00000E+0002 
+    9        9    4  SHV extrusion log  5.00000E+0001  2.00000E+0002  5.00000E+0002 
+    9        9    5 Shiveluch magm log  2.00000E+0001  1.00000E+0002  4.00000E+0002 
+    9        9    6 Kelud casualti log  1.00000E+0002  1.00000E+0003  5.00000E+0003 
+    9        9    7 Hudson clast d log  1.00000E+0001  4.00000E+0001  1.00000E+0002 
+    9        9    8 Myojinsho angl log  4.00000E+0001  7.00000E+0001  8.00000E+0001 
+    9        9    9 Shiveluch area log  5.00000E+0002  2.00000E+0003  4.00000E+0003 
+    9        9   10    Hawaii pubs log  1.00000E+0001  2.50000E+0001  6.00000E+0001 
+   10       10    1        MSH eqs log  1.00000E+0002  5.00000E+0002  7.00000E+0002                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH 
+   10       10    2 Pelee Plinians log  3.90000E+0001  5.00000E+0001  7.00000E+0001 
+   10       10    3    Global VEI5 log  4.00000E+0002  5.00000E+0002  7.00000E+0002 
+   10       10    4  SHV extrusion log  1.00000E+0001  2.00000E+0001  5.00000E+0001 
+   10       10    5 Shiveluch magm log  1.00000E+0003  2.00000E+0003  3.00000E+0003 
+   10       10    6 Kelud casualti log  3.00000E+0002  5.00000E+0002  7.00000E+0002 
+   10       10    7 Hudson clast d log  5.00000E+0002  8.00000E+0002  1.00000E+0003 
+   10       10    8 Myojinsho angl log  6.00000E+0001  7.00000E+0001  8.00000E+0001 
+   10       10    9 Shiveluch area log  3.00000E+0001  5.00000E+0001  8.00000E+0001 
+   10       10   10    Hawaii pubs log  3.00000E+0001  1.00000E+0002  1.50000E+0002 
+   11       11    1        MSH eqs log  1.00000E-0001  1.00000E+0002  1.00000E+0004                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH 
+   11       11    2 Pelee Plinians log  1.00000E-0002  3.00000E+0001  1.00000E+0002 
+   11       11    3    Global VEI5 log  1.00000E-0001  1.00000E+0002  1.00000E+0004 
+   11       11    4  SHV extrusion log  1.00000E-0004  5.00000E+0001  1.00000E+0003 
+   11       11    5 Shiveluch magm log  1.00000E-0003  4.00000E+0002  1.00000E+0003 
+   11       11    6 Kelud casualti log  1.00000E+0000  1.00000E+0003  1.00000E+0004 
+   11       11    7 Hudson clast d log  1.00000E-0002  1.00000E+0000  1.00000E+0009 
+   11       11    8 Myojinsho angl log  3.00000E+0001  4.00000E+0001  6.00000E+0001 
+   11       11    9 Shiveluch area log  1.00000E-0002  2.00000E+0002  1.00000E+0004 
+   11       11   10    Hawaii pubs log  1.00000E+0000  5.00000E+0001  1.00000E+0003 
+   12       12    1        MSH eqs log  1.00000E+0002  1.50000E+0002  2.00000E+0002                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH 
+   12       12    2 Pelee Plinians log  1.00000E+0000  3.00000E+0000  5.00000E+0000 
+   12       12    3    Global VEI5 log  1.00000E+0001  2.00000E+0001  3.00000E+0001 
+   12       12    4  SHV extrusion log  1.00000E+0001  2.00000E+0001  3.00000E+0001 
+   12       12    5 Shiveluch magm log  2.00000E+0002  5.00000E+0002  1.00000E+0003 
+   12       12    6 Kelud casualti log  5.00000E+0001  1.00000E+0002  1.50000E+0002 
+   12       12    7 Hudson clast d log  5.00000E+0001  1.00000E+0002  1.50000E+0002 
+   12       12    8 Myojinsho angl log  1.50000E+0001  2.50000E+0001  3.50000E+0001 
+   12       12    9 Shiveluch area log  2.00000E+0001  3.00000E+0001  6.00000E+0001 
+   12       12   10    Hawaii pubs log  1.00000E+0001  2.00000E+0001  4.00000E+0001 
+   13       13    1        MSH eqs log  1.00000E-0001  5.00000E+0001  5.00000E+0002                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH 
+   13       13    2 Pelee Plinians log  1.00000E-0003  3.00000E+0001  1.00000E+0002 
+   13       13    3    Global VEI5 log  4.00000E+0000  2.00000E+0001  5.00000E+0001 
+   13       13    4  SHV extrusion log  1.00000E+0005  1.00000E+0006  1.00000E+0007 
+   13       13    5 Shiveluch magm log  1.00000E+0000  1.00000E+0002  1.00000E+0005 
+   13       13    6 Kelud casualti log  1.00000E+0000  5.00000E+0001  1.00000E+0003 
+   13       13    7 Hudson clast d log  1.00000E+0000  7.00000E+0001  1.00000E+0002 
+   13       13    8 Myojinsho angl log  3.00000E+0001  6.00000E+0001  8.00000E+0001 
+   13       13    9 Shiveluch area log  1.00000E+0001  1.00000E+0002  3.00000E+0002 
+   13       13   10    Hawaii pubs log  1.00000E+0000  1.00000E+0002  1.00000E+0003 
+   14       14    1        MSH eqs log  1.00000E+0002  5.00000E+0002  5.00000E+0003                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH 
+   14       14    2 Pelee Plinians log  1.00000E+0001  2.00000E+0001  3.00000E+0001 
+   14       14    3    Global VEI5 log  5.00000E+0000  1.00000E+0001  1.50000E+0001 
+   14       14    4  SHV extrusion log  1.00000E+0001  1.00000E+0002  2.00000E+0002 
+   14       14    5 Shiveluch magm log  1.00000E+0000  1.00000E+0001  1.00000E+0002 
+   14       14    6 Kelud casualti log  1.00000E+0002  1.00000E+0003  1.00000E+0004 
+   14       14    7 Hudson clast d log  1.00000E+0002  5.00000E+0002  1.00000E+0003 
+   14       14    8 Myojinsho angl log  7.00000E+0001  8.00000E+0001  9.00000E+0001 
+   14       14    9 Shiveluch area log  2.00000E+0000  1.00000E+0001  1.00000E+0002 
+   14       14   10    Hawaii pubs log  5.00000E+0001  1.00000E+0002  2.00000E+0002 
+   15       15    1        MSH eqs log  5.00000E+0000  2.00000E+0001  1.00000E+0002                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH 
+   15       15    2 Pelee Plinians log  5.00000E+0000  1.50000E+0001  3.00000E+0001 
+   15       15    3    Global VEI5 log  1.00000E+0001  8.00000E+0001  2.00000E+0002 
+   15       15    4  SHV extrusion log  5.00000E+0000  2.00000E+0001  5.00000E+0001 
+   15       15    5 Shiveluch magm log  1.00000E+0001  1.00000E+0002  1.00000E+0003 
+   15       15    6 Kelud casualti log  1.00000E+0001  5.00000E+0002  2.00000E+0003 
+   15       15    7 Hudson clast d log  1.00000E+0001  1.00000E+0002  1.00000E+0003 
+   15       15    8 Myojinsho angl log  2.50000E+0001  4.50000E+0001  7.50000E+0001 
+   15       15    9 Shiveluch area log  5.00000E+0000  1.00000E+0001  3.00000E+0001 
+   15       15   10    Hawaii pubs log  5.00000E+0000  5.00000E+0001  2.00000E+0002 
+   16       16    1        MSH eqs log  1.00000E-0001  6.00000E+0000  5.00000E+0001                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH 
+   16       16    2 Pelee Plinians log  1.00000E-0003  1.00000E+0001  1.00000E+0002 
+   16       16    3    Global VEI5 log  5.00000E+0000  2.00000E+0001  2.00000E+0002 
+   16       16    4  SHV extrusion log  1.00000E+0002  1.00000E+0003  1.00000E+0006 
+   16       16    5 Shiveluch magm log  1.00000E+0001  1.00000E+0003  1.00000E+0006 
+   16       16    6 Kelud casualti log  1.00000E+0000  2.00000E+0001  2.00000E+0002 
+   16       16    7 Hudson clast d log  1.00000E+0001  2.00000E+0002  1.00000E+0003 
+   16       16    8 Myojinsho angl log  2.50000E+0001  4.50000E+0001  7.50000E+0001 
+   16       16    9 Shiveluch area log  3.00000E+0001  3.00000E+0003  1.00000E+0004 
+   16       16   10    Hawaii pubs log  1.00000E+0000  5.00000E+0000  1.00000E+0002 
+   17       17    1        MSH eqs log  1.70000E+0003  2.50000E+0003  3.50000E+0003                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH 
+   17       17    2 Pelee Plinians log  2.00000E+0000  1.50000E+0001  2.50000E+0001 
+   17       17    3    Global VEI5 log  5.00000E+0001  5.00000E+0002  1.00000E+0003 
+   17       17    4  SHV extrusion log  1.00000E-0003  1.00000E-0001  1.00000E+0000 
+   17       17    5 Shiveluch magm log  1.00000E-0001  1.00000E+0001  1.00000E+0003 
+   17       17    6 Kelud casualti log  1.00000E+0001  2.50000E+0001  7.00000E+0001 
+   17       17    7 Hudson clast d log  1.00000E+0002  2.50000E+0002  5.00000E+0002 
+   17       17    8 Myojinsho angl log  2.00000E+0001  4.50000E+0001  6.00000E+0001 
+   17       17    9 Shiveluch area log  5.00000E+0001  1.00000E+0002  4.00000E+0002 
+   17       17   10    Hawaii pubs log  1.00000E+0000  5.00000E+0000  7.00000E+0000 
+   18       18    1        MSH eqs log  1.00000E-0001  1.20000E+0001  5.00000E+0002                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH 
+   18       18    2 Pelee Plinians log  1.00000E-0003  2.30000E+0001  1.00000E+0002 
+   18       18    3    Global VEI5 log  2.00000E+0001  8.30000E+0001  5.00000E+0003 
+   18       18    4  SHV extrusion log  1.00000E-0010  3.00000E+0003  1.00000E+0011 
+   18       18    5 Shiveluch magm log  1.00000E-0005  3.52000E+0002  1.00000E+0011 
+   18       18    6 Kelud casualti log  1.00000E+0000  4.00000E+0003  1.00000E+0005 
+   18       18    7 Hudson clast d log  1.00000E-0010  3.50000E-0001  1.00000E+0009 
+   18       18    8 Myojinsho angl log  1.00000E-0003  1.70000E+0001  9.00000E+0001 
+   18       18    9 Shiveluch area log  1.00000E-0005  3.00000E+0003  1.00000E+0010 
+   18       18   10    Hawaii pubs log  1.00000E+0000  1.03000E+0002  4.50000E+0003 
+   19       19    1        MSH eqs log  1.00000E+0001  1.00000E+0002  5.00000E+0002                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH 
+   19       19    2 Pelee Plinians log  3.90000E+0001  6.00000E+0001  8.00000E+0001 
+   19       19    3    Global VEI5 log  1.00000E+0002  2.50000E+0002  3.00000E+0002 
+   19       19    4  SHV extrusion log  5.00000E-0001  2.00000E+0000  3.00000E+0000 
+   19       19    5 Shiveluch magm log  1.00000E+0003  2.50000E+0003  5.00000E+0003 
+   19       19    6 Kelud casualti log  1.00000E+0003  1.00000E+0004  3.00000E+0004 
+   19       19    7 Hudson clast d log  5.00000E+0000  1.00000E+0001  1.50000E+0001 
+   19       19    8 Myojinsho angl log  1.50000E+0001  2.00000E+0001  2.50000E+0001 
+   19       19    9 Shiveluch area log  3.00000E+0001  4.00000E+0001  5.00000E+0001 
+   19       19   10    Hawaii pubs log  3.00000E+0001  5.00000E+0001  1.00000E+0002 
+   20       20    1        MSH eqs log  5.00000E+0001  2.00000E+0002  3.50000E+0002                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH 
+   20       20    2 Pelee Plinians log  1.00000E+0000  4.00000E+0000  6.00000E+0000 
+   20       20    3    Global VEI5 log  2.00000E+0000  4.00000E+0000  7.00000E+0000 
+   20       20    4  SHV extrusion log  1.00000E+0002  3.00000E+0002  5.00000E+0002 
+   20       20    5 Shiveluch magm log  1.00000E+0000  5.00000E+0001  1.50000E+0002 
+   20       20    6 Kelud casualti log  1.00000E+0000  1.00000E+0001  4.00000E+0001 
+   20       20    7 Hudson clast d log  5.00000E+0002  1.00000E+0003  1.50000E+0003 
+   20       20    8 Myojinsho angl log  1.50000E+0001  3.00000E+0001  4.50000E+0001 
+   20       20    9 Shiveluch area log  1.00000E+0001  3.00000E+0001  5.00000E+0001 
+   20       20   10    Hawaii pubs log  3.00000E+0001  5.00000E+0001  7.00000E+0001 
+   21       21    1        MSH eqs log  1.00000E+0003  5.00000E+0004  1.00000E+0005                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH 
+   21       21    2 Pelee Plinians log  7.00000E+0001  8.00000E+0001  9.00000E+0001 
+   21       21    3    Global VEI5 log  1.00000E+0001  5.00000E+0001  1.00000E+0002 
+   21       21    4  SHV extrusion log  1.00000E-0002  5.00000E-0001  1.00000E+0000 
+   21       21    5 Shiveluch magm log  1.00000E+0006  1.00000E+0008  5.00000E+0008 
+   21       21    6 Kelud casualti log  1.00000E+0001  1.00000E+0002  5.00000E+0002 
+   21       21    7 Hudson clast d log  1.00000E+0000  1.00000E+0001  1.00000E+0002 
+   21       21    8 Myojinsho angl log  5.00000E+0000  1.00000E+0001  2.00000E+0001 
+   21       21    9 Shiveluch area log  5.00000E+0001  1.00000E+0002  2.01000E+0002 
+   21       21   10    Hawaii pubs log  1.00000E+0001  2.00000E+0001  5.00000E+0001 
+   22       22    1        MSH eqs log  1.00000E-0001  3.00000E+0001  6.00000E+0001                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH 
+   22       22    2 Pelee Plinians log  5.00000E+0001  6.00000E+0001  8.00000E+0001 
+   22       22    3    Global VEI5 log  2.00000E+0002  2.22000E+0002  2.50000E+0002 
+   22       22    4  SHV extrusion log  1.00000E-0003  1.00000E-0002  1.00000E+0001 
+   22       22    5 Shiveluch magm log  1.00000E+0003  1.00000E+0004  2.00000E+0004 
+   22       22    6 Kelud casualti log  1.00000E+0003  3.00000E+0003  9.00000E+0003 
+   22       22    7 Hudson clast d log  2.50000E+0002  3.00000E+0002  5.00000E+0002 
+   22       22    8 Myojinsho angl log  1.00000E+0001  2.00000E+0001  4.50000E+0001 
+   22       22    9 Shiveluch area log  3.00000E+0001  5.00000E+0001  7.00000E+0001 
+   22       22   10    Hawaii pubs log  5.00000E+0001  6.00000E+0001  1.00000E+0002 
+   23       23    1        MSH eqs log  2.00000E+0001  5.00000E+0001  5.00000E+0002                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH 
+   23       23    2 Pelee Plinians log  1.00000E-0003  2.00000E+0001  5.00000E+0001 
+   23       23    3    Global VEI5 log  1.80000E+0002  2.00000E+0002  3.50000E+0002 
+   23       23    4  SHV extrusion log  1.00000E-0001  4.00000E+0001  1.00000E+0002 
+   23       23    5 Shiveluch magm log  1.00000E+0000  3.00000E+0001  1.00000E+0002 
+   23       23    6 Kelud casualti log  1.00000E+0003  1.00000E+0004  2.50000E+0004 
+   23       23    7 Hudson clast d log  5.00000E+0001  1.50000E+0002  5.00000E+0002 
+   23       23    8 Myojinsho angl log  2.00000E+0001  3.00000E+0001  3.50000E+0001 
+   23       23    9 Shiveluch area log  5.00000E+0000  2.00000E+0001  3.50000E+0001 
+   23       23   10    Hawaii pubs log  1.00000E+0000  5.00000E+0000  2.00000E+0001 
+   24       24    1        MSH eqs log  3.00000E+0002  5.00000E+0002  7.00000E+0002                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH 
+   24       24    2 Pelee Plinians log  3.50000E+0000  1.40000E+0001  4.50000E+0001 
+   24       24    3    Global VEI5 log  1.50000E+0002  3.00000E+0002  5.00000E+0002 
+   24       24    4  SHV extrusion log  5.00000E+0000  8.00000E+0000  1.00000E+0001 
+   24       24    5 Shiveluch magm log  1.00000E+0004  1.00000E+0005  1.00000E+0006 
+   24       24    6 Kelud casualti log  5.00000E+0002  1.00000E+0003  2.00000E+0003 
+   24       24    7 Hudson clast d log  5.00000E+0001  1.00000E+0002  1.30000E+0002 
+   24       24    8 Myojinsho angl log  3.00000E+0001  3.50000E+0001  5.00000E+0001 
+   24       24    9 Shiveluch area log  1.50000E+0002  2.00000E+0002  4.00000E+0002 
+   24       24   10    Hawaii pubs log  3.50000E+0001  4.00000E+0001  5.00000E+0001 
+   25       25    1        MSH eqs log  5.00000E+0000  2.00000E+0001  1.00000E+0002                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH 
+   25       25    2 Pelee Plinians log  2.50000E+0001  5.00000E+0001  7.50000E+0001 
+   25       25    3    Global VEI5 log  1.00000E+0000  2.00000E+0000  5.00000E+0000 
+   25       25    4  SHV extrusion log  1.00000E+0001  1.00000E+0003  1.00000E+0005 
+   25       25    5 Shiveluch magm log  1.00000E+0000  1.00000E+0002  1.00000E+0005 
+   25       25    6 Kelud casualti log  2.00000E+0003  5.00000E+0003  1.00000E+0004 
+   25       25    7 Hudson clast d log  1.00000E-0001  2.00000E-0001  1.00000E+0000 
+   25       25    8 Myojinsho angl log  3.00000E+0001  4.00000E+0001  5.00000E+0001 
+   25       25    9 Shiveluch area log  5.00000E+0001  1.00000E+0002  1.50000E+0002 
+   25       25   10    Hawaii pubs log  5.00000E+0001  1.00000E+0002  1.50000E+0002 
+   26       26    1        MSH eqs log  2.00000E+0002  1.00000E+0003  5.00000E+0003                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH 
+   26       26    2 Pelee Plinians log  4.00000E-0002  1.60000E+0001  5.00000E+0001 
+   26       26    3    Global VEI5 log  5.00000E+0001  3.00000E+0002  6.00000E+0002 
+   26       26    4  SHV extrusion log  1.00000E-0001  1.00000E+0000  1.00000E+0001 
+   26       26    5 Shiveluch magm log  1.00000E+0004  1.00000E+0005  1.00000E+0006 
+   26       26    6 Kelud casualti log  5.00000E+0001  2.00000E+0003  5.00000E+0003 
+   26       26    7 Hudson clast d log  4.00000E+0001  8.00000E+0001  1.60000E+0002 
+   26       26    8 Myojinsho angl log  1.50000E+0001  3.00000E+0001  4.50000E+0001 
+   26       26    9 Shiveluch area log  1.00000E+0002  3.00000E+0002  6.00000E+0002 
+   26       26   10    Hawaii pubs log  1.00000E+0001  3.00000E+0001  6.00000E+0001 
+   27       27    1        MSH eqs log  2.00000E+0001  4.00000E+0001  1.00000E+0002                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH 
+   27       27    2 Pelee Plinians log  2.00000E+0000  4.00000E+0000  1.00000E+0001 
+   27       27    3    Global VEI5 log  3.00000E+0001  5.00000E+0001  7.00000E+0001 
+   27       27    4  SHV extrusion log  2.00000E+0000  5.00000E+0000  1.00000E+0001 
+   27       27    5 Shiveluch magm log  1.00000E+0000  1.00000E+0005  1.00000E+0009 
+   27       27    6 Kelud casualti log  2.00000E+0003  4.00000E+0003  6.00000E+0003 
+   27       27    7 Hudson clast d log  1.00000E+0002  1.50000E+0002  3.00000E+0002 
+   27       27    8 Myojinsho angl log  1.00000E+0001  2.00000E+0001  2.50000E+0001 
+   27       27    9 Shiveluch area log  5.00000E+0001  1.00000E+0002  1.50000E+0002 
+   27       27   10    Hawaii pubs log  5.00000E+0001  1.50000E+0002  3.00000E+0002 
+   28       28    1        MSH eqs log  5.00000E+0000  5.00000E+0001  2.00000E+0002                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH 
+   28       28    2 Pelee Plinians log  4.00000E+0000  8.00000E+0000  1.20000E+0001 
+   28       28    3    Global VEI5 log  1.50000E+0001  3.50000E+0001  6.00000E+0001 
+   28       28    4  SHV extrusion log  5.00000E+0000  1.00000E+0001  3.00000E+0001 
+   28       28    5 Shiveluch magm log  1.00000E+0003  3.00000E+0003  1.00000E+0004 
+   28       28    6 Kelud casualti log  5.00000E+0002  2.00000E+0003  4.00000E+0003 
+   28       28    7 Hudson clast d log  8.00000E+0001  1.20000E+0002  1.50000E+0002 
+   28       28    8 Myojinsho angl log  2.00000E+0001  2.50000E+0001  3.00000E+0001 
+   28       28    9 Shiveluch area log  4.00000E+0001  1.00000E+0002  1.50000E+0002 
+   28       28   10    Hawaii pubs log  1.00000E+0002  2.00000E+0002  5.00000E+0002 
+   29       29    1        MSH eqs log  3.50000E+0003  7.00000E+0003  1.00000E+0004                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH 
+   29       29    2 Pelee Plinians log  5.00000E+0000  1.00000E+0001  1.50000E+0001 
+   29       29    3    Global VEI5 log  1.00000E+0001  2.00000E+0001  3.00000E+0001 
+   29       29    4  SHV extrusion log  5.00000E-0001  3.00000E+0000  5.00000E+0000 
+   29       29    5 Shiveluch magm log  1.50000E+0004  3.00000E+0004  4.00000E+0004 
+   29       29    6 Kelud casualti log  1.00000E+0003  2.50000E+0003  5.00000E+0003 
+   29       29    7 Hudson clast d log  1.00000E+0001  5.00000E+0001  1.00000E+0002 
+   29       29    8 Myojinsho angl log  1.00000E+0001  3.00000E+0001  4.50000E+0001 
+   29       29    9 Shiveluch area log  2.00000E+0000  5.00000E+0000  1.00000E+0001 
+   29       29   10    Hawaii pubs log  1.00000E+0000  5.00000E+0000  1.00000E+0001 
+   30       30    1        MSH eqs log  3.00000E+0002  1.80000E+0003  4.00000E+0003                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH 
+   30       30    2 Pelee Plinians log  1.00000E-0003  5.00000E+0000  1.00000E+0001 
+   30       30    3    Global VEI5 log  8.00000E+0000  2.00000E+0001  3.00000E+0001 
+   30       30    4  SHV extrusion log  7.50000E+0000  1.00000E+0001  1.19000E+0001 
+   30       30    5 Shiveluch magm log  2.00000E+0003  1.00000E+0004  1.50000E+0004 
+   30       30    6 Kelud casualti log  4.00000E+0001  3.00000E+0002  2.00000E+0003 
+   30       30    7 Hudson clast d log  2.00000E+0001  5.00000E+0001  8.00000E+0001 
+   30       30    8 Myojinsho angl log  2.00000E+0001  3.00000E+0001  3.50000E+0001 
+   30       30    9 Shiveluch area log  5.00000E+0000  2.00000E+0001  4.00000E+0001 
+   30       30   10    Hawaii pubs log  2.00000E+0002  6.00000E+0002  2.00000E+0003 
+   31       31    1        MSH eqs log  1.00000E+0000  3.00000E+0000  1.00000E+0001                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH 
+   31       31    2 Pelee Plinians log  1.00000E+0001  2.00000E+0001  2.50000E+0001 
+   31       31    3    Global VEI5 log  2.00000E+0001  5.00000E+0001  8.00000E+0001 
+   31       31    4  SHV extrusion log  1.00000E-0003  1.00000E-0001  1.00000E+0000 
+   31       31    5 Shiveluch magm log  1.00000E+0000  1.00000E+0001  1.00000E+0002 
+   31       31    6 Kelud casualti log  1.00000E+0002  1.00000E+0003  1.00000E+0004 
+   31       31    7 Hudson clast d log  1.00000E-0002  1.00000E-0001  1.00000E+0000 
+   31       31    8 Myojinsho angl log  1.50000E+0001  3.00000E+0001  4.50000E+0001 
+   31       31    9 Shiveluch area log  3.00000E+0000  5.00000E+0000  1.00000E+0001 
+   31       31   10    Hawaii pubs log  8.00000E+0001  1.00000E+0002  5.00000E+0002 
+   32       32    1        MSH eqs log  2.00000E+0001  2.00000E+0002  2.00000E+0004                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH 
+   32       32    2 Pelee Plinians log  5.00000E+0000  2.50000E+0001  8.00000E+0001 
+   32       32    3    Global VEI5 log  3.00000E+0000  1.50000E+0001  5.00000E+0001 
+   32       32    4  SHV extrusion log  1.00000E+0001  1.00000E+0002  1.00000E+0003 
+   32       32    5 Shiveluch magm log  1.00000E+0000  1.00000E+0002  1.00000E+0004 
+   32       32    6 Kelud casualti log  1.00000E+0000  5.00000E+0001  2.50000E+0004 
+   32       32    7 Hudson clast d log  2.00000E+0000  1.00000E+0001  5.00000E+0001 
+   32       32    8 Myojinsho angl log  5.00000E+0000  1.00000E+0001  2.00000E+0001 
+   32       32    9 Shiveluch area log  5.00000E+0001  5.00000E+0002  3.00000E+0003 
+   32       32   10    Hawaii pubs log  5.00000E+0000  5.00000E+0001  5.00000E+0002 
+   33       33    1        MSH eqs log  2.00000E+0002  5.00000E+0002  1.00000E+0003                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH 
+   33       33    2 Pelee Plinians log  4.00000E+0000  1.60000E+0001  3.20000E+0001 
+   33       33    3    Global VEI5 log  2.00000E+0000  5.00000E+0000  1.50000E+0001 
+   33       33    4  SHV extrusion log  4.90000E+0000  5.00000E+0000  8.00000E+0000 
+   33       33    5 Shiveluch magm log  5.00000E-0001  1.00000E+0001  1.00000E+0002 
+   33       33    6 Kelud casualti log  2.00000E+0002  1.00000E+0003  5.00000E+0003 
+   33       33    7 Hudson clast d log  3.00000E+0002  5.00000E+0002  9.00000E+0002 
+   33       33    8 Myojinsho angl log  1.20000E+0001  3.00000E+0001  4.50000E+0001 
+   33       33    9 Shiveluch area log  6.00000E+0001  1.50000E+0002  3.00000E+0002 
+   33       33   10    Hawaii pubs log  6.00000E+0000  2.00000E+0001  3.50000E+0001 
+   34       34    1        MSH eqs log  5.00000E+0001  2.00000E+0002  1.00000E+0003                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH 
+   34       34    2 Pelee Plinians log  2.00000E+0001  4.00000E+0001  6.00000E+0001 
+   34       34    3    Global VEI5 log  5.00000E+0001  1.00000E+0002  3.00000E+0002 
+   34       34    4  SHV extrusion log  1.00000E-0001  1.00000E+0000  3.00000E+0000 
+   34       34    5 Shiveluch magm log  1.00000E+0001  1.00000E+0002  1.00000E+0003 
+   34       34    6 Kelud casualti log  3.00000E+0001  1.00000E+0002  5.00000E+0002 
+   34       34    7 Hudson clast d log  5.00000E+0000  1.00000E+0001  5.00000E+0001 
+   34       34    8 Myojinsho angl log  1.50000E+0001  3.00000E+0001  4.20000E+0001 
+   34       34    9 Shiveluch area log  5.00000E+0000  1.00000E+0001  3.00000E+0001 
+   34       34   10    Hawaii pubs log  3.00000E+0001  5.00000E+0001  1.00000E+0002 
+   35       35    1        MSH eqs log  1.00000E+0000  5.00000E+0001  2.00000E+0002                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH 
+   35       35    2 Pelee Plinians log  1.00000E-0001  5.00000E+0000  1.00000E+0001 
+   35       35    3    Global VEI5 log  5.00000E+0000  1.00000E+0001  1.50000E+0001 
+   35       35    4  SHV extrusion log  1.00000E+0001  1.00000E+0002  1.00000E+0003 
+   35       35    5 Shiveluch magm log  1.00000E+0003  5.00000E+0003  1.00000E+0004 
+   35       35    6 Kelud casualti log  5.00000E+0002  1.00000E+0003  5.00000E+0003 
+   35       35    7 Hudson clast d log  2.50000E+0001  5.00000E+0001  1.00000E+0002 
+   35       35    8 Myojinsho angl log  2.00000E+0001  3.00000E+0001  4.00000E+0001 
+   35       35    9 Shiveluch area log  1.00000E+0002  3.00000E+0002  1.00000E+0003 
+   35       35   10    Hawaii pubs log  3.00000E+0000  5.00000E+0000  1.50000E+0001 
+   36       36    1        MSH eqs log  5.00000E+0001  1.00000E+0002  2.00000E+0002                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH 
+   36       36    2 Pelee Plinians log  5.00000E+0000  1.00000E+0001  1.50000E+0001 
+   36       36    3    Global VEI5 log  2.00000E+0002  4.00000E+0002  6.00000E+0002 
+   36       36    4  SHV extrusion log  1.20000E+0001  2.40000E+0001  3.60000E+0001 
+   36       36    5 Shiveluch magm log  1.00000E+0002  5.00000E+0002  1.00000E+0003 
+   36       36    6 Kelud casualti log  1.00000E+0004  2.00000E+0004  3.00000E+0004 
+   36       36    7 Hudson clast d log  5.00000E+0000  1.00000E+0001  1.50000E+0001 
+   36       36    8 Myojinsho angl log  1.00000E+0001  1.50000E+0001  2.00000E+0001 
+   36       36    9 Shiveluch area log  1.00000E+0001  1.50000E+0001  2.00000E+0001 
+   36       36   10    Hawaii pubs log  1.00000E+0001  1.50000E+0001  2.00000E+0001 
+   37       37    1        MSH eqs log  3.00000E+0002  5.50000E+0002  1.00000E+0003                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH 
+   37       37    2 Pelee Plinians log  4.90000E+0000  5.00000E+0000  1.00000E+0001 
+   37       37    3    Global VEI5 log  1.00000E+0001  2.00000E+0001  3.00000E+0001 
+   37       37    4  SHV extrusion log  4.00000E-0002  5.00000E-0002  1.00000E-0001 
+   37       37    5 Shiveluch magm log  1.00000E+0003  3.00000E+0003  5.00000E+0003 
+   37       37    6 Kelud casualti log  2.50000E+0001  1.00000E+0003  1.50000E+0003 
+   37       37    7 Hudson clast d log  3.00000E+0000  5.00000E+0000  1.00000E+0001 
+   37       37    8 Myojinsho angl log  1.00000E+0000  3.00000E+0001  6.00000E+0001 
+   37       37    9 Shiveluch area log  5.00000E+0001  7.50000E+0001  1.00000E+0002 
+   37       37   10    Hawaii pubs log  2.00000E+0000  3.00000E+0000  4.00000E+0000 
+   38       38    1        MSH eqs log  1.00000E+0002  5.00000E+0002  2.00000E+0003                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH 
+   38       38    2 Pelee Plinians log  5.00000E+0000  2.50000E+0001  5.00000E+0001 
+   38       38    3    Global VEI5 log  5.00000E+0000  5.00000E+0001  1.00000E+0002 
+   38       38    4  SHV extrusion log  5.00000E-0001  1.00000E+0000  1.00000E+0001 
+   38       38    5 Shiveluch magm log  1.00000E+0000  5.00000E+0000  3.00000E+0001 
+   38       38    6 Kelud casualti log  1.00000E+0003  1.00000E+0004  5.00000E+0004 
+   38       38    7 Hudson clast d log  5.00000E+0000  2.00000E+0001  4.00000E+0001 
+   38       38    8 Myojinsho angl log  1.50000E+0001  2.50000E+0001  3.50000E+0001 
+   38       38    9 Shiveluch area log  5.00000E+0001  2.00000E+0002  5.00000E+0002 
+   38       38   10    Hawaii pubs log  5.00000E+0000  1.50000E+0001  5.00000E+0001 
+   39       39    1        MSH eqs log  5.00000E+0001  2.00000E+0002  5.00000E+0002                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH 
+   39       39    2 Pelee Plinians log  4.00000E+0001  5.00000E+0001  6.00000E+0001 
+   39       39    3    Global VEI5 log  1.00000E+0002  2.00000E+0002  3.00000E+0002 
+   39       39    4  SHV extrusion log  9.00000E+0000  1.00000E+0001  1.10000E+0001 
+   39       39    5 Shiveluch magm log  1.00000E+0007  1.00000E+0008  1.00000E+0009 
+   39       39    6 Kelud casualti log  1.00000E+0004  1.50000E+0004  2.00000E+0004 
+   39       39    7 Hudson clast d log  1.50000E+0001  2.00000E+0001  3.00000E+0001 
+   39       39    8 Myojinsho angl log  1.50000E+0001  2.00000E+0001  3.00000E+0001 
+   39       39    9 Shiveluch area log  1.50000E+0002  2.00000E+0002  3.00000E+0002 
+   39       39   10    Hawaii pubs log  2.00000E+0002  5.00000E+0002  7.00000E+0002 
+   40       40    1        MSH eqs log  1.00000E-0001  1.00000E+0000  2.00000E+0000                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH 
+   40       40    2 Pelee Plinians log  1.00000E+0000  1.00000E+0001  2.00000E+0001 
+   40       40    3    Global VEI5 log  1.00000E+0003  2.00000E+0003  3.00000E+0003 
+   40       40    4  SHV extrusion log  1.00000E-0003  1.00000E-0001  1.00000E+0000 
+   40       40    5 Shiveluch magm log  1.00000E+0004  1.00000E+0005  1.00000E+0006 
+   40       40    6 Kelud casualti log  1.00000E+0000  1.00000E+0001  1.00000E+0002 
+   40       40    7 Hudson clast d log  5.00000E+0000  1.00000E+0001  3.00000E+0001 
+   40       40    8 Myojinsho angl log  1.00000E+0001  2.00000E+0001  3.00000E+0001 
+   40       40    9 Shiveluch area log  1.00000E+0001  3.00000E+0001  1.00000E+0002 
+   40       40   10    Hawaii pubs log  1.00000E+0002  2.50000E+0002  3.00000E+0002 
+   41       41    1        MSH eqs log  5.00000E+0001  1.50000E+0002  5.00000E+0002                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH 
+   41       41    2 Pelee Plinians log  3.00000E+0001  6.00000E+0001  7.50000E+0001 
+   41       41    3    Global VEI5 log  2.00000E+0000  3.00000E+0000  5.00000E+0000 
+   41       41    4  SHV extrusion log  5.00000E+0001  1.00000E+0003  1.00000E+0004 
+   41       41    5 Shiveluch magm log  5.00000E+0000  2.50000E+0001  5.00000E+0001 
+   41       41    6 Kelud casualti log  5.00000E+0004  5.00000E+0005  1.00000E+0006 
+   41       41    7 Hudson clast d log  4.00000E+0001  6.00000E+0001  8.00000E+0001 
+   41       41    8 Myojinsho angl log  5.50000E+0001  6.00000E+0001  8.00000E+0001 
+   41       41    9 Shiveluch area log  9.00000E+0001  5.00000E+0002  1.00000E+0003 
+   41       41   10    Hawaii pubs log  5.00000E+0000  1.50000E+0001  3.00000E+0001 
+   42       42    1        MSH eqs log  5.00000E+0001  1.00000E+0002  3.00000E+0002                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH 
+   42       42    2 Pelee Plinians log  4.00000E+0001  6.00000E+0001  8.00000E+0001 
+   42       42    3    Global VEI5 log  3.00000E+0000  4.00000E+0000  5.00000E+0000 
+   42       42    4  SHV extrusion log  1.00000E-0003  1.00000E-0002  1.00000E-0001 
+   42       42    5 Shiveluch magm log  1.00000E+0003  1.00000E+0004  1.00000E+0005 
+   42       42    6 Kelud casualti log  4.00000E+0002  6.00000E+0002  1.00000E+0003 
+   42       42    7 Hudson clast d log  1.00000E+0001  1.50000E+0001  2.00000E+0001 
+   42       42    8 Myojinsho angl log  2.50000E+0001  3.00000E+0001  4.00000E+0001 
+   42       42    9 Shiveluch area log  9.00000E+0001  1.20000E+0002  1.50000E+0002 
+   42       42   10    Hawaii pubs log  4.00000E+0001  5.00000E+0001  7.00000E+0001 
+   43       43    1        MSH eqs log  1.00000E+0002  5.00000E+0002  1.00000E+0003                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH 
+   43       43    2 Pelee Plinians log  1.50000E+0001  2.50000E+0001  5.00000E+0001 
+   43       43    3    Global VEI5 log  2.00000E+0003  2.50000E+0003  3.00000E+0003 
+   43       43    4  SHV extrusion log  2.00000E+0000  1.00000E+0001  5.00000E+0001 
+   43       43    5 Shiveluch magm log  5.00000E+0000  1.50000E+0001  5.00000E+0002 
+   43       43    6 Kelud casualti log  1.00000E+0000  5.00000E+0002  1.00000E+0003 
+   43       43    7 Hudson clast d log  5.00000E+0001  1.00000E+0002  1.50000E+0002 
+   43       43    8 Myojinsho angl log  3.00000E+0001  3.70000E+0001  4.50000E+0001 
+   43       43    9 Shiveluch area log  3.00000E+0000  6.00000E+0000  1.00000E+0001 
+   43       43   10    Hawaii pubs log  1.00000E+0001  2.50000E+0001  4.00000E+0001 
+   44       44    1        MSH eqs log  5.00000E+0002  1.00000E+0003  5.00000E+0003                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH 
+   44       44    2 Pelee Plinians log  2.00000E+0001  4.00000E+0001  5.00000E+0001 
+   44       44    3    Global VEI5 log  1.00000E+0000  2.00000E+0000  4.00000E+0000 
+   44       44    4  SHV extrusion log  5.00000E+0000  2.50000E+0001  5.00000E+0001 
+   44       44    5 Shiveluch magm log  1.00000E+0001  2.00000E+0001  5.00000E+0001 
+   44       44    6 Kelud casualti log  1.00000E+0002  1.00000E+0003  5.00000E+0003 
+   44       44    7 Hudson clast d log  1.00000E+0001  4.00000E+0001  8.00000E+0001 
+   44       44    8 Myojinsho angl log  1.50000E+0001  2.50000E+0001  3.50000E+0001 
+   44       44    9 Shiveluch area log  1.00000E+0001  2.00000E+0001  3.00000E+0001 
+   44       44   10    Hawaii pubs log  1.00000E+0001  2.00000E+0001  5.00000E+0001 
+   45       45    1        MSH eqs log  3.00000E+0002  3.95000E+0002  5.00000E+0002                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH 
+   45       45    2 Pelee Plinians log  1.00000E+0001  2.00000E+0001  4.00000E+0001 
+   45       45    3    Global VEI5 log  4.00000E+0002  8.00000E+0002  1.20000E+0003 
+   45       45    4  SHV extrusion log  5.00000E+0000  1.00000E+0001  1.50000E+0001 
+   45       45    5 Shiveluch magm log  5.00000E+0001  1.00000E+0002  2.00000E+0002 
+   45       45    6 Kelud casualti log  1.50000E+0003  4.00000E+0003  6.00000E+0003 
+   45       45    7 Hudson clast d log  3.00000E+0003  5.00000E+0003  6.00000E+0003 
+   45       45    8 Myojinsho angl log  2.50000E+0001  3.00000E+0001  4.00000E+0001 
+   45       45    9 Shiveluch area log  2.50000E+0001  5.00000E+0001  5.50000E+0001 
+   45       45   10    Hawaii pubs log  8.00000E+0000  1.00000E+0001  1.50000E+0001 

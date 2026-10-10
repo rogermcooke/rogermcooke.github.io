@@ -1,0 +1,351 @@
+* CLASS ASCII OUTPUT FILE. NQ=   3   QU=   5  50  95
+    1 expert 1    1     c: # claim LOG  5.00000E+0000  1.25000E+0002  2.50000E+0002                                            Wat is over conversies het aantal klachten over betalingen (geld en effecten) in het laatste half jaar van 2003 (Juli - December)? 
+    1 expert 1    2     c: € claim LOG  5.00000E+0005  1.50000E+0009  2.00000E+0009                                                                Wat is het totale geclaimde bedrag over conversies gedurende het laatste half jaar van 2003 (Juli - December)? 
+    1 expert 1    3   c: # z claim LOG  2.00000E+0000  2.00000E+0001  5.00000E+0001                                                                                                      Hoeveel klachten zonder claim over conversies waren er in februari 2004? 
+    1 expert 1    4 c: gem z claim LOG  1.00000E+0000  1.00000E+0001  2.00000E+0001                                                                                  Wat was het gemiddeld aantal klachten zonder claim over conversies per dag in februari 2004? 
+    1 expert 1    5 c: vers z clai LOG  1.00000E+0001  1.00000E+0002  2.00000E+0002                     Wat is het verschil tussen de maand met de minste en de maand met de meeste klachten zonder claim over conversies in de periode april 2003-februari 2004? 
+    1 expert 1    6      c: # 2003 LOG  1.00000E+0003  5.00000E+0003  1.00000E+0004                                                                                                                Hoeveel conversies zijn er in het jaar 2003 totaal afgesloten? 
+    1 expert 1    7  c: verschil # LOG  2.00000E+0002  5.00000E+0003  7.00000E+0003                                                          Wat is het verschil tussen de maand met het minste en de maand met de meeste afgesloten conversies in het jaar 2003? 
+    1 expert 1    8       c: # uur LOG  1.20000E+0003  9.60000E+0003  1.20000E+0004                                                                                   Hoeveel uur is er besteed aan conversies in het laatste half jaar van 2003 (Juli-December)? 
+    1 expert 1    9    c: # fouten LOG  1.00000E+0001  1.00000E+0002  1.00000E+0003                   Hoeveel fouten (op fondsniveau) veroorzaakt door handmatige processen op het gebied van conversies zijn in een willekeurige maand hersteld bij de KAS BANK? 
+    1 expert 1   10 c: tijd fouten LOG  5.00000E+0000  6.00000E+0001  1.20000E+0002                                            Hoeveel tijd kost het herstellen van een willekeurige fout door handmatige processen op het gebied van conversies bij de KAS BANK? 
+    1 expert 1   11 c: # herstelVS LOG  1.00000E+0001  5.00000E+0001  3.00000E+0002                                                Hoeveel herstelwerkzaamheden door foutieve instructies van VS-clienten vinden op een willekeurige dag plaatst bij de KAS BANK? 
+    1 expert 1   12 c: tijd herste LOG  5.00000E+0000  3.00000E+0001  6.00000E+0001                                                       Hoeveel tijd per herstelboeking door foutieve instructies van VS-clienten is de KAS BANK op een willekeurige dag kwijt? 
+    1 expert 1   13 c: # cum-ex vo LOG  1.00000E+0001  2.00000E+0003  1.00000E+0004                                                             Hoeveel cum-ex posities op het gebied van conversies zijn er in het jaar 2003 handmatig hersteld vóór afrekening? 
+    1 expert 1   14 c: # cum-ex na LOG  1.00000E+0001  6.00000E+0002  1.00000E+0003                                    Hoeveel correcties van cum-ex posities op het gebied van conversies vinden in een willekeurige maand plaats na afrekening bij de KAS BANK? 
+    1 expert 1   15 c: tijd cum-ex LOG  5.00000E+0000  3.00000E+0001  1.20000E+0002                                                               Hoeveel tijd kost een herstel van een willekeurige cum-ex positie op het gebied van conversies bij de KAS BANK? 
+    1 expert 1   16 c: fouten stor LOG  5.00000E+0000  5.00000E+0001  1.00000E+0002                                                    Hoeveel fouten (op fondsniveau) op het gebied van conversies worden in een willekeurige maand gestorneerd bij de KAS BANK? 
+    1 expert 1   17 c: tijd storne LOG  5.00000E+0000  3.00000E+0001  1.80000E+0002                                                                                     Hoeveel tijd kost het om een willekeurige fout op het gebied van conversies te storneren? 
+    1 expert 1   18 c: terugvalute LOG  5.00000E+0002  1.00000E+0004  5.00000E+0004                                                               Hoeveel schade lijdt de KAS BANK in een willekeurige maand door terugvaluteringen op het gebied van conversies? 
+    1 expert 1   19    cd: # claim LOG  5.00000E+0000  3.00000E+0002  1.00000E+0003                                               Wat is het aantal klachten over betalingen over coupon/dividend betalingen in het laatste half jaar van 2003 (Juli - December)? 
+    1 expert 1   20    cd: € claim LOG  1.00000E+0004  5.00000E+0008  1.50000E+0009                                                Wat is het totale geclaimde bedrag over coupon/dividend betalingen gedurende het laatste half jaar van 2003 (Juli - December)? 
+    1 expert 1   21  cd: # z claim LOG  1.00000E+0001  3.00000E+0002  1.00000E+0003                                                                                      Hoeveel klachten zonder claim over coupon/dividend betalingen waren er in februari 2004? 
+    1 expert 1   22 cd: gem z clai LOG  3.00000E+0000  5.00000E+0001  1.00000E+0002                                                                  Wat was het gemiddeld aantal klachten zonder claim over coupon/dividend betalingen per dag in februari 2004? 
+    1 expert 1   23 cd: vers z cla LOG  1.00000E+0002  1.00000E+0003  2.00000E+0003     Wat is het verschil tussen de maand met de minste en de maand met de meeste klachten zonder claim over coupon/dividend betalingen in de periode april 2003-februari 2004? 
+    1 expert 1   24     cd: # 2003 LOG  1.00000E+0004  5.00000E+0005  3.00000E+0007                                                                           Hoeveel coupon/dividend betalingen zijn (op bewaarplaatsniveau) in het jaar 2003 totaal afgesloten? 
+    1 expert 1   25 cd: verschil # LOG  2.00000E+0004  1.00000E+0005  2.00000E+0005                                          Wat is het verschil tussen de maand met het minste en de maand met de meeste afgesloten coupon/dividend betalingen in het jaar 2003? 
+    1 expert 1   26      cd: # uur LOG  1.20000E+0004  3.00000E+0004  6.00000E+0004                                                                   Hoeveel uur is er besteed aan coupon/dividend betalingen in het laatste half jaar van 2003 (Juli-December)? 
+    1 expert 1   27   cd: # fouten LOG  2.50000E+0001  1.00000E+0003  5.00000E+0003   Hoeveel fouten (op fondsniveau) veroorzaakt door handmatige processen op het gebied van coupon/dividend betalingen zijn in een willekeurige maand hersteld bij de KAS BANK? 
+    1 expert 1   28 cd: tijd foute LOG  5.00000E+0000  3.00000E+0001  3.60000E+0002                            Hoeveel tijd kost het herstellen van een willekeurige fout door handmatige processen op het gebied van coupon/dividend betalingen bij de KAS BANK? 
+    1 expert 1   29 cd: 2 systemen LOG  1.00000E+0003  1.00000E+0005  5.00000E+0005                                                                   Hoeveel schade is geleden door de verwerking van coupon/dividend betalingen in 2 systemen in het jaar 2003? 
+    1 expert 1   30 cd: # cum-ex v LOG  1.00000E+0002  2.00000E+0005  5.00000E+0005                                             Hoeveel cum-ex posities op het gebied van coupon/dividend betalingen zijn er in het jaar 2003 handmatig hersteld vóór afrekening? 
+    1 expert 1   31 cd: # cum-ex n LOG  1.00000E+0001  1.00000E+0003  1.00000E+0005                    Hoeveel correcties van cum-ex posities op het gebied van coupon/dividend betalingen vinden in een willekeurige maand plaats na afrekening bij de KAS BANK? 
+    1 expert 1   32 cd: tijd cum-e LOG  5.00000E+0000  3.00000E+0001  3.60000E+0002                                               Hoeveel tijd kost een herstel van een willekeurige cum-ex positie op het gebied van coupon/dividend betalingen bij de KAS BANK? 
+    1 expert 1   33 cd: fout storn LOG  1.00000E+0001  6.00000E+0002  2.00000E+0003                                    Hoeveel fouten (op fondsniveau) op het gebied van coupon/dividend betalingen worden in een willekeurige maand gestorneerd bij de KAS BANK? 
+    1 expert 1   34 cd: tijd storn LOG  5.00000E+0000  3.00000E+0001  1.80000E+0002                                                                     Hoeveel tijd kost het om een willekeurige fout op het gebied van coupon/dividend betalingen te storneren? 
+    1 expert 1   35 cd: terugvalut LOG  1.00000E+0003  1.00000E+0004  1.50000E+0004                                               Hoeveel schade lijdt de KAS BANK in een willekeurige maand door terugvaluteringen op het gebied van coupon/dividend betalingen? 
+    2 expert 2    1     c: # claim LOG  2.00000E+0001  3.50000E+0001  5.00000E+0001                                            Wat is over conversies het aantal klachten over betalingen (geld en effecten) in het laatste half jaar van 2003 (Juli - December)? 
+    2 expert 2    2     c: € claim LOG  1.00000E+0004  3.00000E+0004  5.00000E+0004 
+    2 expert 2    3   c: # z claim LOG  1.00000E+0001  1.50000E+0001  2.00000E+0001 
+    2 expert 2    4 c: gem z claim LOG  1.00000E-0004  1.00000E+0000  2.00000E+0000 
+    2 expert 2    5 c: vers z clai LOG  2.00000E+0001  3.00000E+0001  4.00000E+0001 
+    2 expert 2    6      c: # 2003 LOG  5.00000E+0003  7.00000E+0003  9.00000E+0003 
+    2 expert 2    7  c: verschil # LOG  1.00000E+0002  3.00000E+0002  5.00000E+0002 
+    2 expert 2    8       c: # uur LOG  8.00000E+0003  1.00000E+0004  1.20000E+0004 
+    2 expert 2    9    c: # fouten LOG  1.00000E+0002  2.00000E+0002  3.00000E+0002 
+    2 expert 2   10 c: tijd fouten LOG  2.00000E+0000  1.00000E+0001  3.00000E+0001 
+    2 expert 2   11 c: # herstelVS LOG  4.00000E+0000  9.00000E+0000  2.00000E+0001 
+    2 expert 2   12 c: tijd herste LOG  2.00000E+0000  1.00000E+0001  3.00000E+0001 
+    2 expert 2   13 c: # cum-ex vo LOG  3.00000E+0002  5.00000E+0002  7.00000E+0002 
+    2 expert 2   14 c: # cum-ex na LOG  3.00000E+0001  4.00000E+0001  5.00000E+0001 
+    2 expert 2   15 c: tijd cum-ex LOG  1.00000E+0000  2.00000E+0000  3.00000E+0000 
+    2 expert 2   16 c: fouten stor LOG  6.00000E+0001  7.00000E+0001  1.00000E+0002 
+    2 expert 2   17 c: tijd storne LOG  1.00000E+0000  2.00000E+0000  3.00000E+0000 
+    2 expert 2   18 c: terugvalute LOG  2.00000E+0004  4.00000E+0004  6.00000E+0004 
+    2 expert 2   19    cd: # claim LOG  3.00000E+0001  4.00000E+0001  5.00000E+0001 
+    2 expert 2   20    cd: € claim LOG  5.00000E+0004  7.00000E+0004  1.00000E+0005 
+    2 expert 2   21  cd: # z claim LOG  5.00000E+0000  1.00000E+0001  2.00000E+0001 
+    2 expert 2   22 cd: gem z clai LOG  1.00000E+0000  2.00000E+0000  3.00000E+0000 
+    2 expert 2   23 cd: vers z cla LOG  2.00000E+0000  5.00000E+0000  8.00000E+0000 
+    2 expert 2   24     cd: # 2003 LOG  4.00000E+0004  5.00000E+0004  6.00000E+0004 
+    2 expert 2   25 cd: verschil # LOG  5.00000E+0002  2.00000E+0003  3.00000E+0003 
+    2 expert 2   26      cd: # uur LOG  1.50000E+0004  2.00000E+0004  2.50000E+0004 
+    2 expert 2   27   cd: # fouten LOG  3.00000E+0001  4.00000E+0001  6.00000E+0001 
+    2 expert 2   28 cd: tijd foute LOG  2.00000E+0000  5.00000E+0000  1.00000E+0001 
+    2 expert 2   29 cd: 2 systemen LOG  2.00000E+0004  3.00000E+0004  4.00000E+0004 
+    2 expert 2   30 cd: # cum-ex v LOG  1.00000E+0002  3.00000E+0002  6.00000E+0002 
+    2 expert 2   31 cd: # cum-ex n LOG  1.50000E+0001  2.50000E+0001  4.00000E+0001 
+    2 expert 2   32 cd: tijd cum-e LOG  1.00000E+0001  1.50000E+0001  2.00000E+0001 
+    2 expert 2   33 cd: fout storn LOG  1.50000E+0002  2.50000E+0002  5.00000E+0002 
+    2 expert 2   34 cd: tijd storn LOG  2.00000E+0000  3.00000E+0000  5.00000E+0000 
+    2 expert 2   35 cd: terugvalut LOG  5.00000E+0004  7.00000E+0004  1.00000E+0005 
+    3 expert 3    1     c: # claim LOG  5.00000E+0000  1.26000E+0002  6.00000E+0002                                            Wat is over conversies het aantal klachten over betalingen (geld en effecten) in het laatste half jaar van 2003 (Juli - December)? 
+    3 expert 3    2     c: € claim LOG  1.00000E+0003  1.00000E+0008  2.00000E+0008 
+    3 expert 3    3   c: # z claim LOG  4.00000E+0000  2.10000E+0001  8.40000E+0001 
+    3 expert 3    4 c: gem z claim LOG  1.00000E+0000  2.00000E+0000  4.00000E+0000 
+    3 expert 3    5 c: vers z clai LOG  1.00000E-0004  2.50000E+0001  2.01000E+0002 
+    3 expert 3    6      c: # 2003 LOG  5.00000E+0001  5.00000E+0002  1.60000E+0003 
+    3 expert 3    7  c: verschil # LOG  5.00000E+0000  1.00000E+0002  3.00000E+0002 
+    3 expert 3    8       c: # uur LOG  1.00000E+0003  7.50000E+0003  2.00000E+0004 
+    3 expert 3    9    c: # fouten LOG  5.00000E+0000  2.20000E+0001  1.05000E+0002 
+    3 expert 3   10 c: tijd fouten LOG  1.00000E+0001  9.00000E+0001  5.40000E+0002 
+    3 expert 3   11 c: # herstelVS LOG  2.00000E+0000  9.00000E+0000  3.90000E+0001 
+    3 expert 3   12 c: tijd herste LOG  1.00000E+0000  6.00000E+0001  3.00000E+0002 
+    3 expert 3   13 c: # cum-ex vo LOG  3.60000E+0001  1.00000E+0002  5.00000E+0003 
+    3 expert 3   14 c: # cum-ex na LOG  3.00000E+0000  9.00000E+0000  3.00000E+0002 
+    3 expert 3   15 c: tijd cum-ex LOG  1.00000E+0001  6.00000E+0001  5.40000E+0002 
+    3 expert 3   16 c: fouten stor LOG  2.00000E+0000  1.60000E+0001  4.20000E+0001 
+    3 expert 3   17 c: tijd storne LOG  5.00000E+0000  9.00000E+0001  4.80000E+0002 
+    3 expert 3   18 c: terugvalute LOG  1.00000E-0004  1.00000E+0002  5.00000E+0003 
+    3 expert 3   19    cd: # claim LOG  5.00000E+0000  7.50000E+0001  2.00000E+0002 
+    3 expert 3   20    cd: € claim LOG  1.00000E+0003  1.50000E+0007  1.00000E+0008 
+    3 expert 3   21  cd: # z claim LOG  1.00000E+0000  6.00000E+0000  3.00000E+0001 
+    3 expert 3   22 cd: gem z clai LOG  1.00000E+0000  2.00000E+0000  1.00000E+0001 
+    3 expert 3   23 cd: vers z cla LOG  2.00000E+0000  2.50000E+0001  1.00000E+0002 
+    3 expert 3   24     cd: # 2003 LOG  1.00000E+0002  1.00000E+0004  4.00000E+0004 
+    3 expert 3   25 cd: verschil # LOG  1.00000E+0002  5.00000E+0003  2.00000E+0004 
+    3 expert 3   26      cd: # uur LOG  1.00000E+0003  6.00000E+0003  2.00000E+0004 
+    3 expert 3   27   cd: # fouten LOG  5.00000E+0000  1.60000E+0001  1.00000E+0002 
+    3 expert 3   28 cd: tijd foute LOG  1.00000E+0001  9.00000E+0001  3.60000E+0002 
+    3 expert 3   29 cd: 2 systemen LOG  1.00000E-0003  1.00000E+0006  8.00000E+0006 
+    3 expert 3   30 cd: # cum-ex v LOG  2.50000E+0001  7.50000E+0001  2.50000E+0002 
+    3 expert 3   31 cd: # cum-ex n LOG  2.00000E+0000  2.50000E+0001  2.00000E+0002 
+    3 expert 3   32 cd: tijd cum-e LOG  1.00000E+0001  6.00000E+0001  5.40000E+0002 
+    3 expert 3   33 cd: fout storn LOG  1.00000E+0001  1.00000E+0002  4.00000E+0002 
+    3 expert 3   34 cd: tijd storn LOG  1.00000E+0001  6.00000E+0001  4.80000E+0002 
+    3 expert 3   35 cd: terugvalut LOG  1.00000E-0004  1.00000E+0003  1.00000E+0005 
+    4 expert 4    1     c: # claim LOG  6.00000E+0001  2.25000E+0002  6.00000E+0002                                            Wat is over conversies het aantal klachten over betalingen (geld en effecten) in het laatste half jaar van 2003 (Juli - December)? 
+    4 expert 4    2     c: € claim LOG  2.00000E+0005  5.00000E+0005  8.00000E+0005 
+    4 expert 4    3   c: # z claim LOG  1.00000E+0001  2.00000E+0001  5.00000E+0001 
+    4 expert 4    4 c: gem z claim LOG  1.00000E+0000  5.00000E+0000  1.00000E+0001 
+    4 expert 4    5 c: vers z clai LOG  6.00000E+0001  1.20000E+0002  2.40000E+0002 
+    4 expert 4    6      c: # 2003 LOG  2.50000E+0003  3.50000E+0003  5.00000E+0003 
+    4 expert 4    7  c: verschil # LOG  3.00000E+0002  6.00000E+0002  8.00000E+0002 
+    4 expert 4    8       c: # uur LOG  1.60000E+0003  2.20000E+0003  2.60000E+0003 
+    4 expert 4    9    c: # fouten LOG  1.00000E+0001  6.00000E+0001  1.20000E+0002 
+    4 expert 4   10 c: tijd fouten LOG  1.00000E+0001  2.00000E+0001  4.50000E+0001 
+    4 expert 4   11 c: # herstelVS LOG  1.00000E-0004  2.00000E+0000  5.00000E+0000 
+    4 expert 4   12 c: tijd herste LOG  1.00000E-0004  1.00000E+0001  3.00000E+0001 
+    4 expert 4   13 c: # cum-ex vo LOG  1.00000E+0002  1.50000E+0003  3.00000E+0003 
+    4 expert 4   14 c: # cum-ex na LOG  2.00000E+0001  1.20000E+0002  1.80000E+0002 
+    4 expert 4   15 c: tijd cum-ex LOG  5.00000E+0000  1.00000E+0001  2.00000E+0001 
+    4 expert 4   16 c: fouten stor LOG  2.00000E+0001  5.00000E+0001  9.00000E+0001 
+    4 expert 4   17 c: tijd storne LOG  1.00000E+0001  2.50000E+0001  4.00000E+0001 
+    4 expert 4   18 c: terugvalute LOG  1.00000E-0004  2.00000E-0004  3.00000E-0004 
+    4 expert 4   19    cd: # claim LOG  9.00000E+0001  1.80000E+0002  2.70000E+0002 
+    4 expert 4   20    cd: € claim LOG  1.00000E+0006  3.00000E+0006  1.00000E+0007 
+    4 expert 4   21  cd: # z claim LOG  2.00000E+0001  6.00000E+0001  1.00000E+0002 
+    4 expert 4   22 cd: gem z clai LOG  1.00000E+0000  6.00000E+0000  1.00000E+0001 
+    4 expert 4   23 cd: vers z cla LOG  5.00000E+0001  1.00000E+0002  2.00000E+0002 
+    4 expert 4   24     cd: # 2003 LOG  5.00000E+0003  7.00000E+0003  1.00000E+0004 
+    4 expert 4   25 cd: verschil # LOG  1.50000E+0002  3.00000E+0002  5.00000E+0002 
+    4 expert 4   26      cd: # uur LOG  1.60000E+0003  2.50000E+0003  3.00000E+0003 
+    4 expert 4   27   cd: # fouten LOG  1.00000E+0001  3.00000E+0001  5.00000E+0001 
+    4 expert 4   28 cd: tijd foute LOG  5.00000E+0000  1.50000E+0001  2.50000E+0001 
+    4 expert 4   29 cd: 2 systemen LOG  1.00000E+0004  5.00000E+0004  1.00000E+0005 
+    4 expert 4   30 cd: # cum-ex v LOG  1.00000E+0002  5.00000E+0002  1.00000E+0003 
+    4 expert 4   31 cd: # cum-ex n LOG  1.50000E+0001  3.00000E+0001  9.00000E+0001 
+    4 expert 4   32 cd: tijd cum-e LOG  5.00000E+0000  1.50000E+0001  2.50000E+0001 
+    4 expert 4   33 cd: fout storn LOG  6.00000E+0001  1.20000E+0002  2.00000E+0002 
+    4 expert 4   34 cd: tijd storn LOG  5.00000E+0000  2.50000E+0001  4.00000E+0001 
+    4 expert 4   35 cd: terugvalut LOG  1.00000E-0004  2.00000E-0004  3.00000E-0004 
+    5 expert 5    1     c: # claim LOG  7.50000E+0001  1.50000E+0002  2.50000E+0002                                            Wat is over conversies het aantal klachten over betalingen (geld en effecten) in het laatste half jaar van 2003 (Juli - December)? 
+    5 expert 5    2     c: € claim LOG  5.00000E+0005  1.10000E+0007  2.50000E+0007 
+    5 expert 5    3   c: # z claim LOG  1.50000E+0001  5.00000E+0001  1.25000E+0002 
+    5 expert 5    4 c: gem z claim LOG  3.00000E+0000  5.00000E+0000  2.50000E+0001 
+    5 expert 5    5 c: vers z clai LOG  2.50000E+0001  1.50000E+0002  2.00000E+0003 
+    5 expert 5    6      c: # 2003 LOG  2.00000E+0003  4.00000E+0003  5.00000E+0003 
+    5 expert 5    7  c: verschil # LOG  3.00000E+0002  5.00000E+0002  7.50000E+0002 
+    5 expert 5    8       c: # uur LOG  1.10000E+0004  1.35000E+0004  1.80000E+0004 
+    5 expert 5    9    c: # fouten LOG  1.00000E+0001  6.00000E+0001  2.00000E+0003 
+    5 expert 5   10 c: tijd fouten LOG  5.00000E+0000  1.50000E+0001  4.80000E+0002 
+    5 expert 5   11 c: # herstelVS LOG  5.00000E+0000  8.00000E+0000  1.50000E+0001 
+    5 expert 5   12 c: tijd herste LOG  3.00000E+0001  9.00000E+0001  3.60000E+0002 
+    5 expert 5   13 c: # cum-ex vo LOG  1.00000E+0001  6.00000E+0001  3.00000E+0003 
+    5 expert 5   14 c: # cum-ex na LOG  6.00000E+0000  2.00000E+0001  1.00000E+0003 
+    5 expert 5   15 c: tijd cum-ex LOG  3.00000E+0000  5.00000E+0000  1.00000E+0001 
+    5 expert 5   16 c: fouten stor LOG  1.00000E+0001  3.00000E+0001  1.00000E+0003 
+    5 expert 5   17 c: tijd storne LOG  3.00000E+0000  8.00000E+0000  2.00000E+0001 
+    5 expert 5   18 c: terugvalute LOG  1.00000E+0003  3.00000E+0003  1.00000E+0005 
+    5 expert 5   19    cd: # claim LOG  3.00000E+0002  5.00000E+0002  1.00000E+0003 
+    5 expert 5   20    cd: € claim LOG  1.00000E+0005  1.50000E+0007  1.50000E+0008 
+    5 expert 5   21  cd: # z claim LOG  1.00000E+0001  6.00000E+0001  1.00000E+0003 
+    5 expert 5   22 cd: gem z clai LOG  3.00000E+0000  6.00000E+0000  2.00000E+0002 
+    5 expert 5   23 cd: vers z cla LOG  4.00000E+0001  1.50000E+0002  1.00000E+0003 
+    5 expert 5   24     cd: # 2003 LOG  1.60000E+0004  1.90000E+0004  2.40000E+0004 
+    5 expert 5   25 cd: verschil # LOG  6.00000E+0002  8.00000E+0002  1.10000E+0003 
+    5 expert 5   26      cd: # uur LOG  6.00000E+0003  9.00000E+0003  1.20000E+0004 
+    5 expert 5   27   cd: # fouten LOG  1.00000E+0001  3.00000E+0001  6.00000E+0001 
+    5 expert 5   28 cd: tijd foute LOG  3.00000E+0000  2.00000E+0001  4.80000E+0002 
+    5 expert 5   29 cd: 2 systemen LOG  1.00000E-0004  1.00000E+0003  1.00000E+0004 
+    5 expert 5   30 cd: # cum-ex v LOG  1.00000E+0002  5.00000E+0002  2.00000E+0003 
+    5 expert 5   31 cd: # cum-ex n LOG  5.00000E+0000  4.00000E+0001  5.00000E+0002 
+    5 expert 5   32 cd: tijd cum-e LOG  4.00000E+0000  1.00000E+0001  4.80000E+0002 
+    5 expert 5   33 cd: fout storn LOG  1.50000E+0001  3.00000E+0001  5.00000E+0002 
+    5 expert 5   34 cd: tijd storn LOG  3.00000E+0000  1.50000E+0001  4.80000E+0002 
+    5 expert 5   35 cd: terugvalut LOG  3.00000E+0003  6.00000E+0003  1.00000E+0005 
+    6 expert 6    1     c: # claim LOG  1.00000E+0001  2.50000E+0001  5.00000E+0001                                            Wat is over conversies het aantal klachten over betalingen (geld en effecten) in het laatste half jaar van 2003 (Juli - December)? 
+    6 expert 6    2     c: € claim LOG  1.00000E+0004  2.50000E+0004  5.00000E+0004 
+    6 expert 6    3   c: # z claim LOG  1.00000E+0002  2.50000E+0002  5.00000E+0002 
+    6 expert 6    4 c: gem z claim LOG  4.00000E+0000  1.00000E+0001  2.00000E+0001 
+    6 expert 6    5 c: vers z clai LOG  1.00000E+0002  1.40000E+0002  1.70000E+0002 
+    6 expert 6    6      c: # 2003 LOG  2.50000E+0003  3.00000E+0003  3.50000E+0003 
+    6 expert 6    7  c: verschil # LOG  1.00000E+0002  1.25000E+0002  1.50000E+0002 
+    6 expert 6    8       c: # uur LOG  2.40000E+0004  2.80000E+0004  3.50000E+0004 
+    6 expert 6    9    c: # fouten LOG  1.00000E+0002  5.00000E+0002  1.00000E+0003 
+    6 expert 6   10 c: tijd fouten LOG  1.50000E+0001  3.00000E+0001  6.00000E+0001 
+    6 expert 6   11 c: # herstelVS LOG  5.00000E+0000  8.00000E+0000  2.00000E+0001 
+    6 expert 6   12 c: tijd herste LOG  7.50000E+0001  1.20000E+0002  3.00000E+0002 
+    6 expert 6   13 c: # cum-ex vo LOG  1.00000E+0002  5.00000E+0002  1.00000E+0003 
+    6 expert 6   14 c: # cum-ex na LOG  1.00000E+0002  2.50000E+0002  4.00000E+0002 
+    6 expert 6   15 c: tijd cum-ex LOG  1.50000E+0001  3.00000E+0001  6.00000E+0001 
+    6 expert 6   16 c: fouten stor LOG  1.00000E+0002  5.00000E+0002  1.00000E+0003 
+    6 expert 6   17 c: tijd storne LOG  1.50000E+0001  3.00000E+0001  6.00000E+0001 
+    6 expert 6   18 c: terugvalute LOG  1.00000E+0003  1.00000E+0004  2.50000E+0004 
+    6 expert 6   19    cd: # claim LOG  2.00000E+0001  5.00000E+0001  1.00000E+0002 
+    6 expert 6   20    cd: € claim LOG  5.00000E+0002  2.00000E+0004  4.00000E+0004 
+    6 expert 6   21  cd: # z claim LOG  2.50000E+0001  7.50000E+0001  1.50000E+0002 
+    6 expert 6   22 cd: gem z clai LOG  2.00000E+0000  4.00000E+0000  1.00000E+0001 
+    6 expert 6   23 cd: vers z cla LOG  1.00000E+0001  3.00000E+0001  6.00000E+0001 
+    6 expert 6   24     cd: # 2003 LOG  1.00000E+0004  7.50000E+0004  1.50000E+0005 
+    6 expert 6   25 cd: verschil # LOG  2.00000E+0003  3.00000E+0003  4.50000E+0003 
+    6 expert 6   26      cd: # uur LOG  5.00000E+0003  4.50000E+0004  9.00000E+0004 
+    6 expert 6   27   cd: # fouten LOG  2.50000E+0001  7.50000E+0001  1.25000E+0002 
+    6 expert 6   28 cd: tijd foute LOG  3.00000E+0001  6.00000E+0001  9.00000E+0001 
+    6 expert 6   29 cd: 2 systemen LOG  2.50000E+0004  7.50000E+0004  1.50000E+0005 
+    6 expert 6   30 cd: # cum-ex v LOG  1.00000E+0003  7.50000E+0003  1.50000E+0004 
+    6 expert 6   31 cd: # cum-ex n LOG  2.00000E+0003  4.00000E+0003  8.00000E+0003 
+    6 expert 6   32 cd: tijd cum-e LOG  1.50000E+0001  3.00000E+0001  6.00000E+0001 
+    6 expert 6   33 cd: fout storn LOG  1.00000E+0002  3.00000E+0002  5.00000E+0002 
+    6 expert 6   34 cd: tijd storn LOG  1.50000E+0001  3.00000E+0001  6.00000E+0001 
+    6 expert 6   35 cd: terugvalut LOG  5.00000E+0003  7.00000E+0003  1.00000E+0004 
+    7 expert 7    1     c: # claim LOG  3.00000E+0002  6.00000E+0002  1.00000E+0003                                            Wat is over conversies het aantal klachten over betalingen (geld en effecten) in het laatste half jaar van 2003 (Juli - December)? 
+    7 expert 7    2     c: € claim LOG  4.00000E+0004  8.00000E+0004  1.50000E+0005 
+    7 expert 7    3   c: # z claim LOG  5.00000E+0001  8.00000E+0001  1.50000E+0002 
+    7 expert 7    4 c: gem z claim LOG  1.00000E+0000  4.00000E+0000  8.00000E+0000 
+    7 expert 7    5 c: vers z clai LOG  6.00000E+0001  9.00000E+0001  1.50000E+0002 
+    7 expert 7    6      c: # 2003 LOG  8.00000E+0002  9.60000E+0002  1.30000E+0003 
+    7 expert 7    7  c: verschil # LOG  8.00000E+0001  1.40000E+0002  2.00000E+0002 
+    7 expert 7    8       c: # uur LOG  8.00000E+0002  9.60000E+0002  1.50000E+0003 
+    7 expert 7    9    c: # fouten LOG  3.00000E+0001  4.00000E+0001  6.00000E+0001 
+    7 expert 7   10 c: tijd fouten LOG  1.50000E+0001  3.00000E+0001  4.50000E+0001 
+    7 expert 7   11 c: # herstelVS LOG  2.00000E+0000  5.00000E+0000  1.00000E+0001 
+    7 expert 7   12 c: tijd herste LOG  6.00000E+0001  1.50000E+0002  3.60000E+0002 
+    7 expert 7   13 c: # cum-ex vo LOG  1.00000E+0003  1.40000E+0003  2.00000E+0003 
+    7 expert 7   14 c: # cum-ex na LOG  4.00000E+0002  6.00000E+0002  1.00000E+0003 
+    7 expert 7   15 c: tijd cum-ex LOG  1.00000E+0001  3.00000E+0001  4.50000E+0001 
+    7 expert 7   16 c: fouten stor LOG  9.00000E+0001  1.20000E+0002  2.50000E+0002 
+    7 expert 7   17 c: tijd storne LOG  1.50000E+0001  3.00000E+0001  4.50000E+0001 
+    7 expert 7   18 c: terugvalute LOG  8.00000E+0002  2.00000E+0003  4.00000E+0003 
+    7 expert 7   19    cd: # claim LOG  3.00000E+0002  6.00000E+0002  1.00000E+0003 
+    7 expert 7   20    cd: € claim LOG  5.00000E+0003  1.20000E+0004  2.50000E+0004 
+    7 expert 7   21  cd: # z claim LOG  3.00000E+0001  6.00000E+0001  1.50000E+0002 
+    7 expert 7   22 cd: gem z clai LOG  1.00000E+0000  3.00000E+0000  6.00000E+0000 
+    7 expert 7   23 cd: vers z cla LOG  3.00000E+0001  6.00000E+0001  1.00000E+0002 
+    7 expert 7   24     cd: # 2003 LOG  1.30000E+0004  1.70000E+0004  2.50000E+0004 
+    7 expert 7   25 cd: verschil # LOG  5.00000E+0003  1.00000E+0004  2.00000E+0004 
+    7 expert 7   26      cd: # uur LOG  8.00000E+0002  1.20000E+0003  2.00000E+0003 
+    7 expert 7   27   cd: # fouten LOG  3.00000E+0001  1.00000E+0002  1.50000E+0002 
+    7 expert 7   28 cd: tijd foute LOG  1.00000E+0001  3.00000E+0001  6.00000E+0001 
+    7 expert 7   29 cd: 2 systemen LOG  3.00000E+0003  1.00000E+0004  2.00000E+0004 
+    7 expert 7   30 cd: # cum-ex v LOG  3.00000E+0002  1.00000E+0003  1.50000E+0004 
+    7 expert 7   31 cd: # cum-ex n LOG  1.50000E+0001  4.00000E+0001  6.00000E+0001 
+    7 expert 7   32 cd: tijd cum-e LOG  1.50000E+0001  3.00000E+0001  5.00000E+0001 
+    7 expert 7   33 cd: fout storn LOG  1.50000E+0001  6.00000E+0001  8.00000E+0001 
+    7 expert 7   34 cd: tijd storn LOG  1.00000E+0001  3.00000E+0001  4.50000E+0001 
+    7 expert 7   35 cd: terugvalut LOG  1.00000E+0002  4.00000E+0002  8.00000E+0002 
+    8 expert 8    1     c: # claim LOG  1.50000E+0002  2.25000E+0002  3.00000E+0002                                            Wat is over conversies het aantal klachten over betalingen (geld en effecten) in het laatste half jaar van 2003 (Juli - December)? 
+    8 expert 8    2     c: € claim LOG  2.50000E+0004  1.00000E+0005  2.50000E+0005 
+    8 expert 8    3   c: # z claim LOG  5.00000E+0001  7.50000E+0001  1.00000E+0002 
+    8 expert 8    4 c: gem z claim LOG  1.50000E+0000  2.50000E+0000  3.50000E+0000 
+    8 expert 8    5 c: vers z clai LOG  5.00000E+0000  1.00000E+0001  1.50000E+0001 
+    8 expert 8    6      c: # 2003 LOG  2.50000E+0003  3.00000E+0003  3.75000E+0003 
+    8 expert 8    7  c: verschil # LOG  5.00000E+0001  1.25000E+0002  2.00000E+0002 
+    8 expert 8    8       c: # uur LOG  2.50000E+0003  5.00000E+0003  7.50000E+0003 
+    8 expert 8    9    c: # fouten LOG  2.50000E+0001  3.00000E+0001  4.00000E+0001 
+    8 expert 8   10 c: tijd fouten LOG  3.00000E+0001  6.00000E+0001  1.80000E+0002 
+    8 expert 8   11 c: # herstelVS LOG  5.00000E-0001  1.00000E+0000  2.00000E+0000 
+    8 expert 8   12 c: tijd herste LOG  3.00000E+0001  6.00000E+0001  1.20000E+0002 
+    8 expert 8   13 c: # cum-ex vo LOG  5.00000E+0001  1.00000E+0002  2.50000E+0002 
+    8 expert 8   14 c: # cum-ex na LOG  5.00000E+0002  1.00000E+0003  1.50000E+0003 
+    8 expert 8   15 c: tijd cum-ex LOG  3.00000E+0001  6.00000E+0001  1.20000E+0002 
+    8 expert 8   16 c: fouten stor LOG  1.00000E+0001  2.50000E+0001  3.50000E+0001 
+    8 expert 8   17 c: tijd storne LOG  6.00000E+0001  1.20000E+0002  1.80000E+0002 
+    8 expert 8   18 c: terugvalute LOG  2.50000E+0002  5.00000E+0002  1.25000E+0003 
+    8 expert 8   19    cd: # claim LOG  3.00000E+0002  4.25000E+0002  5.50000E+0002 
+    8 expert 8   20    cd: € claim LOG  1.00000E+0003  5.00000E+0003  1.00000E+0004 
+    8 expert 8   21  cd: # z claim LOG  1.00000E+0002  1.50000E+0002  2.00000E+0002 
+    8 expert 8   22 cd: gem z clai LOG  4.00000E+0000  5.00000E+0000  6.50000E+0000 
+    8 expert 8   23 cd: vers z cla LOG  5.00000E+0001  1.00000E+0002  1.50000E+0002 
+    8 expert 8   24     cd: # 2003 LOG  2.00000E+0004  2.30000E+0004  3.00000E+0004 
+    8 expert 8   25 cd: verschil # LOG  1.00000E+0003  1.50000E+0003  2.00000E+0003 
+    8 expert 8   26      cd: # uur LOG  2.50000E+0003  5.00000E+0003  7.50000E+0003 
+    8 expert 8   27   cd: # fouten LOG  3.00000E+0001  5.00000E+0001  8.00000E+0001 
+    8 expert 8   28 cd: tijd foute LOG  3.00000E+0001  6.00000E+0001  1.20000E+0002 
+    8 expert 8   29 cd: 2 systemen LOG  2.50000E+0003  1.00000E+0004  1.50000E+0004 
+    8 expert 8   30 cd: # cum-ex v LOG  5.00000E+0002  1.00000E+0003  2.00000E+0003 
+    8 expert 8   31 cd: # cum-ex n LOG  2.00000E+0003  3.00000E+0003  4.00000E+0003 
+    8 expert 8   32 cd: tijd cum-e LOG  3.00000E+0001  6.00000E+0001  9.00000E+0001 
+    8 expert 8   33 cd: fout storn LOG  5.00000E+0001  9.00000E+0001  1.20000E+0002 
+    8 expert 8   34 cd: tijd storn LOG  3.00000E+0001  6.00000E+0001  1.20000E+0002 
+    8 expert 8   35 cd: terugvalut LOG  1.00000E+0004  2.50000E+0004  5.00000E+0005 
+    9 expert 9    1     c: # claim LOG  2.50000E+0001  1.20000E+0002  2.00000E+0002                                            Wat is over conversies het aantal klachten over betalingen (geld en effecten) in het laatste half jaar van 2003 (Juli - December)? 
+    9 expert 9    2     c: € claim LOG  7.50000E+0005  1.25000E+0006  2.50000E+0006 
+    9 expert 9    3   c: # z claim LOG  5.00000E+0000  3.00000E+0001  5.00000E+0001 
+    9 expert 9    4 c: gem z claim LOG  1.00000E-0004  1.00000E+0000  3.00000E+0000 
+    9 expert 9    5 c: vers z clai LOG  1.00000E-0004  7.50000E+0001  9.90000E+0001 
+    9 expert 9    6      c: # 2003 LOG  1.50000E+0002  7.50000E+0002  2.50000E+0003 
+    9 expert 9    7  c: verschil # LOG  1.00000E-0004  2.00000E+0002  1.00000E+0003 
+    9 expert 9    8       c: # uur LOG  7.00000E+0003  1.45000E+0004  2.50000E+0004 
+    9 expert 9    9    c: # fouten LOG  1.00000E-0004  1.00000E+0001  5.00000E+0001 
+    9 expert 9   10 c: tijd fouten LOG  1.20000E+0002  4.80000E+0002  2.40000E+0003 
+    9 expert 9   11 c: # herstelVS LOG  1.00000E-0004  3.00000E+0000  1.00000E+0001 
+    9 expert 9   12 c: tijd herste LOG  1.00000E-0004  1.20000E+0002  3.00000E+0002 
+    9 expert 9   13 c: # cum-ex vo LOG  1.00000E-0004  1.00000E+0004  5.00000E+0004 
+    9 expert 9   14 c: # cum-ex na LOG  1.00000E-0004  2.00000E+0004  5.00000E+0004 
+    9 expert 9   15 c: tijd cum-ex LOG  1.20000E+0002  4.80000E+0002  2.40000E+0003 
+    9 expert 9   16 c: fouten stor LOG  1.00000E-0004  1.50000E+0001  5.00000E+0001 
+    9 expert 9   17 c: tijd storne LOG  1.20000E+0002  4.80000E+0002  2.40000E+0003 
+    9 expert 9   18 c: terugvalute LOG  1.00000E-0004  2.00000E+0004  1.00000E+0006 
+    9 expert 9   19    cd: # claim LOG  1.00000E-0004  6.00000E+0001  1.80000E+0002 
+    9 expert 9   20    cd: € claim LOG  1.00000E-0004  5.00000E+0005  2.00000E+0006 
+    9 expert 9   21  cd: # z claim LOG  1.00000E-0004  1.00000E+0001  3.00000E+0001 
+    9 expert 9   22 cd: gem z clai LOG  1.00000E-0004  1.00000E+0000  5.00000E+0000 
+    9 expert 9   23 cd: vers z cla LOG  1.00000E-0004  1.20000E+0002  1.79000E+0002 
+    9 expert 9   24     cd: # 2003 LOG  2.00000E+0001  1.25000E+0003  5.00000E+0003 
+    9 expert 9   25 cd: verschil # LOG  1.00000E-0004  5.00000E+0001  2.00000E+0002 
+    9 expert 9   26      cd: # uur LOG  7.00000E+0003  1.45000E+0004  2.50000E+0004 
+    9 expert 9   27   cd: # fouten LOG  1.00000E-0004  5.00000E+0001  2.00000E+0002 
+    9 expert 9   28 cd: tijd foute LOG  1.20000E+0002  4.80000E+0002  2.40000E+0003 
+    9 expert 9   29 cd: 2 systemen LOG  1.00000E-0004  5.00000E+0005  2.00000E+0006 
+    9 expert 9   30 cd: # cum-ex v LOG  1.00000E-0004  5.00000E+0004  1.50000E+0005 
+    9 expert 9   31 cd: # cum-ex n LOG  1.00000E-0004  5.00000E+0004  1.50000E+0005 
+    9 expert 9   32 cd: tijd cum-e LOG  1.20000E+0002  4.80000E+0002  2.40000E+0003 
+    9 expert 9   33 cd: fout storn LOG  1.00000E-0004  7.00000E+0000  5.00000E+0001 
+    9 expert 9   34 cd: tijd storn LOG  1.20000E+0002  4.80000E+0002  2.40000E+0003 
+    9 expert 9   35 cd: terugvalut LOG  1.00000E-0004  2.00000E+0005  1.00000E+0006 
+   10 expert10    1     c: # claim LOG  1.00000E+0002  4.50000E+0002  1.00000E+0003                                            Wat is over conversies het aantal klachten over betalingen (geld en effecten) in het laatste half jaar van 2003 (Juli - December)? 
+   10 expert10    2     c: € claim LOG  5.00000E+0005  1.50000E+0006  2.50000E+0007 
+   10 expert10    3   c: # z claim LOG  7.50000E+0001  1.30000E+0002  2.00000E+0002 
+   10 expert10    4 c: gem z claim LOG  5.00000E+0000  7.00000E+0000  1.00000E+0001 
+   10 expert10    5 c: vers z clai LOG  5.00000E+0001  1.30000E+0002  2.00000E+0002 
+   10 expert10    6      c: # 2003 LOG  7.00000E+0002  1.25000E+0003  1.50000E+0003 
+   10 expert10    7  c: verschil # LOG  5.00000E+0001  7.50000E+0001  1.00000E+0002 
+   10 expert10    8       c: # uur LOG  1.00000E+0004  1.20000E+0004  1.50000E+0004 
+   10 expert10    9    c: # fouten LOG  5.00000E+0001  1.00000E+0002  3.00000E+0002 
+   10 expert10   10 c: tijd fouten LOG  1.50000E+0001  6.00000E+0001  1.20000E+0002 
+   10 expert10   11 c: # herstelVS LOG  1.00000E+0000  4.00000E+0000  1.00000E+0001 
+   10 expert10   12 c: tijd herste LOG  1.50000E+0001  3.00000E+0001  6.00000E+0001 
+   10 expert10   13 c: # cum-ex vo LOG  1.00000E+0003  3.00000E+0003  5.00000E+0003 
+   10 expert10   14 c: # cum-ex na LOG  1.00000E+0001  6.00000E+0001  8.00000E+0001 
+   10 expert10   15 c: tijd cum-ex LOG  1.50000E+0001  3.00000E+0001  6.00000E+0001 
+   10 expert10   16 c: fouten stor LOG  1.00000E+0002  3.00000E+0002  5.00000E+0002 
+   10 expert10   17 c: tijd storne LOG  1.50000E+0001  6.00000E+0001  1.20000E+0002 
+   10 expert10   18 c: terugvalute LOG  1.00000E+0003  3.00000E+0003  1.00000E+0004 
+   10 expert10   19    cd: # claim LOG  5.00000E+0001  2.50000E+0002  5.00000E+0002 
+   10 expert10   20    cd: € claim LOG  1.00000E+0003  5.00000E+0003  1.00000E+0004 
+   10 expert10   21  cd: # z claim LOG  5.00000E+0001  2.50000E+0002  5.00000E+0002 
+   10 expert10   22 cd: gem z clai LOG  5.00000E+0000  1.00000E+0001  2.00000E+0001 
+   10 expert10   23 cd: vers z cla LOG  5.00000E+0000  7.50000E+0000  1.00000E+0001 
+   10 expert10   24     cd: # 2003 LOG  2.00000E+0003  3.60000E+0003  5.00000E+0003 
+   10 expert10   25 cd: verschil # LOG  5.00000E+0002  1.00000E+0003  2.00000E+0003 
+   10 expert10   26      cd: # uur LOG  8.00000E+0003  1.00000E+0004  1.20000E+0004 
+   10 expert10   27   cd: # fouten LOG  5.00000E+0001  1.00000E+0002  2.00000E+0002 
+   10 expert10   28 cd: tijd foute LOG  1.50000E+0001  6.00000E+0001  1.20000E+0002 
+   10 expert10   29 cd: 2 systemen LOG  1.00000E+0003  1.00000E+0004  5.00000E+0004 
+   10 expert10   30 cd: # cum-ex v LOG  1.00000E+0003  4.00000E+0003  5.00000E+0003 
+   10 expert10   31 cd: # cum-ex n LOG  5.00000E+0001  2.50000E+0002  5.00000E+0002 
+   10 expert10   32 cd: tijd cum-e LOG  1.50000E+0001  6.00000E+0001  1.20000E+0002 
+   10 expert10   33 cd: fout storn LOG  3.00000E+0001  7.50000E+0001  2.00000E+0002 
+   10 expert10   34 cd: tijd storn LOG  1.50000E+0001  6.00000E+0001  1.20000E+0002 
+   10 expert10   35 cd: terugvalut LOG  1.00000E+0003  2.50000E+0003  5.00000E+0003 

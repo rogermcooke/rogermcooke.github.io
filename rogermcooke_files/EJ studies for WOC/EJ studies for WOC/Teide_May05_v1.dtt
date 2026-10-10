@@ -1,0 +1,392 @@
+* CLASS ASCII OUTPUT FILE. NQ=   3   QU=   5  50  95
+    1       PC    1        MSH eqs UNI  1.000E+0001  2.000E+0001  5.000E+0001                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH                                          Paul Cole
+    1       PC    2 Pelee Plinians UNI  3.900E+0001  5.000E+0001  6.000E+0001                                                                                                             percent. classified as Plinian in stratigraphy of last 6000 years 
+    1       PC    3    Global VEI5 UNI  1.000E+0001  2.000E+0001  3.000E+0001                                                                                                                                       no. VEI >=5 in last 2000 years globally 
+    1       PC    4  SHV extrusion UNI  1.200E+0001  1.500E+0001  2.000E+0001                                                                                                                              highest non-explosive extrusion rate SHV 1995-98 
+    1       PC    5 Shiveluch magm UNI  1.000E+0001  5.000E+0001  5.000E+0002                                                                                                                   magma production rate per year in Holocene, 000's tons/year 
+    1       PC    6 Kelud casualti UNI  2.000E+0002  2.000E+0003  6.000E+0003                                                                                                                                               no. fatalities from 1919 lahars 
+    1       PC    7 Hudson clast d UNI  5.000E+0000  1.000E+0001  2.000E+0001                                                                                                                           max. pumice clast dimension at 50km isopleth, in mm 
+    1       PC    8 Myojinsho angl UNI  2.500E+0001  3.000E+0001  3.500E+0001                                                                                                                                    angle of upper slopes of submarine volcano 
+    1       PC    9 Shiveluch area UNI  5.000E+0001  1.000E+0002  2.010E+0002                                                                                                                                    area of AD1430 3 cu km avalanche, in sq km 
+    1       PC   10    Hawaii pubs UNI  2.000E+0001  5.000E+0001  7.000E+0001                                                                                                                                    no. pubs on Hawaiian-Emperor Chain in 1995 
+    1       PC   11            P34 UNI  5.000E+0000  2.000E+0001  5.000E+0001 
+    1       PC   12            P35 UNI  5.000E+0001  8.000E+0001  9.500E+0001 
+    1       PC   13            P36 UNI  5.000E+0001  9.000E+0001  1.000E+0002 
+    1       PC   14            P37 UNI  5.000E+0001  9.000E+0001  1.000E+0002 
+    1       PC   15            P38 UNI  1.000E-0002  2.000E+0000  5.000E+0000 
+    1       PC   16            P39 UNI  2.000E+0000  5.000E+0000  1.000E+0001 
+    1       PC   17            P40 UNI  2.000E+0000  1.000E+0001  2.000E+0001 
+    1       PC   18            P41 UNI  2.000E+0000  1.000E+0001  3.000E+0001 
+    1       PC   19            P42 UNI  1.000E-0002  5.000E+0000  1.000E+0001 
+    1       PC   20            P43 UNI  5.000E+0000  2.000E+0001  4.000E+0001 
+    1       PC   21            P44 UNI  1.000E-0002  2.000E+0000  5.000E+0000 
+    1       PC   22            P45 UNI  5.000E+0000  2.000E+0001  4.000E+0001 
+    1       PC   23            P46 UNI  1.000E+0001  3.000E+0001  5.000E+0001 
+    2       AN    1        MSH eqs UNI  1.000E-0001  1.000E+0001  1.000E+0003                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH                                       Augusto Neri
+    2       AN    2 Pelee Plinians UNI  1.000E-0001  2.000E+0001  4.000E+0001 
+    2       AN    3    Global VEI5 UNI  1.000E+0002  1.000E+0003  1.000E+0004 
+    2       AN    4  SHV extrusion UNI  1.000E+0001  1.400E+0001  2.000E+0001 
+    2       AN    5 Shiveluch magm UNI  1.000E+0000  1.000E+0002  1.000E+0005 
+    2       AN    6 Kelud casualti UNI  5.000E+0001  5.000E+0003  2.000E+0004 
+    2       AN    7 Hudson clast d UNI  3.000E+0001  2.000E+0002  5.000E+0002 
+    2       AN    8 Myojinsho angl UNI  2.000E+0001  4.000E+0001  5.000E+0001 
+    2       AN    9 Shiveluch area UNI  2.000E+0002  5.000E+0002  8.000E+0002 
+    2       AN   10    Hawaii pubs UNI  1.000E+0003  3.000E+0003  1.000E+0004 
+    2       AN   11            P34 UNI  1.000E+0001  5.000E+0001  9.000E+0001 
+    2       AN   12            P35 UNI  2.000E+0001  6.000E+0001  9.500E+0001 
+    2       AN   13            P36 UNI  5.000E+0000  5.000E+0001  9.500E+0001 
+    2       AN   14            P37 UNI  2.000E+0001  9.000E+0001  9.800E+0001 
+    2       AN   15            P38 UNI  1.000E-0002  1.000E+0000  1.000E+0001 
+    2       AN   16            P39 UNI  1.000E-0001  5.000E+0000  3.000E+0001 
+    2       AN   17            P40 UNI  1.000E+0000  2.000E+0001  6.000E+0001 
+    2       AN   18            P41 UNI  1.000E-0002  2.000E+0000  2.000E+0001 
+    2       AN   19            P42 UNI  1.000E+0000  2.000E+0001  6.000E+0001 
+    2       AN   20            P43 UNI  2.000E+0000  2.500E+0001  7.000E+0001 
+    2       AN   21            P44 UNI  1.000E+0001  8.000E+0001  9.500E+0001 
+    2       AN   22            P45 UNI  2.000E+0000  2.000E+0001  9.500E+0001 
+    2       AN   23            P46 UNI  5.000E+0000  5.000E+0001  9.000E+0001 
+    3       JM    1        MSH eqs UNI  1.000E+0002  1.500E+0002  2.000E+0002                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH                                         Joan Marti
+    3       JM    2 Pelee Plinians UNI  1.000E+0000  3.000E+0000  5.000E+0000 
+    3       JM    3    Global VEI5 UNI  1.000E+0001  2.000E+0001  3.000E+0001 
+    3       JM    4  SHV extrusion UNI  1.000E+0001  2.000E+0001  3.000E+0001 
+    3       JM    5 Shiveluch magm UNI  2.000E+0002  5.000E+0002  1.000E+0003 
+    3       JM    6 Kelud casualti UNI  5.000E+0001  1.000E+0002  1.500E+0002 
+    3       JM    7 Hudson clast d UNI  5.000E+0001  1.000E+0002  1.500E+0002 
+    3       JM    8 Myojinsho angl UNI  1.500E+0001  2.500E+0001  3.500E+0001 
+    3       JM    9 Shiveluch area UNI  2.000E+0001  3.000E+0001  6.000E+0001 
+    3       JM   10    Hawaii pubs UNI  1.000E+0001  2.000E+0001  4.000E+0001 
+    3       JM   11            P34 UNI  5.000E+0000  1.500E+0001  2.000E+0001 
+    3       JM   12            P35 UNI  7.500E+0001  8.000E+0001  9.500E+0001 
+    3       JM   13            P36 UNI  2.000E+0001  4.000E+0001  4.500E+0001 
+    3       JM   14            P37 UNI  8.500E+0001  9.500E+0001  9.900E+0001 
+    3       JM   15            P38 UNI  1.000E-0001  1.000E+0000  2.000E+0000 
+    3       JM   16            P39 UNI  1.000E+0000  3.000E+0000  5.000E+0000 
+    3       JM   17            P40 UNI  3.000E+0000  5.000E+0000  7.000E+0000 
+    3       JM   18            P41 UNI  1.000E+0000  3.000E+0000  5.000E+0000 
+    3       JM   19            P42 UNI  5.000E+0000  8.000E+0000  1.000E+0001 
+    3       JM   20            P43 UNI  1.000E+0001  3.000E+0001  3.500E+0001 
+    3       JM   21            P44 UNI  5.000E+0001  7.000E+0001  8.000E+0001 
+    3       JM   22            P45 UNI  5.000E+0000  1.000E+0001  1.500E+0001 
+    3       JM   23            P46 UNI  3.000E+0001  4.500E+0001  6.000E+0001 
+    4       AB    1        MSH eqs UNI  2.000E+0001  4.000E+0001  1.000E+0002                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH                               Antonella Bertagnini
+    4       AB    2 Pelee Plinians UNI  2.000E+0000  4.000E+0000  1.000E+0001 
+    4       AB    3    Global VEI5 UNI  3.000E+0001  5.000E+0001  7.000E+0001 
+    4       AB    4  SHV extrusion UNI  2.000E+0000  5.000E+0000  1.000E+0001 
+    4       AB    5 Shiveluch magm UNI  1.000E+0000  1.000E+0005  1.000E+0009 
+    4       AB    6 Kelud casualti UNI  2.000E+0003  4.000E+0003  6.000E+0003 
+    4       AB    7 Hudson clast d UNI  1.000E+0002  1.500E+0002  3.000E+0002 
+    4       AB    8 Myojinsho angl UNI  1.000E+0001  2.000E+0001  2.500E+0001 
+    4       AB    9 Shiveluch area UNI  5.000E+0001  1.000E+0002  1.500E+0002 
+    4       AB   10    Hawaii pubs UNI  5.000E+0001  1.500E+0002  3.000E+0002 
+    4       AB   11            P34 UNI  1.000E+0001  5.000E+0001  9.000E+0001 
+    4       AB   12            P35 UNI  1.000E+0000  6.000E+0001  9.900E+0001 
+    4       AB   13            P36 UNI  1.000E+0001  5.000E+0001  9.000E+0001 
+    4       AB   14            P37 UNI  1.000E+0001  8.000E+0001  9.900E+0001 
+    4       AB   15            P38 UNI  1.000E-0002  5.000E-0001  1.000E+0000 
+    4       AB   16            P39 UNI  1.000E-0002  5.000E-0001  1.000E+0000 
+    4       AB   17            P40 UNI  1.000E-0001  1.000E+0001  3.000E+0001 
+    4       AB   18            P41 UNI  1.000E-0002  5.000E-0001  1.000E+0000 
+    4       AB   19            P42 UNI  1.000E+0000  2.000E+0001  4.000E+0001 
+    4       AB   20            P43 UNI  1.000E+0000  2.000E+0001  4.000E+0001 
+    4       AB   21            P44 UNI  5.000E+0000  9.000E+0000  9.500E+0001 
+    4       AB   22            P45 UNI  1.000E-0001  5.000E+0000  9.000E+0001 
+    4       AB   23            P46 UNI  1.000E+0000  8.500E+0001  9.900E+0001 
+    5       RC    1        MSH eqs UNI  5.000E+0000  5.000E+0001  2.000E+0002                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH                                     Rafaello Cioni
+    5       RC    2 Pelee Plinians UNI  4.000E+0000  8.000E+0000  1.200E+0001 
+    5       RC    3    Global VEI5 UNI  1.500E+0001  3.500E+0001  6.000E+0001 
+    5       RC    4  SHV extrusion UNI  5.000E+0000  1.000E+0001  3.000E+0001 
+    5       RC    5 Shiveluch magm UNI  1.000E+0003  3.000E+0003  1.000E+0004 
+    5       RC    6 Kelud casualti UNI  5.000E+0002  2.000E+0003  4.000E+0003 
+    5       RC    7 Hudson clast d UNI  8.000E+0001  1.200E+0002  1.500E+0002 
+    5       RC    8 Myojinsho angl UNI  2.000E+0001  2.500E+0001  3.000E+0001 
+    5       RC    9 Shiveluch area UNI  4.000E+0001  1.000E+0002  1.500E+0002 
+    5       RC   10    Hawaii pubs UNI  1.000E+0002  2.000E+0002  5.000E+0002 
+    5       RC   11            P34 UNI  5.000E-0001  1.000E+0001  1.500E+0001 
+    5       RC   12            P35 UNI  4.000E+0001  7.000E+0001  8.000E+0001 
+    5       RC   13            P36 UNI  5.000E+0000  2.000E+0001  5.000E+0001 
+    5       RC   14            P37 UNI  8.000E+0001  9.500E+0001  9.900E+0001 
+    5       RC   15            P38 UNI  1.000E-0004  1.000E-0002  1.000E-0001 
+    5       RC   16            P39 UNI  1.000E-0004  1.000E-0001  5.000E-0001 
+    5       RC   17            P40 UNI  1.000E-0001  1.000E+0000  5.000E+0000 
+    5       RC   18            P41 UNI  1.000E-0003  1.000E+0000  5.000E+0000 
+    5       RC   19            P42 UNI  1.000E+0000  1.000E+0001  2.000E+0001 
+    5       RC   20            P43 UNI  4.000E+0001  6.000E+0001  7.000E+0001 
+    5       RC   21            P44 UNI  7.000E+0001  9.000E+0001  9.500E+0001 
+    5       RC   22            P45 UNI  5.000E+0000  1.000E+0001  3.000E+0001 
+    5       RC   23            P46 UNI  4.000E+0001  7.000E+0001  9.000E+0001 
+    6       AF    1        MSH eqs UNI  5.000E+0001  2.000E+0002  1.000E+0003                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH                                     Alicia Felpeto
+    6       AF    2 Pelee Plinians UNI  2.000E+0001  4.000E+0001  6.000E+0001 
+    6       AF    3    Global VEI5 UNI  5.000E+0001  1.000E+0002  3.000E+0002 
+    6       AF    4  SHV extrusion UNI  1.000E-0001  1.000E+0000  3.000E+0000 
+    6       AF    5 Shiveluch magm UNI  1.000E+0001  1.000E+0002  1.000E+0003 
+    6       AF    6 Kelud casualti UNI  3.000E+0001  1.000E+0002  5.000E+0002 
+    6       AF    7 Hudson clast d UNI  5.000E+0000  1.000E+0001  5.000E+0001 
+    6       AF    8 Myojinsho angl UNI  1.500E+0001  3.000E+0001  4.200E+0001 
+    6       AF    9 Shiveluch area UNI  5.000E+0000  1.000E+0001  3.000E+0001 
+    6       AF   10    Hawaii pubs UNI  3.000E+0001  5.000E+0001  1.000E+0002 
+    6       AF   11            P34 UNI  2.000E+0000  1.000E+0001  2.000E+0001 
+    6       AF   12            P35 UNI  5.000E+0001  7.000E+0001  8.500E+0001 
+    6       AF   13            P36 UNI  3.000E+0001  5.000E+0001  7.000E+0001 
+    6       AF   14            P37 UNI  2.000E+0000  1.500E+0001  2.500E+0001 
+    6       AF   15            P38 UNI  1.000E-0003  5.000E-0002  1.000E+0000 
+    6       AF   16            P39 UNI  2.000E+0000  8.950E+0000  1.200E+0001 
+    6       AF   17            P40 UNI  4.000E+0000  1.600E+0001  2.500E+0001 
+    6       AF   18            P41 UNI  5.000E+0000  1.000E+0001  2.000E+0001 
+    6       AF   19            P42 UNI  5.000E+0000  1.000E+0001  2.000E+0001 
+    6       AF   20            P43 UNI  5.000E+0000  2.000E+0001  4.000E+0001 
+    6       AF   21            P44 UNI  5.500E+0001  6.900E+0001  8.000E+0001 
+    6       AF   22            P45 UNI  2.000E+0001  4.000E+0001  6.000E+0001 
+    6       AF   23            P46 UNI  1.000E+0001  2.000E+0001  4.000E+0001 
+    7      AFo    1        MSH eqs UNI  1.000E+0000  5.000E+0001  2.000E+0002                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH                                        Arnau Folch
+    7      AFo    2 Pelee Plinians UNI  1.000E-0001  5.000E+0000  1.000E+0001 
+    7      AFo    3    Global VEI5 UNI  5.000E+0000  1.000E+0001  1.500E+0001 
+    7      AFo    4  SHV extrusion UNI  1.000E+0001  1.000E+0002  1.000E+0003 
+    7      AFo    5 Shiveluch magm UNI  1.000E+0003  5.000E+0003  1.000E+0004 
+    7      AFo    6 Kelud casualti UNI  5.000E+0002  1.000E+0003  5.000E+0003 
+    7      AFo    7 Hudson clast d UNI  2.500E+0001  5.000E+0001  1.000E+0002 
+    7      AFo    8 Myojinsho angl UNI  2.000E+0001  3.000E+0001  4.000E+0001 
+    7      AFo    9 Shiveluch area UNI  1.000E+0002  3.000E+0002  1.000E+0003 
+    7      AFo   10    Hawaii pubs UNI  3.000E+0000  5.000E+0000  1.500E+0001 
+    7      AFo   11            P34 UNI  1.000E+0001  2.000E+0001  4.000E+0001 
+    7      AFo   12            P35 UNI  4.000E+0001  6.000E+0001  8.000E+0001 
+    7      AFo   13            P36 UNI  1.500E+0001  3.000E+0001  5.000E+0001 
+    7      AFo   14            P37 UNI  5.000E+0001  7.000E+0001  9.000E+0001 
+    7      AFo   15            P38 UNI  1.000E-0003  2.000E+0000  5.000E+0000 
+    7      AFo   16            P39 UNI  2.000E+0000  5.000E+0000  8.000E+0000 
+    7      AFo   17            P40 UNI  2.000E+0000  2.500E+0001  3.500E+0001 
+    7      AFo   18            P41 UNI  5.000E+0000  1.000E+0001  2.000E+0001 
+    7      AFo   19            P42 UNI  1.000E+0001  2.500E+0001  4.000E+0001 
+    7      AFo   20            P43 UNI  1.500E+0001  2.000E+0001  3.000E+0001 
+    7      AFo   21            P44 UNI  6.000E+0001  7.000E+0001  9.500E+0001 
+    7      AFo   22            P45 UNI  1.500E+0001  3.000E+0001  6.000E+0001 
+    7      AFo   23            P46 UNI  2.500E+0001  4.000E+0001  5.000E+0001 
+    8       CS    1        MSH eqs UNI  5.000E+0001  1.000E+0002  2.000E+0002                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH                                     Carlos Soriano
+    8       CS    2 Pelee Plinians UNI  5.000E+0000  1.000E+0001  1.500E+0001 
+    8       CS    3    Global VEI5 UNI  2.000E+0002  4.000E+0002  6.000E+0002 
+    8       CS    4  SHV extrusion UNI  1.100E+0001  2.400E+0001  3.600E+0001 
+    8       CS    5 Shiveluch magm UNI  1.000E+0002  5.000E+0002  1.000E+0003 
+    8       CS    6 Kelud casualti UNI  1.000E+0004  2.000E+0004  3.000E+0004 
+    8       CS    7 Hudson clast d UNI  5.000E+0000  1.000E+0001  1.500E+0001 
+    8       CS    8 Myojinsho angl UNI  1.000E+0001  1.500E+0001  2.100E+0001 
+    8       CS    9 Shiveluch area UNI  1.000E+0001  1.500E+0001  2.000E+0001 
+    8       CS   10    Hawaii pubs UNI  1.000E+0001  1.500E+0001  2.000E+0001 
+    8       CS   11            P34 UNI  1.500E+0001  3.500E+0001  7.000E+0001 
+    8       CS   12            P35 UNI  3.000E+0001  6.500E+0001  8.000E+0001 
+    8       CS   13            P36 UNI  2.000E+0001  4.000E+0001  8.000E+0001 
+    8       CS   14            P37 UNI  4.000E+0001  8.000E+0001  9.500E+0001 
+    8       CS   15            P38 UNI  2.000E+0000  5.000E+0000  2.000E+0001 
+    8       CS   16            P39 UNI  3.000E+0000  7.000E+0000  2.200E+0001 
+    8       CS   17            P40 UNI  4.000E+0000  1.000E+0001  2.500E+0001 
+    8       CS   18            P41 UNI  2.000E+0000  5.000E+0000  2.000E+0001 
+    8       CS   19            P42 UNI  4.000E+0000  1.000E+0001  2.500E+0001 
+    8       CS   20            P43 UNI  4.000E+0000  1.000E+0001  2.500E+0001 
+    8       CS   21            P44 UNI  4.000E+0001  6.000E+0001  8.000E+0001 
+    8       CS   22            P45 UNI  1.500E+0001  3.000E+0001  6.000E+0001 
+    8       CS   23            P46 UNI  4.000E+0001  8.000E+0001  9.500E+0001 
+    9       JA    1        MSH eqs UNI  3.000E+0002  5.500E+0002  1.000E+0003                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH                                       Joan Andujar
+    9       JA    2 Pelee Plinians UNI  4.900E+0000  5.000E+0000  1.000E+0001 
+    9       JA    3    Global VEI5 UNI  1.000E+0001  2.000E+0001  3.000E+0001 
+    9       JA    4  SHV extrusion UNI  4.000E-0002  5.000E-0002  1.000E-0001 
+    9       JA    5 Shiveluch magm UNI  1.000E+0003  3.000E+0003  5.000E+0003 
+    9       JA    6 Kelud casualti UNI  2.500E+0001  1.000E+0003  1.500E+0003 
+    9       JA    7 Hudson clast d UNI  3.000E+0000  5.000E+0000  1.000E+0001 
+    9       JA    8 Myojinsho angl UNI  1.000E+0000  3.000E+0001  6.000E+0001 
+    9       JA    9 Shiveluch area UNI  5.000E+0001  7.500E+0001  1.000E+0002 
+    9       JA   10    Hawaii pubs UNI  2.000E+0000  3.000E+0000  4.000E+0000 
+    9       JA   11            P34 UNI  3.000E+0001  5.000E+0001  7.000E+0001 
+    9       JA   12            P35 UNI  5.000E+0001  8.000E+0001  9.000E+0001 
+    9       JA   13            P36 UNI  5.000E+0000  1.000E+0001  2.000E+0001 
+    9       JA   14            P37 UNI  2.000E+0001  5.000E+0001  6.000E+0001 
+    9       JA   15            P38 UNI  1.000E+0000  5.000E+0000  1.000E+0001 
+    9       JA   16            P39 UNI  3.000E+0000  8.000E+0000  1.200E+0001 
+    9       JA   17            P40 UNI  1.000E+0001  1.500E+0001  2.000E+0001 
+    9       JA   18            P41 UNI  2.000E+0001  3.500E+0001  4.500E+0001 
+    9       JA   19            P42 UNI  1.000E+0001  1.500E+0001  2.000E+0001 
+    9       JA   20            P43 UNI  2.000E+0001  3.500E+0001  4.500E+0001 
+    9       JA   21            P44 UNI  6.000E+0001  8.000E+0001  9.000E+0001 
+    9       JA   22            P45 UNI  3.000E+0001  5.000E+0001  6.000E+0001 
+    9       JA   23            P46 UNI  3.000E+0001  5.000E+0001  6.000E+0001 
+   10       OC    1        MSH eqs UNI  1.000E+0002  5.000E+0002  2.000E+0003                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH                                       Ona Cornella
+   10       OC    2 Pelee Plinians UNI  5.000E+0000  2.500E+0001  5.000E+0001 
+   10       OC    3    Global VEI5 UNI  5.000E+0000  5.000E+0001  1.000E+0002 
+   10       OC    4  SHV extrusion UNI  5.000E-0001  1.000E+0000  1.000E+0001 
+   10       OC    5 Shiveluch magm UNI  1.000E+0000  5.000E+0000  3.000E+0001 
+   10       OC    6 Kelud casualti UNI  1.000E+0003  1.000E+0004  5.000E+0004 
+   10       OC    7 Hudson clast d UNI  5.000E+0000  2.000E+0001  4.000E+0001 
+   10       OC    8 Myojinsho angl UNI  1.500E+0001  2.500E+0001  3.500E+0001 
+   10       OC    9 Shiveluch area UNI  5.000E+0001  2.000E+0002  5.000E+0002 
+   10       OC   10    Hawaii pubs UNI  5.000E+0000  1.500E+0001  5.000E+0001 
+   10       OC   11            P34 UNI  1.000E+0001  3.000E+0001  5.000E+0001 
+   10       OC   12            P35 UNI  6.000E+0001  8.000E+0001  9.000E+0001 
+   10       OC   13            P36 UNI  2.000E+0000  5.000E+0000  1.500E+0001 
+   10       OC   14            P37 UNI  7.000E+0001  8.000E+0001  9.000E+0001 
+   10       OC   15            P38 UNI  1.000E-0001  5.000E-0001  7.000E-0001 
+   10       OC   16            P39 UNI  5.000E+0000  8.000E+0000  2.500E+0001 
+   10       OC   17            P40 UNI  5.000E+0000  8.000E+0000  2.500E+0001 
+   10       OC   18            P41 UNI  5.000E-0001  3.500E+0000  5.000E+0000 
+   10       OC   19            P42 UNI  1.000E+0001  2.000E+0001  5.000E+0001 
+   10       OC   20            P43 UNI  1.000E+0001  2.000E+0001  5.000E+0001 
+   10       OC   21            P44 UNI  6.000E+0001  8.000E+0001  9.000E+0001 
+   10       OC   22            P45 UNI  1.000E+0001  2.500E+0001  4.000E+0001 
+   10       OC   23            P46 UNI  1.000E+0001  3.500E+0001  5.000E+0001 
+   11     JMRP    1        MSH eqs UNI  5.000E+0001  1.000E+0002  3.000E+0002                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH                                       Jose Pacheco
+   11     JMRP    2 Pelee Plinians UNI  3.900E+0001  6.000E+0001  8.000E+0001 
+   11     JMRP    3    Global VEI5 UNI  3.000E+0000  4.000E+0000  5.000E+0000 
+   11     JMRP    4  SHV extrusion UNI  1.000E-0003  1.000E-0002  1.000E-0001 
+   11     JMRP    5 Shiveluch magm UNI  1.000E+0003  1.000E+0004  1.000E+0005 
+   11     JMRP    6 Kelud casualti UNI  4.000E+0002  6.000E+0002  1.000E+0003 
+   11     JMRP    7 Hudson clast d UNI  1.000E+0001  1.500E+0001  2.000E+0001 
+   11     JMRP    8 Myojinsho angl UNI  2.500E+0001  3.000E+0001  4.000E+0001 
+   11     JMRP    9 Shiveluch area UNI  9.000E+0001  1.200E+0002  1.500E+0002 
+   11     JMRP   10    Hawaii pubs UNI  4.000E+0001  5.000E+0001  7.000E+0001 
+   11     JMRP   11            P34 UNI  1.000E+0001  3.000E+0001  6.000E+0001 
+   11     JMRP   12            P35 UNI  6.000E+0001  8.000E+0001  9.500E+0001 
+   11     JMRP   13            P36 UNI  1.500E+0001  4.000E+0001  5.000E+0001 
+   11     JMRP   14            P37 UNI  8.000E+0001  9.000E+0001  9.900E+0001 
+   11     JMRP   15            P38 UNI  1.000E-0002  1.000E-0001  5.000E-0001 
+   11     JMRP   16            P39 UNI  1.000E+0000  1.000E+0001  1.500E+0001 
+   11     JMRP   17            P40 UNI  5.000E+0000  1.500E+0001  2.500E+0001 
+   11     JMRP   18            P41 UNI  1.000E-0002  1.000E-0001  5.000E+0000 
+   11     JMRP   19            P42 UNI  2.000E+0001  3.580E+0001  5.000E+0001 
+   11     JMRP   20            P43 UNI  1.900E+0001  2.000E+0001  5.000E+0001 
+   11     JMRP   21            P44 UNI  1.000E+0000  1.000E+0001  1.500E+0001 
+   11     JMRP   22            P45 UNI  2.000E+0001  3.500E+0001  6.000E+0001 
+   11     JMRP   23            P46 UNI  2.000E+0001  5.500E+0001  6.000E+0001 
+   12       AO    1        MSH eqs UNI  1.000E+0001  2.000E+0001  3.000E+0001                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH                                    Antonio Orjonet
+   12       AO    2 Pelee Plinians UNI  2.000E+0001  5.000E+0001  6.500E+0001 
+   12       AO    3    Global VEI5 UNI  2.000E+0000  3.000E+0000  5.000E+0000 
+   12       AO    4  SHV extrusion UNI  7.000E+0001  9.000E+0001  1.200E+0002 
+   12       AO    5 Shiveluch magm UNI  2.000E+0001  4.000E+0001  6.000E+0001 
+   12       AO    6 Kelud casualti UNI  4.000E+0003  7.500E+0003  9.000E+0003 
+   12       AO    7 Hudson clast d UNI  1.500E+0001  2.000E+0001  3.000E+0001 
+   12       AO    8 Myojinsho angl UNI  8.000E+0000  1.500E+0001  3.000E+0001 
+   12       AO    9 Shiveluch area UNI  2.000E+0000  5.000E+0000  1.000E+0001 
+   12       AO   10    Hawaii pubs UNI  4.000E+0001  8.000E+0001  1.500E+0002 
+   12       AO   11            P34 UNI  1.000E+0001  3.000E+0001  6.000E+0001 
+   12       AO   12            P35 UNI  2.000E+0001  5.000E+0001  9.000E+0001 
+   12       AO   13            P36 UNI  4.000E+0001  7.000E+0001  9.000E+0001 
+   12       AO   14            P37 UNI  3.000E+0001  8.500E+0001  9.000E+0001 
+   12       AO   15            P38 UNI  4.900E+0000  5.000E+0000  1.000E+0001 
+   12       AO   16            P39 UNI  5.000E+0000  1.000E+0001  4.000E+0001 
+   12       AO   17            P40 UNI  1.500E+0001  2.000E+0001  3.000E+0001 
+   12       AO   18            P41 UNI  5.000E+0000  2.500E+0001  3.000E+0001 
+   12       AO   19            P42 UNI  3.000E+0000  2.000E+0001  3.500E+0001 
+   12       AO   20            P43 UNI  5.000E+0000  1.000E+0001  2.000E+0001 
+   12       AO   21            P44 UNI  4.000E+0000  5.000E+0001  7.000E+0001 
+   12       AO   22            P45 UNI  2.000E+0001  4.000E+0001  6.000E+0001 
+   12       AO   23            P46 UNI  3.500E+0001  6.000E+0001  8.000E+0001 
+   13       RO    1        MSH eqs UNI  1.000E+0000  1.000E+0001  5.000E+0001                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH                                        Ramon Ortiz
+   13       RO    2 Pelee Plinians UNI  1.000E+0000  5.000E+0000  1.000E+0001 
+   13       RO    3    Global VEI5 UNI  1.000E+0001  2.000E+0001  5.000E+0001 
+   13       RO    4  SHV extrusion UNI  1.000E+0001  1.000E+0002  5.000E+0002 
+   13       RO    5 Shiveluch magm UNI  1.000E+0004  1.000E+0005  1.000E+0006 
+   13       RO    6 Kelud casualti UNI  1.000E+0003  5.000E+0003  2.000E+0004 
+   13       RO    7 Hudson clast d UNI  5.000E+0000  1.000E+0001  2.000E+0001 
+   13       RO    8 Myojinsho angl UNI  5.000E+0000  1.000E+0001  2.000E+0001 
+   13       RO    9 Shiveluch area UNI  1.000E+0002  2.000E+0002  5.000E+0002 
+   13       RO   10    Hawaii pubs UNI  1.000E+0001  2.000E+0001  1.000E+0002 
+   13       RO   11            P34 UNI  5.000E+0000  2.000E+0001  8.000E+0001 
+   13       RO   12            P35 UNI  1.000E+0001  2.000E+0001  5.000E+0001 
+   13       RO   13            P36 UNI  5.000E+0000  1.000E+0001  2.000E+0001 
+   13       RO   14            P37 UNI  5.000E+0000  1.000E+0001  2.000E+0001 
+   13       RO   15            P38 UNI  1.000E-0003  1.000E-0002  1.000E+0000 
+   13       RO   16            P39 UNI  1.000E-0001  1.000E+0000  5.000E+0000 
+   13       RO   17            P40 UNI  1.000E-0001  1.000E+0000  5.000E+0000 
+   13       RO   18            P41 UNI  1.000E-0001  5.000E+0000  1.000E+0001 
+   13       RO   19            P42 UNI  1.000E+0000  5.000E+0000  2.000E+0001 
+   13       RO   20            P43 UNI  1.000E+0000  5.000E+0001  8.000E+0001 
+   13       RO   21            P44 UNI  1.000E+0001  5.000E+0001  8.000E+0001 
+   13       RO   22            P45 UNI  1.000E+0000  2.000E+0001  5.000E+0001 
+   13       RO   23            P46 UNI  1.000E+0000  5.000E+0001  9.900E+0001 
+   14       FT    1        MSH eqs UNI  1.000E+0002  1.500E+0002  2.000E+0002                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH                                      Fabio Tiexido
+   14       FT    2 Pelee Plinians UNI  6.000E+0001  7.000E+0001  8.000E+0001 
+   14       FT    3    Global VEI5 UNI  2.000E+0001  4.000E+0001  6.000E+0001 
+   14       FT    4  SHV extrusion UNI  5.000E+0000  1.000E+0001  1.500E+0001 
+   14       FT    5 Shiveluch magm UNI  1.500E+0001  2.000E+0001  2.500E+0001 
+   14       FT    6 Kelud casualti UNI  1.500E+0004  2.000E+0004  3.000E+0004 
+   14       FT    7 Hudson clast d UNI  3.000E+0000  5.000E+0000  1.000E+0001 
+   14       FT    8 Myojinsho angl UNI  1.000E+0001  1.500E+0001  2.000E+0001 
+   14       FT    9 Shiveluch area UNI  1.500E+0001  2.000E+0001  2.500E+0001 
+   14       FT   10    Hawaii pubs UNI  5.000E+0000  1.000E+0001  1.300E+0001 
+   14       FT   11            P34 UNI  1.000E+0001  2.000E+0001  2.500E+0001 
+   14       FT   12            P35 UNI  6.500E+0001  7.500E+0001  8.500E+0001 
+   14       FT   13            P36 UNI  4.000E+0001  5.000E+0001  6.500E+0001 
+   14       FT   14            P37 UNI  3.000E+0001  4.000E+0001  4.500E+0001 
+   14       FT   15            P38 UNI  3.000E+0000  5.000E+0000  1.000E+0001 
+   14       FT   16            P39 UNI  7.000E+0000  1.000E+0001  2.000E+0001 
+   14       FT   17            P40 UNI  1.500E+0001  2.000E+0001  3.000E+0001 
+   14       FT   18            P41 UNI  5.000E+0000  1.000E+0001  1.500E+0001 
+   14       FT   19            P42 UNI  1.500E+0001  2.500E+0001  3.000E+0001 
+   14       FT   20            P43 UNI  1.000E+0001  1.500E+0001  2.500E+0001 
+   14       FT   21            P44 UNI  5.500E+0001  7.000E+0001  7.500E+0001 
+   14       FT   22            P45 UNI  2.000E+0001  3.000E+0001  3.500E+0001 
+   14       FT   23            P46 UNI  2.000E+0001  3.000E+0001  4.000E+0001 
+   15      MJB    1        MSH eqs UNI  1.000E+0000  1.000E+0001  1.000E+0002                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH                                  Maria-Jose Blanco
+   15      MJB    2 Pelee Plinians UNI  1.000E+0000  5.000E+0000  1.000E+0001 
+   15      MJB    3    Global VEI5 UNI  1.000E-0001  2.000E+0001  4.000E+0001 
+   15      MJB    4  SHV extrusion UNI  1.000E+0000  1.000E+0001  1.000E+0002 
+   15      MJB    5 Shiveluch magm UNI  1.000E+0000  2.000E+0000  5.000E+0000 
+   15      MJB    6 Kelud casualti UNI  1.000E+0002  1.000E+0003  5.000E+0003 
+   15      MJB    7 Hudson clast d UNI  1.000E+0000  1.000E+0001  2.000E+0001 
+   15      MJB    8 Myojinsho angl UNI  5.000E+0000  1.000E+0001  1.500E+0001 
+   15      MJB    9 Shiveluch area UNI  3.000E+0001  1.000E+0002  3.000E+0002 
+   15      MJB   10    Hawaii pubs UNI  1.000E-0001  2.000E+0000  2.000E+0001 
+   15      MJB   11            P34 UNI  1.000E+0000  1.000E+0001  2.500E+0001 
+   15      MJB   12            P35 UNI  4.000E+0001  6.000E+0001  8.000E+0001 
+   15      MJB   13            P36 UNI  4.000E+0001  5.000E+0001  6.500E+0001 
+   15      MJB   14            P37 UNI  1.000E+0000  2.000E+0001  3.000E+0001 
+   15      MJB   15            P38 UNI  1.000E-0003  5.000E-0001  2.000E+0000 
+   15      MJB   16            P39 UNI  3.000E+0000  7.000E+0000  1.500E+0001 
+   15      MJB   17            P40 UNI  7.000E+0000  1.500E+0001  2.500E+0001 
+   15      MJB   18            P41 UNI  5.000E+0000  1.500E+0001  3.000E+0001 
+   15      MJB   19            P42 UNI  1.000E+0001  2.000E+0001  3.000E+0001 
+   15      MJB   20            P43 UNI  1.500E+0001  2.500E+0001  4.000E+0001 
+   15      MJB   21            P44 UNI  5.500E+0001  7.000E+0001  8.000E+0001 
+   15      MJB   22            P45 UNI  4.000E+0001  5.000E+0001  5.500E+0001 
+   15      MJB   23            P46 UNI  1.000E+0001  2.000E+0001  3.000E+0001 
+   16      MGF    1        MSH eqs UNI  1.000E+0001  5.000E+0001  1.000E+0002                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH                           Mariano Garcia-Fernandez
+   16      MGF    2 Pelee Plinians UNI  6.000E+0001  7.000E+0001  8.000E+0001 
+   16      MGF    3    Global VEI5 UNI  2.000E+0000  3.000E+0000  1.000E+0001 
+   16      MGF    4  SHV extrusion UNI  1.000E+0000  5.000E+0000  1.000E+0001 
+   16      MGF    5 Shiveluch magm UNI  5.000E+0002  1.000E+0003  1.000E+0004 
+   16      MGF    6 Kelud casualti UNI  1.000E+0003  5.000E+0003  1.000E+0004 
+   16      MGF    7 Hudson clast d UNI  1.000E+0000  1.000E+0001  1.000E+0002 
+   16      MGF    8 Myojinsho angl UNI  2.000E+0001  3.000E+0001  6.000E+0001 
+   16      MGF    9 Shiveluch area UNI  5.000E+0000  1.000E+0001  1.000E+0002 
+   16      MGF   10    Hawaii pubs UNI  3.000E+0001  6.000E+0001  1.500E+0002 
+   16      MGF   11            P34 UNI  1.000E-0002  6.000E+0001  1.000E+0002 
+   16      MGF   12            P35 UNI  6.500E+0001  8.000E+0001  9.500E+0001 
+   16      MGF   13            P36 UNI  6.000E+0001  7.000E+0001  8.000E+0001 
+   16      MGF   14            P37 UNI  1.000E+0001  2.000E+0001  3.000E+0001 
+   16      MGF   15            P38 UNI  5.000E+0000  1.000E+0001  1.500E+0001 
+   16      MGF   16            P39 UNI  2.000E+0000  5.000E+0000  1.000E+0001 
+   16      MGF   17            P40 UNI  2.000E+0000  5.000E+0000  1.000E+0001 
+   16      MGF   18            P41 UNI  1.500E+0001  2.500E+0001  4.000E+0001 
+   16      MGF   19            P42 UNI  1.000E+0001  1.500E+0001  3.000E+0001 
+   16      MGF   20            P43 UNI  2.500E+0001  3.000E+0001  5.000E+0001 
+   16      MGF   21            P44 UNI  7.000E+0001  8.000E+0001  9.000E+0001 
+   16      MGF   22            P45 UNI  2.000E+0001  3.000E+0001  4.000E+0001 
+   16      MGF   23            P46 UNI  5.000E+0001  6.000E+0001  7.000E+0001 
+   17      MJJ    1        MSH eqs UNI  3.000E+0001  3.000E+0002  1.500E+0003                                                                                                           no. eqs detected in 5 years before 20 March 1980 within 35km of MSH                                 Maria-Jose Jimenez
+   17      MJJ    2 Pelee Plinians UNI  5.000E+0000  1.500E+0001  4.000E+0001 
+   17      MJJ    3    Global VEI5 UNI  1.000E+0000  2.000E+0000  5.000E+0000 
+   17      MJJ    4  SHV extrusion UNI  1.000E+0000  2.000E+0000  1.000E+0001 
+   17      MJJ    5 Shiveluch magm UNI  5.000E-0001  2.000E+0000  5.000E+0000 
+   17      MJJ    6 Kelud casualti UNI  5.000E+0002  2.000E+0003  5.000E+0003 
+   17      MJJ    7 Hudson clast d UNI  2.000E-0001  5.000E-0001  1.000E+0000 
+   17      MJJ    8 Myojinsho angl UNI  3.000E+0001  5.000E+0001  7.500E+0001 
+   17      MJJ    9 Shiveluch area UNI  1.000E+0002  2.000E+0002  4.000E+0002 
+   17      MJJ   10    Hawaii pubs UNI  1.000E+0002  2.000E+0002  5.000E+0002 
+   17      MJJ   11            P34 UNI  2.500E+0001  5.000E+0001  8.500E+0001 
+   17      MJJ   12            P35 UNI  7.000E+0001  8.500E+0001  9.000E+0001 
+   17      MJJ   13            P36 UNI  7.000E+0001  9.000E+0001  9.800E+0001 
+   17      MJJ   14            P37 UNI  1.000E+0000  5.000E+0000  1.000E+0001 
+   17      MJJ   15            P38 UNI  1.000E+0000  5.000E+0000  7.000E+0000 
+   17      MJJ   16            P39 UNI  1.000E+0000  5.000E+0000  1.000E+0001 
+   17      MJJ   17            P40 UNI  5.000E+0000  1.000E+0001  2.500E+0001 
+   17      MJJ   18            P41 UNI  5.000E+0000  1.000E+0001  2.500E+0001 
+   17      MJJ   19            P42 UNI  1.000E+0001  2.000E+0001  3.000E+0001 
+   17      MJJ   20            P43 UNI  1.000E+0001  2.500E+0001  5.000E+0001 
+   17      MJJ   21            P44 UNI  1.000E+0001  2.000E+0001  5.000E+0001 
+   17      MJJ   22            P45 UNI  4.000E+0001  6.000E+0001  8.000E+0001 
+   17      MJJ   23            P46 UNI  1.500E+0001  3.000E+0001  5.000E+0001 
